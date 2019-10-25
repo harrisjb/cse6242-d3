@@ -1,0 +1,191 @@
+county_id,state,county,2006
+04013,AZ,Maricopa,3457
+04019,AZ,Pima,995
+06029,CA,Kern,623
+06037,CA,Los Angeles,4287
+06059,CA,Orange,1833
+06065,CA,Riverside,1374
+06067,CA,Sacramento,1355
+06073,CA,San Diego,2230
+06075,CA,San Francisco,956
+08031,CO,Denver,789
+11001,DC,District of C,136
+12011,FL,Broward,1624
+12031,FL,Duval,699
+12057,FL,Hillsborough,1389
+12086,FL,Miami-Dade,693
+12099,FL,Palm Beach,1396
+12103,FL,Pinellas,1456
+12127,FL,Volusia,207
+17031,IL,Cook,3465
+24005,MD,Baltimore,651
+24510,MD,Baltimo,1113
+25025,MA,Suffolk,444
+25027,MA,Worcester,339
+26099,MI,Macomb,1054
+26163,MI,Wayne,1756
+29189,MO,St. Louis,533
+32003,NV,Clark,2358
+34007,NJ,Camden,369
+34013,NJ,Essex,101
+35001,NM,Bernalillo,1129
+36005,NY,Bronx,841
+36047,NY,Kings,1228
+36059,NY,Nassau,710
+36061,NY,New York,804
+36081,NY,Queens,697
+36103,NY,Suffolk,1230
+39035,OH,Cuyahoga,1096
+39049,OH,Franklin,1186
+39061,OH,Hamilton,622
+39113,OH,Montgomery,710
+40143,OK,Tulsa,566
+41051,OR,Multnomah,681
+42003,PA,Allegheny,1294
+42101,PA,Philadelphia,2419
+47037,TN,Davidson,214
+47093,TN,Knox,210
+47157,TN,Shelby,420
+48029,TX,Bexar,1004
+48113,TX,Dallas,1339
+48201,TX,Harris,2337
+48439,TX,Tarrant,739
+49035,UT,Salt Lake,1282
+53033,WA,King,1490
+55079,WI,Milwaukee,1083
+06001,CA,Alameda,877
+12009,FL,Brevard,455
+25017,MA,Middlesex,899
+06019,CA,Fresno,231
+06077,CA,San Joaquin,374
+09003,CT,Hartford,318
+09009,CT,New Haven,472
+17197,IL,Will,64
+25005,MA,Bristol,296
+25009,MA,Essex,291
+25023,MA,Plymouth,33
+26125,MI,Oakland,149
+36119,NY,Westchester,128
+40109,OK,Oklahoma,594
+41029,OR,Jackson,11
+53063,WA,Spokane,259
+06111,CA,Ventura,217
+13067,GA,Cobb,34
+20173,KS,Sedgwick,62
+22051,LA,Jefferson,264
+27053,MN,Hennepin,340
+42045,PA,Delaware,528
+44007,RI,Providence,350
+48453,TX,Travis,480
+49049,UT,Utah,109
+53053,WA,Pierce,491
+06013,CA,Contra Costa,388
+08041,CO,El Paso,185
+09001,CT,Fairfield,124
+12071,FL,Lee,172
+12101,FL,Pasco,619
+13121,GA,Fulton,269
+18097,IN,Marion,695
+24003,MD,Anne Arundel,84
+37081,NC,Guilford,12
+42017,PA,Bucks,297
+45045,SC,Greenville,112
+48141,TX,El Paso,32
+12095,FL,Orange,528
+12105,FL,Polk,222
+17043,IL,DuPage,111
+22103,LA,St. Tammany,31
+29510,MO,St. Lou,53
+34015,NJ,Gloucester,43
+42091,PA,Montgomery,372
+53061,WA,Snohomish,532
+06071,CA,San Bernardino,400
+06085,CA,Santa Clara,517
+06099,CA,Stanislaus,93
+08001,CO,Adams,155
+12115,FL,Sarasota,89
+25021,MA,Norfolk,101
+29095,MO,Jackson,221
+06097,CA,Sonoma,29
+21111,KY,Jefferson,410
+48339,TX,Montgomery,20
+39017,OH,Butler,102
+01073,AL,Jefferson,148
+17097,IL,Lake,112
+37119,NC,Mecklenburg,31
+15003,HI,Honolulu,242
+29077,MO,Greene,44
+45083,SC,Spartanburg,33
+34003,NJ,Bergen,76
+51059,VA,Fairfax,30
+08005,CO,Arapahoe,151
+39095,OH,Lucas,83
+12111,FL,St. Lucie,10
+22019,LA,Calcasieu,11
+36055,NY,Monroe,42
+32031,NV,Washoe,216
+24031,MD,Montgomery,12
+25013,MA,Hampden,66
+34023,NJ,Middlesex,53
+34025,NJ,Monmouth,84
+42129,PA,Westmoreland,87
+48167,TX,Galveston,11
+12081,FL,Manatee,57
+37183,NC,Wake,43
+39155,OH,Trumbull,22
+53011,WA,Clark,20
+36029,NY,Erie,165
+10003,DE,New Castle,87
+48355,TX,Nueces,34
+01097,AL,Mobile,43
+02020,AK,Anchorage ,11
+54039,WV,Kanawha,21
+26049,MI,Genesee,135
+42077,PA,Lehigh,11
+06081,CA,San Mateo,11
+15001,HI,Hawaii,10
+17201,IL,Winnebago,21
+06007,CA,Butte,32
+42079,PA,Luzerne,30
+08069,CO,Larimer,20
+39153,OH,Summit,74
+06083,CA,Santa Barbara,10
+12117,FL,Seminole,22
+41039,OR,Lane,11
+42011,PA,Berks,20
+48085,TX,Collin,10
+12021,FL,Collier,10
+34039,NJ,Union,0
+47155,TN,Sevier,0
+55025,WI,Dane,0
+17119,IL,Madison,0
+06089,CA,Shasta,0
+34029,NJ,Ocean,117
+36085,NY,Richmond,71
+04015,AZ,Mohave,0
+06023,CA,Humboldt,0
+42029,PA,Chester,31
+55133,WI,Waukesha,0
+12017,FL,Citrus,0
+21117,KY,Kenton,0
+33015,NH,Rockingham,10
+24033,MD,Prince George's,20
+27123,MN,Ramsey,20
+04025,AZ,Yavapai,20
+49057,UT,Weber,10
+08059,CO,Jefferson,10
+26081,MI,Kent,21
+06087,CA,Santa Cruz,21
+06095,CA,Solano,10
+19153,IA,Polk,22
+34005,NJ,Burlington,40
+44003,RI,Kent,12
+29099,MO,Jefferson,30
+18163,IN,Vanderburgh,11
+34001,NJ,Atlantic,11
+49011,UT,Davis,20
+39099,OH,Mahoning,10
+22071,LA,Orleans,11
+48121,TX,Denton,10
+34017,NJ,Hudson,13
+21037,KY,Campbell,10
