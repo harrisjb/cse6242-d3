@@ -16,6 +16,10 @@ To install a development environment see EC2_README.md for more details.
 To run the application in development execute `./run.sh` in the website directory.
  
 This  will start a server and it will be available on the local host at port 9000
-  `http://127.0.0.1:9000`  
- 
+  `http://127.0.0.1:9000`
+
+### Lifetrackr - Free Responsive Bootstrap App Landing Page Template
+https://themewagon.com/themes/lifetracker-free-responsive-bootstrap-app-landing-page-template/
+
+The website is based upon a decompsition of the Lifetrackr template
   
