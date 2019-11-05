@@ -92,11 +92,11 @@
     var path = d3.geoPath().projection(projection);
 
     //DPH FIX ME Set this later
-    max_pills = 400;
-    min_pills = 100;
+    max_pills = 1000000;
+    min_pills = 1000;
     var promises = [
         d3.json("./data/counties-10m.json"),
-        d3.csv("./data/deaths_by_county.csv", function (d) {
+        d3.csv("./data/population_by_county.csv", function (d) {
             pillsMap[d.county_id]=[+d[2006],+d[2007],+d[2008],+d[2009],+d[2010],+d[2011],+d[2012]];
         })
     ];

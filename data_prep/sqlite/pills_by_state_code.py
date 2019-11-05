@@ -80,7 +80,7 @@ def get_pills_for_state_year(data_by_state, row_dict_key, year):
     try:
         ret_val = data_by_state[row_dict_key][year]
     except:
-        print("Exception {} {}".format(row_dict_key, year))
+        print("No Data for {} in {}".format(row_dict_key, year))
 
     return ret_val
 

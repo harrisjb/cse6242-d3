@@ -8,6 +8,12 @@
     <style>
         .states {
             fill: none;
+            stroke: #000;
+            stroke-linejoin: round;
+        }
+
+        .counties {
+            fill: none;
             stroke: #fff;
             stroke-linejoin: round;
         }
@@ -128,7 +134,7 @@
             .range([0, 8]);
 
         svg_s5.append("g")
-            .attr("class", "states")
+            .attr("class", "counties")
             .selectAll("path")
             .data(topojson.feature(us, us.objects.counties).features)
             .enter()
@@ -153,6 +159,12 @@
                 return colorScheme_s5[log];
             })
             .attr("d", path);
+
+        svg_s5.append("path")
+            .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
+            .attr("class", "states")			//Mesh state boundaries to prevent duplicate paths for borders
+            .attr("d", path);
+
     }
 
     var grid_size = 30;

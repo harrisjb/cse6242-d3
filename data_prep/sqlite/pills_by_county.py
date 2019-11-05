@@ -75,14 +75,14 @@ def get_county_id(counties, row_dict_key):
 
     # VA Counties have CITY tacked to the end of there County Name
     # So we just drop that so it will map with topojson
-    county_nm = row_dict_key.replace(" CITY", "")
+    row_dict_key = row_dict_key.replace(" CITY", "")
 
     if row_dict_key[0:2] in exclude:
-        print("Excluding {}".format(row_dict_key))
+        # print("Excluding {}".format(row_dict_key))
         return ret_val
     #if the county field is null we drop it
     elif (row_dict_key.find('-NULL') != -1):
-        print("Excluding {}".format(row_dict_key))
+        # print("Excluding {}".format(row_dict_key))
         return ret_val
     else:
         try:
@@ -91,7 +91,7 @@ def get_county_id(counties, row_dict_key):
             #print(county_id)
             ret_val = (True, county_id)
         except:
-            print("Exception {}".format(row_dict_key))
+            print("Exception [{}]".format(row_dict_key))
 
     return ret_val
 
