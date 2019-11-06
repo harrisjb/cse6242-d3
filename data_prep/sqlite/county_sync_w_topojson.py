@@ -30,8 +30,12 @@ TX,    DE WITT
 VA,    JAMES
 
 '''
-SQLITE_PILLS_DB = '/mnt/data1/Data/opioid_data/pills.db'
-COUNTIES_FROM_PILLS_DB='./counties_from_pills_db.csv'
+SQLITE_ARCOS_DB = '/mnt/data1/Data/opioid_data/pills.db'
+BUYER_COUNTIES= './data/arcos_buyer_counties.csv'
+REPORTER_COUNTIES= './data/arcos_reporter_counties.csv'
+BUYER_COUNTY_CODES= './data/arcos_buyer_county_codes.csv'
+REPORTER_COUNTY_CODES= './data/arcos_reporter_county_codes.csv'
+
 COUNTIES_10M='../topojson/counties-10m.csv'
 
 
@@ -55,44 +59,70 @@ def load_counties_topojson():
     return counties
 
 
+def load_buyer_counties():
+    if not os.path.exists(BUYER_COUNTIES):
+        get_arcos_counties('SELECT BUYER_STATE, BUYER_COUNTY FROM pills GROUP BY BUYER_STATE, BUYER_COUNTY',
+                           BUYER_COUNTIES)
+    return load_arcos_counties(BUYER_COUNTIES)
 
-def load_counties_pills_db():
-    counties = []
-    if not os.path.exists(COUNTIES_FROM_PILLS_DB):
-        get_buyer_counties()
+def load_reporter_counties():
+    if not os.path.exists(REPORTER_COUNTIES):
+        get_arcos_counties('SELECT REPORTER_STATE, REPORTER_COUNTY FROM pills GROUP BY REPORTER_STATE, REPORTER_COUNTY',REPORTER_COUNTIES)
+    return load_arcos_counties(REPORTER_COUNTIES)
 
-    with open(COUNTIES_FROM_PILLS_DB) as csv_file:
+def load_arcos_counties(file_nm):
+    counties = {}
+
+    with open(file_nm) as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         for row in csv_reader:
             state_cd = row[0]
             county_nm = row[1]
-            #if 'VA' == state_cd:
+            # Remove counties prefix of CITY
             county_nm = county_nm.replace(" CITY","")
+            # Codes to Ignore
+            # AS,American Samoa
+            # GU,Guam
+            # MP,Commonwealth of the Northern Mariana Islands
+            # PR,Puerto Rico
+            # VI,United States Virgin Islands
+            # AE Armed forces in Europe
+            # PW ????
             if state_cd in ['PR','PW','AE','MP']:
                 pass
             elif county_nm == 'null':
                 pass
             else:
-                counties.append([state_cd,county_nm])
+                key = "{}-{}".format(state_cd, county_nm)
+                counties[key]=[row[0],row[1]]
 
     return counties
 
-def check_if_county_topojson(topojson,pills_db):
-    for county in pills_db:
-        key = "{}-{}".format(county[0], county[1])
-        if key not in topojson:
-            print("key not found {}".format(key))
+def map_to_county_topojson(topojson, arcos_counties, file_nm):
+    with open(file_nm, mode='w') as csv_file:
+        csv_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        csv_writer.writerow(['Sate', 'County', 'County_Code'])
+        for county_key in arcos_counties.keys():
+            arcos_county = arcos_counties[county_key]
+            state_cd = arcos_county[0]
+            county_name = arcos_county[1]
+            if county_key in topojson:
+                county_code = topojson[county_key]
+                csv_writer.writerow([state_cd, county_name, county_code])
+            else:
+                print("key not found {}".format(county_key))
 
-#Create a csv file with ALL the States and County Names from the pills BD
-def get_buyer_counties():
-    connection = sqlite3.connect(SQLITE_PILLS_DB)
+
+#Create a csv file with ALL the States and County Names from the arcos BD by seller or buyer
+def get_arcos_counties(sql,file_nm):
+    connection = sqlite3.connect(SQLITE_ARCOS_DB)
     counties =[]
     cursor = connection.cursor()
-    cursor.execute('SELECT BUYER_STATE, BUYER_COUNTY FROM pills GROUP BY BUYER_STATE, BUYER_COUNTY')
+    cursor.execute(sql)
     for row in cursor:
         counties.append([row[0],row[1]])
 
-    with open(COUNTIES_FROM_PILLS_DB, mode='w') as csv_file:
+    with open(file_nm, mode='w') as csv_file:
         csv_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         for county in counties:
             state_cd = county[0]
@@ -102,5 +132,7 @@ def get_buyer_counties():
 
 if __name__ == '__main__':
     topojson = load_counties_topojson()
-    pills_db = load_counties_pills_db()
-    check_if_county_topojson(topojson, pills_db)
+    reporter_counties = load_reporter_counties()
+    map_to_county_topojson(topojson, reporter_counties, REPORTER_COUNTY_CODES)
+    buyer_counties = load_buyer_counties()
+    map_to_county_topojson(topojson, buyer_counties,BUYER_COUNTY_CODES)
