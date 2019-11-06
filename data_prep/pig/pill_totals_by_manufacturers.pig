@@ -1,3 +1,7 @@
+-- ------------------------ --
+-- CURRENTLY NOT BEING USED --
+-- ------------------------ --
+
 pills = LOAD  '/mnt/data1/Data/opioid_data/arcos_all_washpost.tsv' AS(
     REPORTER_DEA_NO:chararray,
     REPORTER_BUS_ACT:chararray,

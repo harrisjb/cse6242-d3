@@ -88,7 +88,7 @@ def load_arcos_counties(file_nm):
             # VI,United States Virgin Islands
             # AE Armed forces in Europe
             # PW ????
-            if state_cd in ['PR','PW','AE','MP']:
+            if state_cd in ['PW','AE','MP']:
                 pass
             elif county_nm == 'null':
                 pass
@@ -101,7 +101,7 @@ def load_arcos_counties(file_nm):
 def map_to_county_topojson(topojson, arcos_counties, file_nm):
     with open(file_nm, mode='w') as csv_file:
         csv_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        csv_writer.writerow(['Sate', 'County', 'County_Code'])
+        csv_writer.writerow(['State', 'County', 'County_Code'])
         for county_key in arcos_counties.keys():
             arcos_county = arcos_counties[county_key]
             state_cd = arcos_county[0]
@@ -111,7 +111,50 @@ def map_to_county_topojson(topojson, arcos_counties, file_nm):
                 csv_writer.writerow([state_cd, county_name, county_code])
             else:
                 print("key not found {}".format(county_key))
+        for manual_map in get_manual_map():
+            csv_writer.writerow([manual_map[0], manual_map[1], manual_map[2]])
 
+def get_manual_map():
+    manual_map=[
+        ('AL','DE KALB','01049'),
+        ('FL','DE SOTO','12027'),
+        ('FL','MIAMI-DADE','12086'),
+        ('IL','DEWITT','17039'),
+        ('IL','LA SALLE','17099'),
+        ('IN','DE KALB','18033'),
+        ('IN','LA PORTE','18091'),
+        ('IN','ST JOSEPH','18141'),
+        ('LA','LA SALLE','22059'),
+        ('LA','ST JOHN THE BAPTIST','22095'),
+        ('MD','BALTIMORE','24005'),
+        ('MO','SAINT LOUIS','29189'),
+        ('MO','SAINTE GENEVIEVE','29186'),
+        ('NM','DONA ANA','35013'),
+        ('NV','CARSON CITY','32510'),
+        ('PR','ANASCO','72011'),
+        ('PR','BAYAMON','72021'),
+        ('PR','CANOVANAS','72029'),
+        ('PR','CATANO','72033'),
+        ('PR','COMERIO','72045'),
+        ('PR','GUANICA','72055'),
+        ('PR','JUANA DIAZ','72075'),
+        ('PR','LAS MARIAS','72083'),
+        ('PR','LOIZA','72087'),
+        ('PR','MANATI','72091'),
+        ('PR','MAYAGUEZ','72097'),
+        ('PR','PENUELAS','72111'),
+        ('PR','RINCON','72117'),
+        ('PR','RIO GRANDE','72119'),
+        ('PR','SAN GERMAN','72125'),
+        ('PR','SAN SEBASTIAN','72131'),
+        ('TX','DE WITT','48123'),
+        ('VA','FAIRFAX','51059'),
+        ('VA','FRANKLIN','51067'),
+        ('VA','JAMES CITY','51095'),
+        ('VA','RICHMOND','51159'),
+        ('VA','ROANOKE','51161')
+        ]
+    return manual_map
 
 #Create a csv file with ALL the States and County Names from the arcos BD by seller or buyer
 def get_arcos_counties(sql,file_nm):
