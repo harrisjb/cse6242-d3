@@ -4,39 +4,14 @@ import os
 import random
 
 #########################################################
-'''
-After preprocessing the data we have 15 County Names that
-do not Match with the topojason file. 
 
-We are correctly mapping 99.52% 
-
-This could be rectified with a Custom Mapper but this has not been written
-
-State, County 
-AL,    DE KALB
-FL,    DE SOTO
-FL,    MIAMI-DADE
-IL,    DEWITT
-IL,    LA SALLE
-IN,    DE KALB
-IN,    LA PORTE
-IN,    ST JOSEPH
-LA,    LA SALLE
-LA,    ST JOHN THE BAPTIST
-MO,    SAINTE GENEVIEVE
-NM,    DONA ANA
-NV,    CARSON
-TX,    DE WITT
-VA,    JAMES
-
-'''
 SQLITE_ARCOS_DB = '/mnt/data1/Data/opioid_data/pills.db'
 BUYER_COUNTIES= './data/arcos_buyer_counties.csv'
 REPORTER_COUNTIES= './data/arcos_reporter_counties.csv'
 BUYER_COUNTY_CODES= './data/arcos_buyer_county_codes.csv'
 REPORTER_COUNTY_CODES= './data/arcos_reporter_county_codes.csv'
 
-COUNTIES_10M='../topojson/counties-10m.csv'
+COUNTIES_10M='../data/topojson/counties-10m.csv'
 
 
 # Create a Dictionary of counties keyed by State CODE County Name

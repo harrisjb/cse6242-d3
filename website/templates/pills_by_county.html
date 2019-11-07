@@ -1,7 +1,7 @@
 <section class="section cta-subscribe" id="slide5a">
     <div class="section-title">
         <h2>Pills Sold by County</h2>
-        <p>This does <b>not consider population</b> it is just RAW pill count by county!</p>
+        <p>Pills per person per year</p>
     </div>
 	<div class="container">
 
@@ -76,8 +76,8 @@
         .offset([-8, 0])
         .html(function (d) {
             county = d.properties['name'];
-            county_id = d['id'];
-            count = pills[county_id];
+            county_cd = d['id'];
+            count = pills[county_cd];
             return "County: " + county + "<br/>Pills: " + numberWithCommas(count);
         });
 
@@ -100,12 +100,12 @@
     var path = d3.geoPath().projection(projection);
 
     //DPH FIX ME Set this later
-    var max_pills_s5 = 400000;
-    var min_pills_s5 = 100;
+    var max_pills_s5 = 425;
+    var min_pills_s5 = 1;
     var promises = [
         d3.json("./data/counties-10m.json"),
-        d3.csv("./data/pills_by_county.csv", function (d) {
-            pillsMap[d.county_id]=[+d[2006],+d[2007],+d[2008],+d[2009],+d[2010],+d[2011],+d[2012]];
+        d3.csv("./data/pills_sold_by_county_and_years.csv", function (d) {
+            pillsMap[d.County_cd]=[+d[2006],+d[2007],+d[2008],+d[2009],+d[2010],+d[2011],+d[2012]];
         })
     ];
 
@@ -172,7 +172,7 @@
     var legend = svg_s5.append("g")
         .attr("transform", "translate(" + (width + margin.left + margin.right) + "," + margin.top + ")")
         .selectAll(".legend")
-        .data([1, 5, 10, 50, 100, 500, 1000, 2000, 10000])
+        .data([0, 5, 10, 20, 50, 75, 100, 125, 150])
         .enter();
 
     legend.append("rect")
@@ -189,6 +189,10 @@
     legend.append("text")
         .attr("class", "mono")
         .text(function (d) {
+            // Hack fix later
+            if (d == 150) {
+                return '150+'
+            }
             return d3.format(",")(d)
         })
         .attr("x", 40)

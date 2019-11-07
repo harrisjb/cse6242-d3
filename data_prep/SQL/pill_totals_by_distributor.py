@@ -48,7 +48,7 @@ def get_total_pills_sold_by_distributor():
         percent = '{}%'.format(round(float(row[1]) / total_pills * 100, 1))
         pretty_rows.append((row[0], pills, percent))
 
-    with open('./pill_totals_by_distributor_o.tsv', mode='w') as csv_file:
+    with open('./data/pill_totals_by_distributor_o.tsv', mode='w') as csv_file:
         pills_writer = csv.writer(csv_file, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         # Header for CSV
         pills_writer.writerow(['distributor', 'total_count', 'percentage'])

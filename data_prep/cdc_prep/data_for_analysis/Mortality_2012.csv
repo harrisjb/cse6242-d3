@@ -1,4 +1,4 @@
-County_Code,Deaths,Population,State,County_nm
+County_cd,Deaths,Population,State,County_nm
 01001,-1,55027,AL,Autauga
 01003,34,190403,AL,Baldwin
 01005,-1,27132,AL,Barbour

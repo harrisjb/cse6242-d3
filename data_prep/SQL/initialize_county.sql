@@ -15,7 +15,7 @@ CREATE TABLE county (
  );
 
 .separator ","
-.import ./arcos_buyer_county_codes.csv county
+.import ./data/arcos_buyer_county_codes.csv county
 .schema county
 
 create view pills_county as
@@ -26,7 +26,10 @@ create view pills_county as
       c.county = a.buyer_county;
 
 
+-- Test the results --
 select buyer_state, buyer_county, count(buyer_state)
     from pills_county
     where county_code is null
     group by buyer_state, buyer_county;
+
+

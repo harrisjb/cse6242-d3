@@ -49,7 +49,7 @@ def get_total_pills_sold_for_each_county_by_year():
 
 # Write the data in a format acceptable by the d3js script
 def write_total_pills_sold_for_each_county_by_year(data_by_county, counties):
-    with open('pills_by_county.csv', mode='w') as csv_file:
+    with open('./data/pills_by_county_and_year.csv', mode='w') as csv_file:
         pills_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         #Header for CSV
         pills_writer.writerow(['county_id', 2006, 2007, 2008, 2009, 2010, 2011, 2012])
