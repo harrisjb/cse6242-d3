@@ -2,6 +2,8 @@
 
 https://wonder.cdc.gov/cmf-icd10.html
 
+https://wonder.cdc.gov/controller/datarequest/D77
+
 "MCD - ICD-10 Codes:
 
 X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics (X40))

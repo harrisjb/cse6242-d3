@@ -1,0 +1,719 @@
+"Notes"	"Year"	"Year Code"	"Month"	"Month Code"	"County"	"County Code"	Deaths	Population	Crude Rate
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Maricopa County, AZ"	"04013"	47	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Pima County, AZ"	"04019"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Alameda County, CA"	"06001"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Los Angeles County, CA"	"06037"	65	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Orange County, CA"	"06059"	23	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Riverside County, CA"	"06065"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Sacramento County, CA"	"06067"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"San Diego County, CA"	"06073"	35	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"San Francisco County, CA"	"06075"	25	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Santa Clara County, CA"	"06085"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Hartford County, CT"	"09003"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Broward County, FL"	"12011"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Duval County, FL"	"12031"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Hillsborough County, FL"	"12057"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Miami-Dade County, FL"	"12086"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Palm Beach County, FL"	"12099"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Pinellas County, FL"	"12103"	22	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Cook County, IL"	"17031"	39	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Baltimore city, MD"	"24510"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Essex County, MA"	"25009"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Middlesex County, MA"	"25017"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Suffolk County, MA"	"25025"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Worcester County, MA"	"25027"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Macomb County, MI"	"26099"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Wayne County, MI"	"26163"	26	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Greene County, MO"	"29077"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Clark County, NV"	"32003"	22	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Bergen County, NJ"	"34003"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Camden County, NJ"	"34007"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Bernalillo County, NM"	"35001"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Bronx County, NY"	"36005"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Kings County, NY"	"36047"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"New York County, NY"	"36061"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Queens County, NY"	"36081"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Suffolk County, NY"	"36103"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Cuyahoga County, OH"	"39035"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Franklin County, OH"	"39049"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Montgomery County, OH"	"39113"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Oklahoma County, OK"	"40109"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Tulsa County, OK"	"40143"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Multnomah County, OR"	"41051"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Bucks County, PA"	"42017"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Delaware County, PA"	"42045"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Philadelphia County, PA"	"42101"	26	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Greenville County, SC"	"45045"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Davidson County, TN"	"47037"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Shelby County, TN"	"47157"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Bexar County, TX"	"48029"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Dallas County, TX"	"48113"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Harris County, TX"	"48201"	36	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Salt Lake County, UT"	"49035"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Fairfax County, VA"	"51059"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"King County, WA"	"53033"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Pierce County, WA"	"53053"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Milwaukee County, WI"	"55079"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Maricopa County, AZ"	"04013"	40	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Pima County, AZ"	"04019"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Alameda County, CA"	"06001"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Fresno County, CA"	"06019"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Los Angeles County, CA"	"06037"	52	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Orange County, CA"	"06059"	27	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Riverside County, CA"	"06065"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Sacramento County, CA"	"06067"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"San Diego County, CA"	"06073"	28	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"San Francisco County, CA"	"06075"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Santa Clara County, CA"	"06085"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Adams County, CO"	"08001"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Denver County, CO"	"08031"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"New Haven County, CT"	"09009"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"District of Columbia, DC"	"11001"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Broward County, FL"	"12011"	23	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Duval County, FL"	"12031"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Hillsborough County, FL"	"12057"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Miami-Dade County, FL"	"12086"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Palm Beach County, FL"	"12099"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Pasco County, FL"	"12101"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Pinellas County, FL"	"12103"	28	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Fulton County, GA"	"13121"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Cook County, IL"	"17031"	27	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Marion County, IN"	"18097"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Baltimore city, MD"	"24510"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Essex County, MA"	"25009"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Middlesex County, MA"	"25017"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Plymouth County, MA"	"25023"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Suffolk County, MA"	"25025"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Macomb County, MI"	"26099"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Wayne County, MI"	"26163"	24	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Greene County, MO"	"29077"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Clark County, NV"	"32003"	31	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Bernalillo County, NM"	"35001"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Bronx County, NY"	"36005"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Kings County, NY"	"36047"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"New York County, NY"	"36061"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Queens County, NY"	"36081"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Suffolk County, NY"	"36103"	23	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Cuyahoga County, OH"	"39035"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Franklin County, OH"	"39049"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Hamilton County, OH"	"39061"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Montgomery County, OH"	"39113"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Oklahoma County, OK"	"40109"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Tulsa County, OK"	"40143"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Multnomah County, OR"	"41051"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Allegheny County, PA"	"42003"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Philadelphia County, PA"	"42101"	36	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Davidson County, TN"	"47037"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Knox County, TN"	"47093"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Shelby County, TN"	"47157"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Dallas County, TX"	"48113"	22	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Harris County, TX"	"48201"	43	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Tarrant County, TX"	"48439"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Salt Lake County, UT"	"49035"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"King County, WA"	"53033"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Milwaukee County, WI"	"55079"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Jefferson County, AL"	"01073"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Maricopa County, AZ"	"04013"	50	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Alameda County, CA"	"06001"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Contra Costa County, CA"	"06013"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Fresno County, CA"	"06019"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Kern County, CA"	"06029"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Los Angeles County, CA"	"06037"	65	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Orange County, CA"	"06059"	27	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Riverside County, CA"	"06065"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Sacramento County, CA"	"06067"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"San Diego County, CA"	"06073"	26	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"San Francisco County, CA"	"06075"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"San Joaquin County, CA"	"06077"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Santa Clara County, CA"	"06085"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Arapahoe County, CO"	"08005"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Denver County, CO"	"08031"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Fairfield County, CT"	"09001"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Hartford County, CT"	"09003"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"New Haven County, CT"	"09009"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Brevard County, FL"	"12009"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Broward County, FL"	"12011"	22	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Duval County, FL"	"12031"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Hillsborough County, FL"	"12057"	29	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Miami-Dade County, FL"	"12086"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Palm Beach County, FL"	"12099"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Pasco County, FL"	"12101"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Pinellas County, FL"	"12103"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Volusia County, FL"	"12127"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Honolulu County, HI"	"15003"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Cook County, IL"	"17031"	51	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Marion County, IN"	"18097"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Jefferson County, KY"	"21111"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Baltimore County, MD"	"24005"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Baltimore city, MD"	"24510"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Bristol County, MA"	"25005"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Middlesex County, MA"	"25017"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Suffolk County, MA"	"25025"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Worcester County, MA"	"25027"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Macomb County, MI"	"26099"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Wayne County, MI"	"26163"	36	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Hennepin County, MN"	"27053"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Greene County, MO"	"29077"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Clark County, NV"	"32003"	31	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Camden County, NJ"	"34007"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Bernalillo County, NM"	"35001"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Kings County, NY"	"36047"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Nassau County, NY"	"36059"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"New York County, NY"	"36061"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Queens County, NY"	"36081"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Suffolk County, NY"	"36103"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Cuyahoga County, OH"	"39035"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Franklin County, OH"	"39049"	22	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Lucas County, OH"	"39095"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Montgomery County, OH"	"39113"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Tulsa County, OK"	"40143"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Multnomah County, OR"	"41051"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Allegheny County, PA"	"42003"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Delaware County, PA"	"42045"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Montgomery County, PA"	"42091"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Philadelphia County, PA"	"42101"	28	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Bexar County, TX"	"48029"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Dallas County, TX"	"48113"	23	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Harris County, TX"	"48201"	42	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Tarrant County, TX"	"48439"	22	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Salt Lake County, UT"	"49035"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"King County, WA"	"53033"	31	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Pierce County, WA"	"53053"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Snohomish County, WA"	"53061"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Milwaukee County, WI"	"55079"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Jefferson County, AL"	"01073"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Maricopa County, AZ"	"04013"	52	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Pima County, AZ"	"04019"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Alameda County, CA"	"06001"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Kern County, CA"	"06029"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Los Angeles County, CA"	"06037"	50	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Orange County, CA"	"06059"	26	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Riverside County, CA"	"06065"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Sacramento County, CA"	"06067"	22	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"San Diego County, CA"	"06073"	36	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"San Francisco County, CA"	"06075"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"San Joaquin County, CA"	"06077"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Santa Clara County, CA"	"06085"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Arapahoe County, CO"	"08005"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Denver County, CO"	"08031"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"El Paso County, CO"	"08041"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Hartford County, CT"	"09003"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Broward County, FL"	"12011"	22	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Duval County, FL"	"12031"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Hillsborough County, FL"	"12057"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Lee County, FL"	"12071"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Miami-Dade County, FL"	"12086"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Orange County, FL"	"12095"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Palm Beach County, FL"	"12099"	22	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Pinellas County, FL"	"12103"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"St. Lucie County, FL"	"12111"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Cook County, IL"	"17031"	47	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Calcasieu Parish, LA"	"22019"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Jefferson Parish, LA"	"22051"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Baltimore County, MD"	"24005"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Baltimore city, MD"	"24510"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Bristol County, MA"	"25005"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Essex County, MA"	"25009"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Middlesex County, MA"	"25017"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Norfolk County, MA"	"25021"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Worcester County, MA"	"25027"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Macomb County, MI"	"26099"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Wayne County, MI"	"26163"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Clark County, NV"	"32003"	29	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Camden County, NJ"	"34007"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Bernalillo County, NM"	"35001"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Bronx County, NY"	"36005"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Kings County, NY"	"36047"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Monroe County, NY"	"36055"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Nassau County, NY"	"36059"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"New York County, NY"	"36061"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Queens County, NY"	"36081"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Suffolk County, NY"	"36103"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Cuyahoga County, OH"	"39035"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Franklin County, OH"	"39049"	22	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Hamilton County, OH"	"39061"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Montgomery County, OH"	"39113"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Tulsa County, OK"	"40143"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Allegheny County, PA"	"42003"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Delaware County, PA"	"42045"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Philadelphia County, PA"	"42101"	25	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Bexar County, TX"	"48029"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Dallas County, TX"	"48113"	23	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Harris County, TX"	"48201"	45	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Tarrant County, TX"	"48439"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Travis County, TX"	"48453"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Salt Lake County, UT"	"49035"	26	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"King County, WA"	"53033"	25	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Spokane County, WA"	"53063"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Milwaukee County, WI"	"55079"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Maricopa County, AZ"	"04013"	42	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Pima County, AZ"	"04019"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Alameda County, CA"	"06001"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Kern County, CA"	"06029"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Los Angeles County, CA"	"06037"	61	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Orange County, CA"	"06059"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Riverside County, CA"	"06065"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Sacramento County, CA"	"06067"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"San Diego County, CA"	"06073"	43	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"San Francisco County, CA"	"06075"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Santa Clara County, CA"	"06085"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Stanislaus County, CA"	"06099"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Adams County, CO"	"08001"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Hartford County, CT"	"09003"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"New Haven County, CT"	"09009"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Broward County, FL"	"12011"	24	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Duval County, FL"	"12031"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Hillsborough County, FL"	"12057"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Miami-Dade County, FL"	"12086"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Palm Beach County, FL"	"12099"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Pasco County, FL"	"12101"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Pinellas County, FL"	"12103"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Honolulu County, HI"	"15003"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Cook County, IL"	"17031"	36	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Marion County, IN"	"18097"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Baltimore city, MD"	"24510"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Middlesex County, MA"	"25017"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Suffolk County, MA"	"25025"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Macomb County, MI"	"26099"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Wayne County, MI"	"26163"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Jackson County, MO"	"29095"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Clark County, NV"	"32003"	40	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Washoe County, NV"	"32031"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Bernalillo County, NM"	"35001"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Bronx County, NY"	"36005"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Kings County, NY"	"36047"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"New York County, NY"	"36061"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Queens County, NY"	"36081"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Suffolk County, NY"	"36103"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Cuyahoga County, OH"	"39035"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Franklin County, OH"	"39049"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Montgomery County, OH"	"39113"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Oklahoma County, OK"	"40109"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Tulsa County, OK"	"40143"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Multnomah County, OR"	"41051"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Allegheny County, PA"	"42003"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Philadelphia County, PA"	"42101"	39	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Knox County, TN"	"47093"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Shelby County, TN"	"47157"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Bexar County, TX"	"48029"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Dallas County, TX"	"48113"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Harris County, TX"	"48201"	29	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Salt Lake County, UT"	"49035"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Utah County, UT"	"49049"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"King County, WA"	"53033"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Pierce County, WA"	"53053"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Snohomish County, WA"	"53061"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Milwaukee County, WI"	"55079"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Jefferson County, AL"	"01073"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Maricopa County, AZ"	"04013"	52	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Pima County, AZ"	"04019"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Alameda County, CA"	"06001"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Los Angeles County, CA"	"06037"	58	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Orange County, CA"	"06059"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Riverside County, CA"	"06065"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Sacramento County, CA"	"06067"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"San Diego County, CA"	"06073"	30	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"San Francisco County, CA"	"06075"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"San Joaquin County, CA"	"06077"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Santa Clara County, CA"	"06085"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Stanislaus County, CA"	"06099"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Denver County, CO"	"08031"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Hartford County, CT"	"09003"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Broward County, FL"	"12011"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Duval County, FL"	"12031"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Hillsborough County, FL"	"12057"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Lee County, FL"	"12071"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Miami-Dade County, FL"	"12086"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Orange County, FL"	"12095"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Palm Beach County, FL"	"12099"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Pasco County, FL"	"12101"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Pinellas County, FL"	"12103"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Sarasota County, FL"	"12115"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Fulton County, GA"	"13121"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Honolulu County, HI"	"15003"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Cook County, IL"	"17031"	32	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Marion County, IN"	"18097"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Jefferson Parish, LA"	"22051"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Baltimore County, MD"	"24005"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Baltimore city, MD"	"24510"	28	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Bristol County, MA"	"25005"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Middlesex County, MA"	"25017"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Worcester County, MA"	"25027"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Macomb County, MI"	"26099"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Wayne County, MI"	"26163"	37	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Jackson County, MO"	"29095"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Clark County, NV"	"32003"	35	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Bergen County, NJ"	"34003"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Essex County, NJ"	"34013"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Bernalillo County, NM"	"35001"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Bronx County, NY"	"36005"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Kings County, NY"	"36047"	26	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Nassau County, NY"	"36059"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Queens County, NY"	"36081"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Suffolk County, NY"	"36103"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Westchester County, NY"	"36119"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Cuyahoga County, OH"	"39035"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Franklin County, OH"	"39049"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Hamilton County, OH"	"39061"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Tulsa County, OK"	"40143"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Multnomah County, OR"	"41051"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Allegheny County, PA"	"42003"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Philadelphia County, PA"	"42101"	26	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Shelby County, TN"	"47157"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Dallas County, TX"	"48113"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Harris County, TX"	"48201"	53	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Tarrant County, TX"	"48439"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Salt Lake County, UT"	"49035"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"King County, WA"	"53033"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Milwaukee County, WI"	"55079"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Maricopa County, AZ"	"04013"	48	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Pima County, AZ"	"04019"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Alameda County, CA"	"06001"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Contra Costa County, CA"	"06013"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Fresno County, CA"	"06019"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Kern County, CA"	"06029"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Los Angeles County, CA"	"06037"	61	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Orange County, CA"	"06059"	25	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Riverside County, CA"	"06065"	23	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Sacramento County, CA"	"06067"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"San Diego County, CA"	"06073"	22	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"San Francisco County, CA"	"06075"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Santa Clara County, CA"	"06085"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Denver County, CO"	"08031"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Hartford County, CT"	"09003"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Broward County, FL"	"12011"	28	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Duval County, FL"	"12031"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Hillsborough County, FL"	"12057"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Palm Beach County, FL"	"12099"	26	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Pinellas County, FL"	"12103"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Polk County, FL"	"12105"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Honolulu County, HI"	"15003"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Cook County, IL"	"17031"	40	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Jefferson County, KY"	"21111"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Jefferson Parish, LA"	"22051"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Baltimore County, MD"	"24005"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Montgomery County, MD"	"24031"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Baltimore city, MD"	"24510"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Essex County, MA"	"25009"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Hampden County, MA"	"25013"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Suffolk County, MA"	"25025"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Macomb County, MI"	"26099"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Wayne County, MI"	"26163"	30	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Clark County, NV"	"32003"	28	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Middlesex County, NJ"	"34023"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Monmouth County, NJ"	"34025"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Bernalillo County, NM"	"35001"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Bronx County, NY"	"36005"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Kings County, NY"	"36047"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Nassau County, NY"	"36059"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"New York County, NY"	"36061"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Queens County, NY"	"36081"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Suffolk County, NY"	"36103"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Westchester County, NY"	"36119"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Franklin County, OH"	"39049"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Oklahoma County, OK"	"40109"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Tulsa County, OK"	"40143"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Multnomah County, OR"	"41051"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Allegheny County, PA"	"42003"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Montgomery County, PA"	"42091"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Philadelphia County, PA"	"42101"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Westmoreland County, PA"	"42129"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Providence County, RI"	"44007"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Shelby County, TN"	"47157"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Bexar County, TX"	"48029"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Dallas County, TX"	"48113"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Galveston County, TX"	"48167"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Harris County, TX"	"48201"	52	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Tarrant County, TX"	"48439"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Salt Lake County, UT"	"49035"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"King County, WA"	"53033"	24	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Spokane County, WA"	"53063"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Milwaukee County, WI"	"55079"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Maricopa County, AZ"	"04013"	55	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Pima County, AZ"	"04019"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Alameda County, CA"	"06001"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Contra Costa County, CA"	"06013"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Los Angeles County, CA"	"06037"	77	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Orange County, CA"	"06059"	25	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Riverside County, CA"	"06065"	24	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Sacramento County, CA"	"06067"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"San Diego County, CA"	"06073"	23	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"San Francisco County, CA"	"06075"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Santa Clara County, CA"	"06085"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Ventura County, CA"	"06111"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Arapahoe County, CO"	"08005"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Denver County, CO"	"08031"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Broward County, FL"	"12011"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Duval County, FL"	"12031"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Hillsborough County, FL"	"12057"	22	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Manatee County, FL"	"12081"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Miami-Dade County, FL"	"12086"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Orange County, FL"	"12095"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Palm Beach County, FL"	"12099"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Pasco County, FL"	"12101"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Fulton County, GA"	"13121"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Cook County, IL"	"17031"	48	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Marion County, IN"	"18097"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Baltimore County, MD"	"24005"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Baltimore city, MD"	"24510"	33	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Middlesex County, MA"	"25017"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Suffolk County, MA"	"25025"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Macomb County, MI"	"26099"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Oakland County, MI"	"26125"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Wayne County, MI"	"26163"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Clark County, NV"	"32003"	36	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Camden County, NJ"	"34007"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Bronx County, NY"	"36005"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Kings County, NY"	"36047"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Nassau County, NY"	"36059"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"New York County, NY"	"36061"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Queens County, NY"	"36081"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Suffolk County, NY"	"36103"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Wake County, NC"	"37183"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Cuyahoga County, OH"	"39035"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Franklin County, OH"	"39049"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Montgomery County, OH"	"39113"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Oklahoma County, OK"	"40109"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Tulsa County, OK"	"40143"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Multnomah County, OR"	"41051"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Allegheny County, PA"	"42003"	27	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Bucks County, PA"	"42017"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Delaware County, PA"	"42045"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Philadelphia County, PA"	"42101"	39	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Knox County, TN"	"47093"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Dallas County, TX"	"48113"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Harris County, TX"	"48201"	55	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Tarrant County, TX"	"48439"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Salt Lake County, UT"	"49035"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"King County, WA"	"53033"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Pierce County, WA"	"53053"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Snohomish County, WA"	"53061"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Spokane County, WA"	"53063"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Milwaukee County, WI"	"55079"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Maricopa County, AZ"	"04013"	42	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Pima County, AZ"	"04019"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Alameda County, CA"	"06001"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Kern County, CA"	"06029"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Los Angeles County, CA"	"06037"	75	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Orange County, CA"	"06059"	26	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Riverside County, CA"	"06065"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Sacramento County, CA"	"06067"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"San Diego County, CA"	"06073"	29	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"San Francisco County, CA"	"06075"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Arapahoe County, CO"	"08005"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Denver County, CO"	"08031"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Brevard County, FL"	"12009"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Broward County, FL"	"12011"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Duval County, FL"	"12031"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Hillsborough County, FL"	"12057"	23	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Orange County, FL"	"12095"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Palm Beach County, FL"	"12099"	29	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Pinellas County, FL"	"12103"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Cook County, IL"	"17031"	50	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Marion County, IN"	"18097"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Jefferson Parish, LA"	"22051"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Baltimore County, MD"	"24005"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Baltimore city, MD"	"24510"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Essex County, MA"	"25009"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Middlesex County, MA"	"25017"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Worcester County, MA"	"25027"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Macomb County, MI"	"26099"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Wayne County, MI"	"26163"	23	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Hennepin County, MN"	"27053"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Clark County, NV"	"32003"	40	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Camden County, NJ"	"34007"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Bernalillo County, NM"	"35001"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Bronx County, NY"	"36005"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Kings County, NY"	"36047"	24	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Nassau County, NY"	"36059"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Queens County, NY"	"36081"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Suffolk County, NY"	"36103"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Cuyahoga County, OH"	"39035"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Franklin County, OH"	"39049"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Montgomery County, OH"	"39113"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Trumbull County, OH"	"39155"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Oklahoma County, OK"	"40109"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Multnomah County, OR"	"41051"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Allegheny County, PA"	"42003"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Philadelphia County, PA"	"42101"	33	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Shelby County, TN"	"47157"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Dallas County, TX"	"48113"	29	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Harris County, TX"	"48201"	39	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Travis County, TX"	"48453"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Salt Lake County, UT"	"49035"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"King County, WA"	"53033"	21	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Pierce County, WA"	"53053"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Snohomish County, WA"	"53061"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Milwaukee County, WI"	"55079"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Maricopa County, AZ"	"04013"	52	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Pima County, AZ"	"04019"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Alameda County, CA"	"06001"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Los Angeles County, CA"	"06037"	66	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Orange County, CA"	"06059"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Riverside County, CA"	"06065"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Sacramento County, CA"	"06067"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"San Diego County, CA"	"06073"	28	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"San Francisco County, CA"	"06075"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Santa Clara County, CA"	"06085"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Denver County, CO"	"08031"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Hartford County, CT"	"09003"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"New Haven County, CT"	"09009"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Brevard County, FL"	"12009"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Broward County, FL"	"12011"	29	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Hillsborough County, FL"	"12057"	26	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Lee County, FL"	"12071"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Palm Beach County, FL"	"12099"	28	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Pasco County, FL"	"12101"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Pinellas County, FL"	"12103"	22	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Cook County, IL"	"17031"	46	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Baltimore County, MD"	"24005"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Baltimore city, MD"	"24510"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Essex County, MA"	"25009"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Macomb County, MI"	"26099"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Wayne County, MI"	"26163"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"St. Louis County, MO"	"29189"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Clark County, NV"	"32003"	27	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Bernalillo County, NM"	"35001"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Bronx County, NY"	"36005"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Kings County, NY"	"36047"	23	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Nassau County, NY"	"36059"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"New York County, NY"	"36061"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Queens County, NY"	"36081"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Cuyahoga County, OH"	"39035"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Franklin County, OH"	"39049"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Hamilton County, OH"	"39061"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Oklahoma County, OK"	"40109"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Multnomah County, OR"	"41051"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Allegheny County, PA"	"42003"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Philadelphia County, PA"	"42101"	26	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Providence County, RI"	"44007"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Dallas County, TX"	"48113"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Harris County, TX"	"48201"	32	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Tarrant County, TX"	"48439"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Salt Lake County, UT"	"49035"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Fairfax County, VA"	"51059"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Clark County, WA"	"53011"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"King County, WA"	"53033"	30	Not Applicable	Not Applicable
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Milwaukee County, WI"	"55079"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Maricopa County, AZ"	"04013"	50	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Alameda County, CA"	"06001"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Contra Costa County, CA"	"06013"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Los Angeles County, CA"	"06037"	44	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Orange County, CA"	"06059"	30	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Riverside County, CA"	"06065"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Sacramento County, CA"	"06067"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"San Diego County, CA"	"06073"	26	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"San Francisco County, CA"	"06075"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"San Joaquin County, CA"	"06077"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Santa Clara County, CA"	"06085"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Denver County, CO"	"08031"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"New Haven County, CT"	"09009"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Broward County, FL"	"12011"	24	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Duval County, FL"	"12031"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Hillsborough County, FL"	"12057"	29	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Miami-Dade County, FL"	"12086"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Palm Beach County, FL"	"12099"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Pinellas County, FL"	"12103"	22	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Fulton County, GA"	"13121"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Cook County, IL"	"17031"	42	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Marion County, IN"	"18097"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Jefferson County, KY"	"21111"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Baltimore County, MD"	"24005"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Baltimore city, MD"	"24510"	22	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Essex County, MA"	"25009"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Middlesex County, MA"	"25017"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Suffolk County, MA"	"25025"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Macomb County, MI"	"26099"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Wayne County, MI"	"26163"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Hennepin County, MN"	"27053"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Clark County, NV"	"32003"	23	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Bernalillo County, NM"	"35001"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Bronx County, NY"	"36005"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Erie County, NY"	"36029"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Kings County, NY"	"36047"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Nassau County, NY"	"36059"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"New York County, NY"	"36061"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Queens County, NY"	"36081"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Suffolk County, NY"	"36103"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Cuyahoga County, OH"	"39035"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Franklin County, OH"	"39049"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Hamilton County, OH"	"39061"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Lucas County, OH"	"39095"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Montgomery County, OH"	"39113"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Oklahoma County, OK"	"40109"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Tulsa County, OK"	"40143"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Multnomah County, OR"	"41051"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Allegheny County, PA"	"42003"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Delaware County, PA"	"42045"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Montgomery County, PA"	"42091"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Philadelphia County, PA"	"42101"	29	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Harris County, TX"	"48201"	28	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Tarrant County, TX"	"48439"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Salt Lake County, UT"	"49035"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Clark County, WA"	"53011"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"King County, WA"	"53033"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Pierce County, WA"	"53053"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Snohomish County, WA"	"53061"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Milwaukee County, WI"	"55079"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Maricopa County, AZ"	"04013"	45	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Pima County, AZ"	"04019"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Alameda County, CA"	"06001"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Kern County, CA"	"06029"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Los Angeles County, CA"	"06037"	81	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Orange County, CA"	"06059"	26	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Riverside County, CA"	"06065"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Sacramento County, CA"	"06067"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"San Bernardino County, CA"	"06071"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"San Diego County, CA"	"06073"	31	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"San Francisco County, CA"	"06075"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Santa Clara County, CA"	"06085"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Denver County, CO"	"08031"	16	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"New Haven County, CT"	"09009"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Broward County, FL"	"12011"	23	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Duval County, FL"	"12031"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Hillsborough County, FL"	"12057"	22	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Miami-Dade County, FL"	"12086"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Palm Beach County, FL"	"12099"	29	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Pasco County, FL"	"12101"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Pinellas County, FL"	"12103"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Fulton County, GA"	"13121"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Cook County, IL"	"17031"	60	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Will County, IL"	"17197"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Jefferson Parish, LA"	"22051"	17	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"St. Tammany Parish, LA"	"22103"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Baltimore County, MD"	"24005"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Baltimore city, MD"	"24510"	22	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Essex County, MA"	"25009"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Hampden County, MA"	"25013"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Middlesex County, MA"	"25017"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Macomb County, MI"	"26099"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Wayne County, MI"	"26163"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Jackson County, MO"	"29095"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"St. Louis County, MO"	"29189"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Clark County, NV"	"32003"	34	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Washoe County, NV"	"32031"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Bernalillo County, NM"	"35001"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Bronx County, NY"	"36005"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Kings County, NY"	"36047"	13	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Nassau County, NY"	"36059"	14	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"New York County, NY"	"36061"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Queens County, NY"	"36081"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Suffolk County, NY"	"36103"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Westchester County, NY"	"36119"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Cuyahoga County, OH"	"39035"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Franklin County, OH"	"39049"	19	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Lucas County, OH"	"39095"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Montgomery County, OH"	"39113"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Multnomah County, OR"	"41051"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Allegheny County, PA"	"42003"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Philadelphia County, PA"	"42101"	28	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Greenville County, SC"	"45045"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Shelby County, TN"	"47157"	15	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Dallas County, TX"	"48113"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Harris County, TX"	"48201"	47	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Travis County, TX"	"48453"	11	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Salt Lake County, UT"	"49035"	18	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"King County, WA"	"53033"	20	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Pierce County, WA"	"53053"	12	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Spokane County, WA"	"53063"	10	Not Applicable	Not Applicable
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Milwaukee County, WI"	"55079"	20	Not Applicable	Not Applicable

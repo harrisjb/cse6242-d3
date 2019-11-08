@@ -1,0 +1,719 @@
+"Notes"	"Year"	"Year Code"	"Month"	"Month Code"	"County"	"County Code"	Deaths	Population	Crude Rate
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Jefferson County, AL"	"01073"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Maricopa County, AZ"	"04013"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Alameda County, CA"	"06001"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Contra Costa County, CA"	"06013"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Fresno County, CA"	"06019"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Kern County, CA"	"06029"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Los Angeles County, CA"	"06037"	61	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Orange County, CA"	"06059"	34	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Riverside County, CA"	"06065"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Sacramento County, CA"	"06067"	21	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"San Bernardino County, CA"	"06071"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"San Diego County, CA"	"06073"	41	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"San Francisco County, CA"	"06075"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"San Joaquin County, CA"	"06077"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Santa Barbara County, CA"	"06083"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Santa Clara County, CA"	"06085"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Denver County, CO"	"08031"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"New Haven County, CT"	"09009"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Broward County, FL"	"12011"	30	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Duval County, FL"	"12031"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Hillsborough County, FL"	"12057"	27	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Miami-Dade County, FL"	"12086"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Palm Beach County, FL"	"12099"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Pasco County, FL"	"12101"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Pinellas County, FL"	"12103"	23	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Volusia County, FL"	"12127"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Cook County, IL"	"17031"	43	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Marion County, IN"	"18097"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Jefferson County, KY"	"21111"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Baltimore County, MD"	"24005"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Middlesex County, MA"	"25017"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Suffolk County, MA"	"25025"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Worcester County, MA"	"25027"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Macomb County, MI"	"26099"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Wayne County, MI"	"26163"	31	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"St. Louis County, MO"	"29189"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Clark County, NV"	"32003"	32	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Washoe County, NV"	"32031"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Bernalillo County, NM"	"35001"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Kings County, NY"	"36047"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Nassau County, NY"	"36059"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Queens County, NY"	"36081"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Suffolk County, NY"	"36103"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Westchester County, NY"	"36119"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Oklahoma County, OK"	"40109"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Tulsa County, OK"	"40143"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Multnomah County, OR"	"41051"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Allegheny County, PA"	"42003"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Delaware County, PA"	"42045"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Philadelphia County, PA"	"42101"	36	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Spartanburg County, SC"	"45083"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Davidson County, TN"	"47037"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Shelby County, TN"	"47157"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Bexar County, TX"	"48029"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Dallas County, TX"	"48113"	30	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Harris County, TX"	"48201"	30	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Tarrant County, TX"	"48439"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Salt Lake County, UT"	"49035"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"King County, WA"	"53033"	23	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Pierce County, WA"	"53053"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Milwaukee County, WI"	"55079"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Jefferson County, AL"	"01073"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Maricopa County, AZ"	"04013"	31	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Pima County, AZ"	"04019"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Alameda County, CA"	"06001"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Fresno County, CA"	"06019"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Los Angeles County, CA"	"06037"	57	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Orange County, CA"	"06059"	38	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Riverside County, CA"	"06065"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Sacramento County, CA"	"06067"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"San Diego County, CA"	"06073"	21	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"San Francisco County, CA"	"06075"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"San Joaquin County, CA"	"06077"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Stanislaus County, CA"	"06099"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Arapahoe County, CO"	"08005"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Denver County, CO"	"08031"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"El Paso County, CO"	"08041"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"New Castle County, DE"	"10003"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Broward County, FL"	"12011"	21	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Duval County, FL"	"12031"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Hillsborough County, FL"	"12057"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Miami-Dade County, FL"	"12086"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Orange County, FL"	"12095"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Palm Beach County, FL"	"12099"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Pinellas County, FL"	"12103"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Cook County, IL"	"17031"	45	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Marion County, IN"	"18097"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Baltimore County, MD"	"24005"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Baltimore city, MD"	"24510"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Suffolk County, MA"	"25025"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Macomb County, MI"	"26099"	25	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Wayne County, MI"	"26163"	29	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Hennepin County, MN"	"27053"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Jackson County, MO"	"29095"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"St. Louis County, MO"	"29189"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Clark County, NV"	"32003"	37	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Bronx County, NY"	"36005"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Kings County, NY"	"36047"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Nassau County, NY"	"36059"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Queens County, NY"	"36081"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Suffolk County, NY"	"36103"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Oklahoma County, OK"	"40109"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Tulsa County, OK"	"40143"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Multnomah County, OR"	"41051"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Allegheny County, PA"	"42003"	23	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Delaware County, PA"	"42045"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Philadelphia County, PA"	"42101"	34	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Bexar County, TX"	"48029"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Dallas County, TX"	"48113"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Harris County, TX"	"48201"	30	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Tarrant County, TX"	"48439"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Salt Lake County, UT"	"49035"	24	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"King County, WA"	"53033"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Pierce County, WA"	"53053"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Snohomish County, WA"	"53061"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Milwaukee County, WI"	"55079"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Jefferson County, AL"	"01073"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Maricopa County, AZ"	"04013"	53	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Pima County, AZ"	"04019"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Alameda County, CA"	"06001"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Fresno County, CA"	"06019"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Kern County, CA"	"06029"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Los Angeles County, CA"	"06037"	73	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Orange County, CA"	"06059"	24	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Riverside County, CA"	"06065"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Sacramento County, CA"	"06067"	25	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"San Diego County, CA"	"06073"	27	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"San Francisco County, CA"	"06075"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"San Joaquin County, CA"	"06077"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Adams County, CO"	"08001"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Denver County, CO"	"08031"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"New Haven County, CT"	"09009"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"New Castle County, DE"	"10003"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Brevard County, FL"	"12009"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Broward County, FL"	"12011"	25	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Hillsborough County, FL"	"12057"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Lee County, FL"	"12071"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Palm Beach County, FL"	"12099"	27	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Pasco County, FL"	"12101"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Pinellas County, FL"	"12103"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Polk County, FL"	"12105"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Fulton County, GA"	"13121"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Cook County, IL"	"17031"	40	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Marion County, IN"	"18097"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Baltimore city, MD"	"24510"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Bristol County, MA"	"25005"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Hampden County, MA"	"25013"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Middlesex County, MA"	"25017"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Norfolk County, MA"	"25021"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Macomb County, MI"	"26099"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Oakland County, MI"	"26125"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Wayne County, MI"	"26163"	33	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Jackson County, MO"	"29095"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"St. Louis County, MO"	"29189"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Clark County, NV"	"32003"	27	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Bernalillo County, NM"	"35001"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Erie County, NY"	"36029"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Kings County, NY"	"36047"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Nassau County, NY"	"36059"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"New York County, NY"	"36061"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Franklin County, OH"	"39049"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Montgomery County, OH"	"39113"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Tulsa County, OK"	"40143"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Allegheny County, PA"	"42003"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Montgomery County, PA"	"42091"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Philadelphia County, PA"	"42101"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Shelby County, TN"	"47157"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Bexar County, TX"	"48029"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Dallas County, TX"	"48113"	32	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Harris County, TX"	"48201"	39	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Tarrant County, TX"	"48439"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Travis County, TX"	"48453"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Salt Lake County, UT"	"49035"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"King County, WA"	"53033"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Pierce County, WA"	"53053"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Snohomish County, WA"	"53061"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Milwaukee County, WI"	"55079"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Maricopa County, AZ"	"04013"	46	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Pima County, AZ"	"04019"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Alameda County, CA"	"06001"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Fresno County, CA"	"06019"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Kern County, CA"	"06029"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Los Angeles County, CA"	"06037"	63	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Orange County, CA"	"06059"	28	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Riverside County, CA"	"06065"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Sacramento County, CA"	"06067"	21	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"San Diego County, CA"	"06073"	32	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"San Francisco County, CA"	"06075"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"San Joaquin County, CA"	"06077"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Santa Clara County, CA"	"06085"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Stanislaus County, CA"	"06099"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Arapahoe County, CO"	"08005"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Denver County, CO"	"08031"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"New Haven County, CT"	"09009"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Brevard County, FL"	"12009"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Broward County, FL"	"12011"	25	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Duval County, FL"	"12031"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Hillsborough County, FL"	"12057"	23	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Miami-Dade County, FL"	"12086"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Orange County, FL"	"12095"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Palm Beach County, FL"	"12099"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Pasco County, FL"	"12101"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Pinellas County, FL"	"12103"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Cook County, IL"	"17031"	41	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Lake County, IL"	"17097"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Marion County, IN"	"18097"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Jefferson Parish, LA"	"22051"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Baltimore city, MD"	"24510"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Essex County, MA"	"25009"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Middlesex County, MA"	"25017"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Suffolk County, MA"	"25025"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Genesee County, MI"	"26049"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Macomb County, MI"	"26099"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Wayne County, MI"	"26163"	33	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"St. Louis County, MO"	"29189"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"St. Louis city, MO"	"29510"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Clark County, NV"	"32003"	38	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Washoe County, NV"	"32031"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Bernalillo County, NM"	"35001"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Bronx County, NY"	"36005"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Kings County, NY"	"36047"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Queens County, NY"	"36081"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Tulsa County, OK"	"40143"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Allegheny County, PA"	"42003"	25	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Montgomery County, PA"	"42091"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Philadelphia County, PA"	"42101"	39	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Shelby County, TN"	"47157"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Dallas County, TX"	"48113"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Harris County, TX"	"48201"	26	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Tarrant County, TX"	"48439"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Salt Lake County, UT"	"49035"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"King County, WA"	"53033"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Pierce County, WA"	"53053"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Snohomish County, WA"	"53061"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Milwaukee County, WI"	"55079"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Maricopa County, AZ"	"04013"	67	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Pima County, AZ"	"04019"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Alameda County, CA"	"06001"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Kern County, CA"	"06029"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Los Angeles County, CA"	"06037"	69	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Orange County, CA"	"06059"	30	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Riverside County, CA"	"06065"	25	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Sacramento County, CA"	"06067"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"San Bernardino County, CA"	"06071"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"San Diego County, CA"	"06073"	32	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"San Francisco County, CA"	"06075"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Denver County, CO"	"08031"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"New Haven County, CT"	"09009"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Brevard County, FL"	"12009"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Broward County, FL"	"12011"	29	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Duval County, FL"	"12031"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Hillsborough County, FL"	"12057"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Miami-Dade County, FL"	"12086"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Orange County, FL"	"12095"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Palm Beach County, FL"	"12099"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Pasco County, FL"	"12101"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Pinellas County, FL"	"12103"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Seminole County, FL"	"12117"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Volusia County, FL"	"12127"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Cook County, IL"	"17031"	48	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Lake County, IL"	"17097"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Marion County, IN"	"18097"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Jefferson County, KY"	"21111"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Jefferson Parish, LA"	"22051"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Baltimore County, MD"	"24005"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Baltimore city, MD"	"24510"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Middlesex County, MA"	"25017"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Genesee County, MI"	"26049"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Macomb County, MI"	"26099"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Oakland County, MI"	"26125"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Wayne County, MI"	"26163"	21	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Jackson County, MO"	"29095"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"St. Louis County, MO"	"29189"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Clark County, NV"	"32003"	40	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Bernalillo County, NM"	"35001"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Bronx County, NY"	"36005"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Kings County, NY"	"36047"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Nassau County, NY"	"36059"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"New York County, NY"	"36061"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Suffolk County, NY"	"36103"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Cuyahoga County, OH"	"39035"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Franklin County, OH"	"39049"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Oklahoma County, OK"	"40109"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Tulsa County, OK"	"40143"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Lane County, OR"	"41039"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Allegheny County, PA"	"42003"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Bucks County, PA"	"42017"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Delaware County, PA"	"42045"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Montgomery County, PA"	"42091"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Philadelphia County, PA"	"42101"	30	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Greenville County, SC"	"45045"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Bexar County, TX"	"48029"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Dallas County, TX"	"48113"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Harris County, TX"	"48201"	39	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Tarrant County, TX"	"48439"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Travis County, TX"	"48453"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Salt Lake County, UT"	"49035"	25	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"King County, WA"	"53033"	24	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Pierce County, WA"	"53053"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Snohomish County, WA"	"53061"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Spokane County, WA"	"53063"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Milwaukee County, WI"	"55079"	21	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Jefferson County, AL"	"01073"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Maricopa County, AZ"	"04013"	41	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Pima County, AZ"	"04019"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Alameda County, CA"	"06001"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Kern County, CA"	"06029"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Los Angeles County, CA"	"06037"	71	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Orange County, CA"	"06059"	31	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Riverside County, CA"	"06065"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Sacramento County, CA"	"06067"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"San Diego County, CA"	"06073"	40	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"San Francisco County, CA"	"06075"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Santa Clara County, CA"	"06085"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Denver County, CO"	"08031"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Larimer County, CO"	"08069"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Hartford County, CT"	"09003"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Brevard County, FL"	"12009"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Broward County, FL"	"12011"	24	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Hillsborough County, FL"	"12057"	23	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Orange County, FL"	"12095"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Palm Beach County, FL"	"12099"	26	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Pasco County, FL"	"12101"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Pinellas County, FL"	"12103"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Polk County, FL"	"12105"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Cook County, IL"	"17031"	51	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Baltimore County, MD"	"24005"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Baltimore city, MD"	"24510"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Middlesex County, MA"	"25017"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Macomb County, MI"	"26099"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Wayne County, MI"	"26163"	26	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Clark County, NV"	"32003"	30	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Bernalillo County, NM"	"35001"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Kings County, NY"	"36047"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Nassau County, NY"	"36059"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Suffolk County, NY"	"36103"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Cuyahoga County, OH"	"39035"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Tulsa County, OK"	"40143"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Allegheny County, PA"	"42003"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Philadelphia County, PA"	"42101"	31	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Shelby County, TN"	"47157"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Bexar County, TX"	"48029"	23	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Dallas County, TX"	"48113"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Harris County, TX"	"48201"	35	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Tarrant County, TX"	"48439"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Travis County, TX"	"48453"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Salt Lake County, UT"	"49035"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"King County, WA"	"53033"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Pierce County, WA"	"53053"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Snohomish County, WA"	"53061"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Milwaukee County, WI"	"55079"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Maricopa County, AZ"	"04013"	57	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Pima County, AZ"	"04019"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Alameda County, CA"	"06001"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Contra Costa County, CA"	"06013"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Fresno County, CA"	"06019"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Kern County, CA"	"06029"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Los Angeles County, CA"	"06037"	58	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Orange County, CA"	"06059"	25	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Riverside County, CA"	"06065"	26	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Sacramento County, CA"	"06067"	27	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"San Bernardino County, CA"	"06071"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"San Diego County, CA"	"06073"	33	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"San Francisco County, CA"	"06075"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"New Haven County, CT"	"09009"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Broward County, FL"	"12011"	29	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Hillsborough County, FL"	"12057"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Miami-Dade County, FL"	"12086"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Orange County, FL"	"12095"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Palm Beach County, FL"	"12099"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Pasco County, FL"	"12101"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Pinellas County, FL"	"12103"	23	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Polk County, FL"	"12105"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Volusia County, FL"	"12127"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Honolulu County, HI"	"15003"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Cook County, IL"	"17031"	44	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Sedgwick County, KS"	"20173"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Anne Arundel County, MD"	"24003"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Baltimore County, MD"	"24005"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Baltimore city, MD"	"24510"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Middlesex County, MA"	"25017"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Suffolk County, MA"	"25025"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Macomb County, MI"	"26099"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Wayne County, MI"	"26163"	30	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Hennepin County, MN"	"27053"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Jackson County, MO"	"29095"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"St. Louis County, MO"	"29189"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Clark County, NV"	"32003"	32	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Camden County, NJ"	"34007"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Bernalillo County, NM"	"35001"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Bronx County, NY"	"36005"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Kings County, NY"	"36047"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Nassau County, NY"	"36059"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"New York County, NY"	"36061"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Queens County, NY"	"36081"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Suffolk County, NY"	"36103"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Wake County, NC"	"37183"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Butler County, OH"	"39017"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Cuyahoga County, OH"	"39035"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Franklin County, OH"	"39049"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Oklahoma County, OK"	"40109"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Tulsa County, OK"	"40143"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Multnomah County, OR"	"41051"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Allegheny County, PA"	"42003"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Delaware County, PA"	"42045"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Philadelphia County, PA"	"42101"	44	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Davidson County, TN"	"47037"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Shelby County, TN"	"47157"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Bexar County, TX"	"48029"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Dallas County, TX"	"48113"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Harris County, TX"	"48201"	39	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Tarrant County, TX"	"48439"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Salt Lake County, UT"	"49035"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Utah County, UT"	"49049"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"King County, WA"	"53033"	29	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Snohomish County, WA"	"53061"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Milwaukee County, WI"	"55079"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Maricopa County, AZ"	"04013"	52	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Pima County, AZ"	"04019"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Alameda County, CA"	"06001"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Fresno County, CA"	"06019"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Kern County, CA"	"06029"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Los Angeles County, CA"	"06037"	75	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Orange County, CA"	"06059"	23	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Riverside County, CA"	"06065"	23	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Sacramento County, CA"	"06067"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"San Bernardino County, CA"	"06071"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"San Diego County, CA"	"06073"	29	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Arapahoe County, CO"	"08005"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Denver County, CO"	"08031"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Fairfield County, CT"	"09001"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"New Haven County, CT"	"09009"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Brevard County, FL"	"12009"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Broward County, FL"	"12011"	26	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Duval County, FL"	"12031"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Hillsborough County, FL"	"12057"	27	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Palm Beach County, FL"	"12099"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Pasco County, FL"	"12101"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Pinellas County, FL"	"12103"	24	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Polk County, FL"	"12105"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Honolulu County, HI"	"15003"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Cook County, IL"	"17031"	61	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Marion County, IN"	"18097"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Sedgwick County, KS"	"20173"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Baltimore city, MD"	"24510"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Middlesex County, MA"	"25017"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Suffolk County, MA"	"25025"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Macomb County, MI"	"26099"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Wayne County, MI"	"26163"	21	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Clark County, NV"	"32003"	36	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Bernalillo County, NM"	"35001"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Bronx County, NY"	"36005"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Kings County, NY"	"36047"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"New York County, NY"	"36061"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Queens County, NY"	"36081"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Suffolk County, NY"	"36103"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Cuyahoga County, OH"	"39035"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Franklin County, OH"	"39049"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Montgomery County, OH"	"39113"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Oklahoma County, OK"	"40109"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Multnomah County, OR"	"41051"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Allegheny County, PA"	"42003"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Berks County, PA"	"42011"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Delaware County, PA"	"42045"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Montgomery County, PA"	"42091"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Philadelphia County, PA"	"42101"	35	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Providence County, RI"	"44007"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Davidson County, TN"	"47037"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Bexar County, TX"	"48029"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Dallas County, TX"	"48113"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Harris County, TX"	"48201"	33	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Nueces County, TX"	"48355"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Tarrant County, TX"	"48439"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Travis County, TX"	"48453"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Salt Lake County, UT"	"49035"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Utah County, UT"	"49049"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"King County, WA"	"53033"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Pierce County, WA"	"53053"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Milwaukee County, WI"	"55079"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Maricopa County, AZ"	"04013"	55	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Pima County, AZ"	"04019"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Alameda County, CA"	"06001"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Fresno County, CA"	"06019"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Kern County, CA"	"06029"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Los Angeles County, CA"	"06037"	56	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Orange County, CA"	"06059"	30	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Riverside County, CA"	"06065"	25	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Sacramento County, CA"	"06067"	21	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"San Bernardino County, CA"	"06071"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"San Diego County, CA"	"06073"	30	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"San Francisco County, CA"	"06075"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"San Joaquin County, CA"	"06077"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Brevard County, FL"	"12009"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Broward County, FL"	"12011"	32	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Duval County, FL"	"12031"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Hillsborough County, FL"	"12057"	36	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Lee County, FL"	"12071"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Miami-Dade County, FL"	"12086"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Palm Beach County, FL"	"12099"	31	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Pasco County, FL"	"12101"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Pinellas County, FL"	"12103"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Volusia County, FL"	"12127"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Honolulu County, HI"	"15003"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Cook County, IL"	"17031"	42	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"DuPage County, IL"	"17043"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Marion County, IN"	"18097"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Baltimore County, MD"	"24005"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Baltimore city, MD"	"24510"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Middlesex County, MA"	"25017"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Suffolk County, MA"	"25025"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Genesee County, MI"	"26049"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Macomb County, MI"	"26099"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Wayne County, MI"	"26163"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"St. Louis County, MO"	"29189"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Clark County, NV"	"32003"	36	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Bronx County, NY"	"36005"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Kings County, NY"	"36047"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Nassau County, NY"	"36059"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"New York County, NY"	"36061"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Suffolk County, NY"	"36103"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Cuyahoga County, OH"	"39035"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Franklin County, OH"	"39049"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Hamilton County, OH"	"39061"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Montgomery County, OH"	"39113"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Tulsa County, OK"	"40143"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Multnomah County, OR"	"41051"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Allegheny County, PA"	"42003"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Delaware County, PA"	"42045"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Philadelphia County, PA"	"42101"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Providence County, RI"	"44007"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Davidson County, TN"	"47037"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Shelby County, TN"	"47157"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Bexar County, TX"	"48029"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Dallas County, TX"	"48113"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Harris County, TX"	"48201"	35	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Salt Lake County, UT"	"49035"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"King County, WA"	"53033"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Milwaukee County, WI"	"55079"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Maricopa County, AZ"	"04013"	39	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Pima County, AZ"	"04019"	21	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Alameda County, CA"	"06001"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Contra Costa County, CA"	"06013"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Kern County, CA"	"06029"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Los Angeles County, CA"	"06037"	76	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Orange County, CA"	"06059"	28	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Riverside County, CA"	"06065"	25	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Sacramento County, CA"	"06067"	21	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"San Bernardino County, CA"	"06071"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"San Diego County, CA"	"06073"	29	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"San Francisco County, CA"	"06075"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Santa Clara County, CA"	"06085"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Ventura County, CA"	"06111"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Denver County, CO"	"08031"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Fairfield County, CT"	"09001"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Brevard County, FL"	"12009"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Broward County, FL"	"12011"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Hillsborough County, FL"	"12057"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Lee County, FL"	"12071"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Miami-Dade County, FL"	"12086"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Orange County, FL"	"12095"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Palm Beach County, FL"	"12099"	23	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Pasco County, FL"	"12101"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Pinellas County, FL"	"12103"	24	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Polk County, FL"	"12105"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Volusia County, FL"	"12127"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Cook County, IL"	"17031"	39	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Marion County, IN"	"18097"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Anne Arundel County, MD"	"24003"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Baltimore city, MD"	"24510"	25	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Middlesex County, MA"	"25017"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Norfolk County, MA"	"25021"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Macomb County, MI"	"26099"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Oakland County, MI"	"26125"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Wayne County, MI"	"26163"	23	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Hennepin County, MN"	"27053"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Jackson County, MO"	"29095"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"St. Louis County, MO"	"29189"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Clark County, NV"	"32003"	32	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Bernalillo County, NM"	"35001"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Kings County, NY"	"36047"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"New York County, NY"	"36061"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Suffolk County, NY"	"36103"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Cuyahoga County, OH"	"39035"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Franklin County, OH"	"39049"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Hamilton County, OH"	"39061"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Montgomery County, OH"	"39113"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Oklahoma County, OK"	"40109"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Allegheny County, PA"	"42003"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Philadelphia County, PA"	"42101"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Providence County, RI"	"44007"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Bexar County, TX"	"48029"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Collin County, TX"	"48085"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Dallas County, TX"	"48113"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Harris County, TX"	"48201"	38	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Tarrant County, TX"	"48439"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Salt Lake County, UT"	"49035"	23	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"King County, WA"	"53033"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Pierce County, WA"	"53053"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Milwaukee County, WI"	"55079"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Maricopa County, AZ"	"04013"	59	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Pima County, AZ"	"04019"	21	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Contra Costa County, CA"	"06013"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Fresno County, CA"	"06019"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Kern County, CA"	"06029"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Los Angeles County, CA"	"06037"	57	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Orange County, CA"	"06059"	27	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Riverside County, CA"	"06065"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Sacramento County, CA"	"06067"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"San Bernardino County, CA"	"06071"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"San Diego County, CA"	"06073"	27	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"San Francisco County, CA"	"06075"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"San Joaquin County, CA"	"06077"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Santa Clara County, CA"	"06085"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Arapahoe County, CO"	"08005"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Denver County, CO"	"08031"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"New Haven County, CT"	"09009"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Brevard County, FL"	"12009"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Broward County, FL"	"12011"	27	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Collier County, FL"	"12021"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Hillsborough County, FL"	"12057"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Miami-Dade County, FL"	"12086"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Palm Beach County, FL"	"12099"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Pasco County, FL"	"12101"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Pinellas County, FL"	"12103"	32	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Cook County, IL"	"17031"	37	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Anne Arundel County, MD"	"24003"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Baltimore County, MD"	"24005"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Baltimore city, MD"	"24510"	26	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Hampden County, MA"	"25013"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Middlesex County, MA"	"25017"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Macomb County, MI"	"26099"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Oakland County, MI"	"26125"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Wayne County, MI"	"26163"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Clark County, NV"	"32003"	27	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Bernalillo County, NM"	"35001"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Bronx County, NY"	"36005"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Erie County, NY"	"36029"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Kings County, NY"	"36047"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Nassau County, NY"	"36059"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Queens County, NY"	"36081"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Suffolk County, NY"	"36103"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Butler County, OH"	"39017"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Cuyahoga County, OH"	"39035"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Franklin County, OH"	"39049"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Oklahoma County, OK"	"40109"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Tulsa County, OK"	"40143"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Multnomah County, OR"	"41051"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Allegheny County, PA"	"42003"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Philadelphia County, PA"	"42101"	28	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Providence County, RI"	"44007"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Bexar County, TX"	"48029"	30	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Harris County, TX"	"48201"	31	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Travis County, TX"	"48453"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Salt Lake County, UT"	"49035"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"King County, WA"	"53033"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Snohomish County, WA"	"53061"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Milwaukee County, WI"	"55079"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Mobile County, AL"	"01097"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Maricopa County, AZ"	"04013"	54	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Pima County, AZ"	"04019"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Alameda County, CA"	"06001"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Los Angeles County, CA"	"06037"	54	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Orange County, CA"	"06059"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Riverside County, CA"	"06065"	15	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Sacramento County, CA"	"06067"	24	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"San Diego County, CA"	"06073"	27	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"San Francisco County, CA"	"06075"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Ventura County, CA"	"06111"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Arapahoe County, CO"	"08005"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Denver County, CO"	"08031"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"El Paso County, CO"	"08041"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Brevard County, FL"	"12009"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Broward County, FL"	"12011"	23	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Duval County, FL"	"12031"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Hillsborough County, FL"	"12057"	27	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Manatee County, FL"	"12081"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Miami-Dade County, FL"	"12086"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Orange County, FL"	"12095"	14	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Palm Beach County, FL"	"12099"	29	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Pinellas County, FL"	"12103"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Volusia County, FL"	"12127"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Cook County, IL"	"17031"	39	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Lake County, IL"	"17097"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Anne Arundel County, MD"	"24003"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Baltimore County, MD"	"24005"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Baltimore city, MD"	"24510"	18	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Middlesex County, MA"	"25017"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Worcester County, MA"	"25027"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Genesee County, MI"	"26049"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Macomb County, MI"	"26099"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Wayne County, MI"	"26163"	21	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Clark County, NV"	"32003"	28	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Bernalillo County, NM"	"35001"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Bronx County, NY"	"36005"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Erie County, NY"	"36029"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Monroe County, NY"	"36055"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"New York County, NY"	"36061"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Queens County, NY"	"36081"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Suffolk County, NY"	"36103"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Cuyahoga County, OH"	"39035"	24	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Franklin County, OH"	"39049"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Hamilton County, OH"	"39061"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Allegheny County, PA"	"42003"	22	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Berks County, PA"	"42011"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Delaware County, PA"	"42045"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Montgomery County, PA"	"42091"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Philadelphia County, PA"	"42101"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Shelby County, TN"	"47157"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Bexar County, TX"	"48029"	17	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Dallas County, TX"	"48113"	20	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Harris County, TX"	"48201"	39	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Tarrant County, TX"	"48439"	13	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Travis County, TX"	"48453"	11	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Salt Lake County, UT"	"49035"	16	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Fairfax County, VA"	"51059"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"King County, WA"	"53033"	19	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Snohomish County, WA"	"53061"	12	Not Applicable	Not Applicable
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Spokane County, WA"	"53063"	10	Not Applicable	Not Applicable

@@ -1,0 +1,693 @@
+"Notes"	"Year"	"Year Code"	"Month"	"Month Code"	"County"	"County Code"	Deaths	Population	Crude Rate
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Maricopa County, AZ"	"04013"	44	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Pima County, AZ"	"04019"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Kern County, CA"	"06029"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Los Angeles County, CA"	"06037"	52	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Orange County, CA"	"06059"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Riverside County, CA"	"06065"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Sacramento County, CA"	"06067"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"San Diego County, CA"	"06073"	23	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"San Francisco County, CA"	"06075"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Denver County, CO"	"08031"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"District of Columbia, DC"	"11001"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Broward County, FL"	"12011"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Duval County, FL"	"12031"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Hillsborough County, FL"	"12057"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Miami-Dade County, FL"	"12086"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Palm Beach County, FL"	"12099"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Pinellas County, FL"	"12103"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Volusia County, FL"	"12127"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Cook County, IL"	"17031"	48	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Baltimore County, MD"	"24005"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Baltimore city, MD"	"24510"	24	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Suffolk County, MA"	"25025"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Worcester County, MA"	"25027"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Macomb County, MI"	"26099"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Wayne County, MI"	"26163"	27	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"St. Louis County, MO"	"29189"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Clark County, NV"	"32003"	24	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Camden County, NJ"	"34007"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Essex County, NJ"	"34013"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Bernalillo County, NM"	"35001"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Bronx County, NY"	"36005"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Kings County, NY"	"36047"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Nassau County, NY"	"36059"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"New York County, NY"	"36061"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Queens County, NY"	"36081"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Suffolk County, NY"	"36103"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Cuyahoga County, OH"	"39035"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Franklin County, OH"	"39049"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Hamilton County, OH"	"39061"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Montgomery County, OH"	"39113"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Tulsa County, OK"	"40143"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Multnomah County, OR"	"41051"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Allegheny County, PA"	"42003"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Philadelphia County, PA"	"42101"	24	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Davidson County, TN"	"47037"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Knox County, TN"	"47093"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Shelby County, TN"	"47157"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Bexar County, TX"	"48029"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Dallas County, TX"	"48113"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Harris County, TX"	"48201"	34	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Tarrant County, TX"	"48439"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Salt Lake County, UT"	"49035"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"King County, WA"	"53033"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Milwaukee County, WI"	"55079"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Maricopa County, AZ"	"04013"	35	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Pima County, AZ"	"04019"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Alameda County, CA"	"06001"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Los Angeles County, CA"	"06037"	55	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Orange County, CA"	"06059"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Riverside County, CA"	"06065"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Sacramento County, CA"	"06067"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"San Diego County, CA"	"06073"	22	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"San Francisco County, CA"	"06075"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Denver County, CO"	"08031"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"District of Columbia, DC"	"11001"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Brevard County, FL"	"12009"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Broward County, FL"	"12011"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Duval County, FL"	"12031"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Hillsborough County, FL"	"12057"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Miami-Dade County, FL"	"12086"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Palm Beach County, FL"	"12099"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Pinellas County, FL"	"12103"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Cook County, IL"	"17031"	48	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Baltimore city, MD"	"24510"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Middlesex County, MA"	"25017"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Suffolk County, MA"	"25025"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Worcester County, MA"	"25027"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Macomb County, MI"	"26099"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Wayne County, MI"	"26163"	32	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Clark County, NV"	"32003"	31	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Essex County, NJ"	"34013"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Bernalillo County, NM"	"35001"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Bronx County, NY"	"36005"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Kings County, NY"	"36047"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"New York County, NY"	"36061"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Cuyahoga County, OH"	"39035"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Franklin County, OH"	"39049"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Hamilton County, OH"	"39061"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Multnomah County, OR"	"41051"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Allegheny County, PA"	"42003"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Philadelphia County, PA"	"42101"	25	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Davidson County, TN"	"47037"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Dallas County, TX"	"48113"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Harris County, TX"	"48201"	29	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Tarrant County, TX"	"48439"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Salt Lake County, UT"	"49035"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"King County, WA"	"53033"	23	Not Applicable	Not Applicable
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Milwaukee County, WI"	"55079"	22	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Maricopa County, AZ"	"04013"	51	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Pima County, AZ"	"04019"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Alameda County, CA"	"06001"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Fresno County, CA"	"06019"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Los Angeles County, CA"	"06037"	61	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Orange County, CA"	"06059"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Sacramento County, CA"	"06067"	27	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"San Diego County, CA"	"06073"	25	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"San Francisco County, CA"	"06075"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"San Joaquin County, CA"	"06077"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Denver County, CO"	"08031"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Hartford County, CT"	"09003"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"New Haven County, CT"	"09009"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Broward County, FL"	"12011"	24	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Duval County, FL"	"12031"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Hillsborough County, FL"	"12057"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Miami-Dade County, FL"	"12086"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Palm Beach County, FL"	"12099"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Pinellas County, FL"	"12103"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Cook County, IL"	"17031"	50	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Will County, IL"	"17197"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Baltimore County, MD"	"24005"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Baltimore city, MD"	"24510"	22	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Bristol County, MA"	"25005"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Essex County, MA"	"25009"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Plymouth County, MA"	"25023"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Worcester County, MA"	"25027"	22	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Oakland County, MI"	"26125"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Wayne County, MI"	"26163"	28	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"St. Louis County, MO"	"29189"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Clark County, NV"	"32003"	33	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Bernalillo County, NM"	"35001"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Bronx County, NY"	"36005"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Kings County, NY"	"36047"	25	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Nassau County, NY"	"36059"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"New York County, NY"	"36061"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Queens County, NY"	"36081"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Suffolk County, NY"	"36103"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Westchester County, NY"	"36119"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Cuyahoga County, OH"	"39035"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Franklin County, OH"	"39049"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Montgomery County, OH"	"39113"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Oklahoma County, OK"	"40109"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Tulsa County, OK"	"40143"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Jackson County, OR"	"41029"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Allegheny County, PA"	"42003"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Philadelphia County, PA"	"42101"	27	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Dallas County, TX"	"48113"	23	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Harris County, TX"	"48201"	36	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Tarrant County, TX"	"48439"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Salt Lake County, UT"	"49035"	25	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"King County, WA"	"53033"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Spokane County, WA"	"53063"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Milwaukee County, WI"	"55079"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Maricopa County, AZ"	"04013"	42	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Pima County, AZ"	"04019"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Alameda County, CA"	"06001"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Kern County, CA"	"06029"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Los Angeles County, CA"	"06037"	49	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Orange County, CA"	"06059"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Riverside County, CA"	"06065"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Sacramento County, CA"	"06067"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"San Diego County, CA"	"06073"	24	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"San Francisco County, CA"	"06075"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Ventura County, CA"	"06111"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"District of Columbia, DC"	"11001"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Broward County, FL"	"12011"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Duval County, FL"	"12031"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Hillsborough County, FL"	"12057"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Miami-Dade County, FL"	"12086"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Palm Beach County, FL"	"12099"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Pinellas County, FL"	"12103"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Cobb County, GA"	"13067"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Cook County, IL"	"17031"	78	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Sedgwick County, KS"	"20173"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Jefferson Parish, LA"	"22051"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Baltimore city, MD"	"24510"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Bristol County, MA"	"25005"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Middlesex County, MA"	"25017"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Suffolk County, MA"	"25025"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Macomb County, MI"	"26099"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Wayne County, MI"	"26163"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Hennepin County, MN"	"27053"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Clark County, NV"	"32003"	31	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Camden County, NJ"	"34007"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Essex County, NJ"	"34013"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Bernalillo County, NM"	"35001"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Bronx County, NY"	"36005"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Kings County, NY"	"36047"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"New York County, NY"	"36061"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Queens County, NY"	"36081"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Suffolk County, NY"	"36103"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Cuyahoga County, OH"	"39035"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Franklin County, OH"	"39049"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Montgomery County, OH"	"39113"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Multnomah County, OR"	"41051"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Allegheny County, PA"	"42003"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Delaware County, PA"	"42045"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Philadelphia County, PA"	"42101"	49	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Providence County, RI"	"44007"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Knox County, TN"	"47093"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Bexar County, TX"	"48029"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Dallas County, TX"	"48113"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Harris County, TX"	"48201"	37	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Travis County, TX"	"48453"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Salt Lake County, UT"	"49035"	25	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Utah County, UT"	"49049"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"King County, WA"	"53033"	22	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Pierce County, WA"	"53053"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Milwaukee County, WI"	"55079"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Maricopa County, AZ"	"04013"	38	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Pima County, AZ"	"04019"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Contra Costa County, CA"	"06013"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Fresno County, CA"	"06019"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Los Angeles County, CA"	"06037"	65	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Orange County, CA"	"06059"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Riverside County, CA"	"06065"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Sacramento County, CA"	"06067"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"San Diego County, CA"	"06073"	22	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"San Francisco County, CA"	"06075"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Ventura County, CA"	"06111"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"El Paso County, CO"	"08041"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Fairfield County, CT"	"09001"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"New Haven County, CT"	"09009"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Brevard County, FL"	"12009"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Broward County, FL"	"12011"	24	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Hillsborough County, FL"	"12057"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Lee County, FL"	"12071"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Palm Beach County, FL"	"12099"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Pasco County, FL"	"12101"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Volusia County, FL"	"12127"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Fulton County, GA"	"13121"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Cook County, IL"	"17031"	89	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Marion County, IN"	"18097"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Jefferson Parish, LA"	"22051"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Anne Arundel County, MD"	"24003"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Baltimore city, MD"	"24510"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Bristol County, MA"	"25005"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Middlesex County, MA"	"25017"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Suffolk County, MA"	"25025"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Macomb County, MI"	"26099"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Wayne County, MI"	"26163"	37	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Hennepin County, MN"	"27053"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"St. Louis County, MO"	"29189"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Clark County, NV"	"32003"	27	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Camden County, NJ"	"34007"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Bernalillo County, NM"	"35001"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Bronx County, NY"	"36005"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Kings County, NY"	"36047"	29	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Nassau County, NY"	"36059"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"New York County, NY"	"36061"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Queens County, NY"	"36081"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Suffolk County, NY"	"36103"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Westchester County, NY"	"36119"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Guilford County, NC"	"37081"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Cuyahoga County, OH"	"39035"	23	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Franklin County, OH"	"39049"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Hamilton County, OH"	"39061"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Montgomery County, OH"	"39113"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Multnomah County, OR"	"41051"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Allegheny County, PA"	"42003"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Bucks County, PA"	"42017"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Delaware County, PA"	"42045"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Philadelphia County, PA"	"42101"	43	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Providence County, RI"	"44007"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Greenville County, SC"	"45045"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Shelby County, TN"	"47157"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Bexar County, TX"	"48029"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Dallas County, TX"	"48113"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"El Paso County, TX"	"48141"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Harris County, TX"	"48201"	39	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Salt Lake County, UT"	"49035"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"May, 2006"	"2006/05"	"King County, WA"	"53033"	24	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Maricopa County, AZ"	"04013"	52	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Pima County, AZ"	"04019"	29	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Alameda County, CA"	"06001"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Kern County, CA"	"06029"	22	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Los Angeles County, CA"	"06037"	56	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Orange County, CA"	"06059"	23	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Riverside County, CA"	"06065"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Sacramento County, CA"	"06067"	22	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"San Diego County, CA"	"06073"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Ventura County, CA"	"06111"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Denver County, CO"	"08031"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Hartford County, CT"	"09003"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"New Haven County, CT"	"09009"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Broward County, FL"	"12011"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Hillsborough County, FL"	"12057"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Miami-Dade County, FL"	"12086"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Orange County, FL"	"12095"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Palm Beach County, FL"	"12099"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Pinellas County, FL"	"12103"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Polk County, FL"	"12105"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Fulton County, GA"	"13121"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Cook County, IL"	"17031"	78	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"DuPage County, IL"	"17043"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Marion County, IN"	"18097"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Jefferson Parish, LA"	"22051"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"St. Tammany Parish, LA"	"22103"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Baltimore County, MD"	"24005"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Baltimore city, MD"	"24510"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Bristol County, MA"	"25005"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Essex County, MA"	"25009"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Middlesex County, MA"	"25017"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Suffolk County, MA"	"25025"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Wayne County, MI"	"26163"	24	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Hennepin County, MN"	"27053"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"St. Louis County, MO"	"29189"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"St. Louis city, MO"	"29510"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Clark County, NV"	"32003"	36	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Camden County, NJ"	"34007"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Gloucester County, NJ"	"34015"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Bernalillo County, NM"	"35001"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Bronx County, NY"	"36005"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Kings County, NY"	"36047"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"New York County, NY"	"36061"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Queens County, NY"	"36081"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Suffolk County, NY"	"36103"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Cuyahoga County, OH"	"39035"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Franklin County, OH"	"39049"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Hamilton County, OH"	"39061"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Montgomery County, OH"	"39113"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Multnomah County, OR"	"41051"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Allegheny County, PA"	"42003"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Bucks County, PA"	"42017"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Delaware County, PA"	"42045"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Montgomery County, PA"	"42091"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Philadelphia County, PA"	"42101"	45	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Knox County, TN"	"47093"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Bexar County, TX"	"48029"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Dallas County, TX"	"48113"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Harris County, TX"	"48201"	25	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Salt Lake County, UT"	"49035"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"King County, WA"	"53033"	25	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Snohomish County, WA"	"53061"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Spokane County, WA"	"53063"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Maricopa County, AZ"	"04013"	58	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Pima County, AZ"	"04019"	24	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Alameda County, CA"	"06001"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Kern County, CA"	"06029"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Los Angeles County, CA"	"06037"	63	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Orange County, CA"	"06059"	24	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Riverside County, CA"	"06065"	23	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Sacramento County, CA"	"06067"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"San Bernardino County, CA"	"06071"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"San Diego County, CA"	"06073"	37	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"San Francisco County, CA"	"06075"	22	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Santa Clara County, CA"	"06085"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Stanislaus County, CA"	"06099"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Adams County, CO"	"08001"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Denver County, CO"	"08031"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Hartford County, CT"	"09003"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Broward County, FL"	"12011"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Duval County, FL"	"12031"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Hillsborough County, FL"	"12057"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Miami-Dade County, FL"	"12086"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Palm Beach County, FL"	"12099"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Pasco County, FL"	"12101"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Pinellas County, FL"	"12103"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Sarasota County, FL"	"12115"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Fulton County, GA"	"13121"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Cook County, IL"	"17031"	69	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Baltimore County, MD"	"24005"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Baltimore city, MD"	"24510"	22	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Essex County, MA"	"25009"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Middlesex County, MA"	"25017"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Norfolk County, MA"	"25021"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Suffolk County, MA"	"25025"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Macomb County, MI"	"26099"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Wayne County, MI"	"26163"	27	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Hennepin County, MN"	"27053"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Jackson County, MO"	"29095"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"St. Louis County, MO"	"29189"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Clark County, NV"	"32003"	23	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Camden County, NJ"	"34007"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Essex County, NJ"	"34013"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Gloucester County, NJ"	"34015"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Bernalillo County, NM"	"35001"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Bronx County, NY"	"36005"	29	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Kings County, NY"	"36047"	36	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Nassau County, NY"	"36059"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"New York County, NY"	"36061"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Queens County, NY"	"36081"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Suffolk County, NY"	"36103"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Cuyahoga County, OH"	"39035"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Franklin County, OH"	"39049"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Montgomery County, OH"	"39113"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Oklahoma County, OK"	"40109"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Multnomah County, OR"	"41051"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Allegheny County, PA"	"42003"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Bucks County, PA"	"42017"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Philadelphia County, PA"	"42101"	43	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Providence County, RI"	"44007"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Davidson County, TN"	"47037"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Bexar County, TX"	"48029"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Dallas County, TX"	"48113"	26	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"El Paso County, TX"	"48141"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Harris County, TX"	"48201"	30	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Travis County, TX"	"48453"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"King County, WA"	"53033"	22	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Pierce County, WA"	"53053"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Milwaukee County, WI"	"55079"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Maricopa County, AZ"	"04013"	41	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Pima County, AZ"	"04019"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Alameda County, CA"	"06001"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Contra Costa County, CA"	"06013"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Los Angeles County, CA"	"06037"	61	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Orange County, CA"	"06059"	24	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Riverside County, CA"	"06065"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Sacramento County, CA"	"06067"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"San Bernardino County, CA"	"06071"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"San Diego County, CA"	"06073"	29	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"San Francisco County, CA"	"06075"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Sonoma County, CA"	"06097"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Fairfield County, CT"	"09001"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Hartford County, CT"	"09003"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"New Haven County, CT"	"09009"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Brevard County, FL"	"12009"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Broward County, FL"	"12011"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Duval County, FL"	"12031"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Hillsborough County, FL"	"12057"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Miami-Dade County, FL"	"12086"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Orange County, FL"	"12095"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Palm Beach County, FL"	"12099"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Pasco County, FL"	"12101"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Pinellas County, FL"	"12103"	32	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Cook County, IL"	"17031"	68	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Jefferson County, KY"	"21111"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Jefferson Parish, LA"	"22051"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Baltimore County, MD"	"24005"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Baltimore city, MD"	"24510"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Bristol County, MA"	"25005"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Essex County, MA"	"25009"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Middlesex County, MA"	"25017"	23	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Suffolk County, MA"	"25025"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Macomb County, MI"	"26099"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Wayne County, MI"	"26163"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Clark County, NV"	"32003"	31	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Camden County, NJ"	"34007"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Gloucester County, NJ"	"34015"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Bernalillo County, NM"	"35001"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Bronx County, NY"	"36005"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Kings County, NY"	"36047"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Nassau County, NY"	"36059"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"New York County, NY"	"36061"	27	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Queens County, NY"	"36081"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Suffolk County, NY"	"36103"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Cuyahoga County, OH"	"39035"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Franklin County, OH"	"39049"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Hamilton County, OH"	"39061"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Montgomery County, OH"	"39113"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Tulsa County, OK"	"40143"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Multnomah County, OR"	"41051"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Montgomery County, PA"	"42091"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Philadelphia County, PA"	"42101"	47	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Providence County, RI"	"44007"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Knox County, TN"	"47093"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Shelby County, TN"	"47157"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Bexar County, TX"	"48029"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Dallas County, TX"	"48113"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Harris County, TX"	"48201"	27	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Montgomery County, TX"	"48339"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Salt Lake County, UT"	"49035"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"King County, WA"	"53033"	22	Not Applicable	Not Applicable
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Milwaukee County, WI"	"55079"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Maricopa County, AZ"	"04013"	39	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Pima County, AZ"	"04019"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Alameda County, CA"	"06001"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Kern County, CA"	"06029"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Los Angeles County, CA"	"06037"	51	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Orange County, CA"	"06059"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Riverside County, CA"	"06065"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Sacramento County, CA"	"06067"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"San Diego County, CA"	"06073"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"San Francisco County, CA"	"06075"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"San Joaquin County, CA"	"06077"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Adams County, CO"	"08001"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"District of Columbia, DC"	"11001"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Broward County, FL"	"12011"	32	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Hillsborough County, FL"	"12057"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Miami-Dade County, FL"	"12086"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Palm Beach County, FL"	"12099"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Pinellas County, FL"	"12103"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Cook County, IL"	"17031"	60	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Marion County, IN"	"18097"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Baltimore County, MD"	"24005"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Baltimore city, MD"	"24510"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Essex County, MA"	"25009"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Middlesex County, MA"	"25017"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Suffolk County, MA"	"25025"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Worcester County, MA"	"25027"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Macomb County, MI"	"26099"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Oakland County, MI"	"26125"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Wayne County, MI"	"26163"	30	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Jackson County, MO"	"29095"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Clark County, NV"	"32003"	25	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Gloucester County, NJ"	"34015"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Bernalillo County, NM"	"35001"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Bronx County, NY"	"36005"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Kings County, NY"	"36047"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Nassau County, NY"	"36059"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"New York County, NY"	"36061"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Queens County, NY"	"36081"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Suffolk County, NY"	"36103"	22	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Butler County, OH"	"39017"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Cuyahoga County, OH"	"39035"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Franklin County, OH"	"39049"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Tulsa County, OK"	"40143"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Delaware County, PA"	"42045"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Montgomery County, PA"	"42091"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Philadelphia County, PA"	"42101"	47	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Providence County, RI"	"44007"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Bexar County, TX"	"48029"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Dallas County, TX"	"48113"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Harris County, TX"	"48201"	53	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Montgomery County, TX"	"48339"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Salt Lake County, UT"	"49035"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"King County, WA"	"53033"	23	Not Applicable	Not Applicable
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Milwaukee County, WI"	"55079"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Jefferson County, AL"	"01073"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Maricopa County, AZ"	"04013"	53	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Fresno County, CA"	"06019"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Los Angeles County, CA"	"06037"	60	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Orange County, CA"	"06059"	23	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Riverside County, CA"	"06065"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Sacramento County, CA"	"06067"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"San Diego County, CA"	"06073"	25	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Adams County, CO"	"08001"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Denver County, CO"	"08031"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"New Haven County, CT"	"09009"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"District of Columbia, DC"	"11001"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Broward County, FL"	"12011"	33	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Hillsborough County, FL"	"12057"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Lee County, FL"	"12071"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Palm Beach County, FL"	"12099"	23	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Pinellas County, FL"	"12103"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Cook County, IL"	"17031"	64	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Lake County, IL"	"17097"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Jefferson Parish, LA"	"22051"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Baltimore County, MD"	"24005"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Baltimore city, MD"	"24510"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Middlesex County, MA"	"25017"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Suffolk County, MA"	"25025"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Macomb County, MI"	"26099"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Wayne County, MI"	"26163"	25	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Jackson County, MO"	"29095"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Clark County, NV"	"32003"	26	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Camden County, NJ"	"34007"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Bernalillo County, NM"	"35001"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Bronx County, NY"	"36005"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Kings County, NY"	"36047"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Nassau County, NY"	"36059"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"New York County, NY"	"36061"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Queens County, NY"	"36081"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Suffolk County, NY"	"36103"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Mecklenburg County, NC"	"37119"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Cuyahoga County, OH"	"39035"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Franklin County, OH"	"39049"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Oklahoma County, OK"	"40109"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Tulsa County, OK"	"40143"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Multnomah County, OR"	"41051"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Allegheny County, PA"	"42003"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Delaware County, PA"	"42045"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Philadelphia County, PA"	"42101"	30	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Knox County, TN"	"47093"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Bexar County, TX"	"48029"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Dallas County, TX"	"48113"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Harris County, TX"	"48201"	28	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Travis County, TX"	"48453"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Salt Lake County, UT"	"49035"	23	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"King County, WA"	"53033"	24	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Snohomish County, WA"	"53061"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Spokane County, WA"	"53063"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Milwaukee County, WI"	"55079"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Maricopa County, AZ"	"04013"	41	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Pima County, AZ"	"04019"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Alameda County, CA"	"06001"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Los Angeles County, CA"	"06037"	49	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Orange County, CA"	"06059"	25	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Riverside County, CA"	"06065"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Sacramento County, CA"	"06067"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"San Bernardino County, CA"	"06071"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"San Diego County, CA"	"06073"	35	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"San Francisco County, CA"	"06075"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Ventura County, CA"	"06111"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Denver County, CO"	"08031"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Hartford County, CT"	"09003"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"New Haven County, CT"	"09009"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Broward County, FL"	"12011"	27	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Duval County, FL"	"12031"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Hillsborough County, FL"	"12057"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Lee County, FL"	"12071"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Orange County, FL"	"12095"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Palm Beach County, FL"	"12099"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Pasco County, FL"	"12101"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Pinellas County, FL"	"12103"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Cook County, IL"	"17031"	53	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Jefferson Parish, LA"	"22051"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Baltimore County, MD"	"24005"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Baltimore city, MD"	"24510"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Bristol County, MA"	"25005"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Essex County, MA"	"25009"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Middlesex County, MA"	"25017"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Suffolk County, MA"	"25025"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Oakland County, MI"	"26125"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Wayne County, MI"	"26163"	34	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Clark County, NV"	"32003"	28	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Camden County, NJ"	"34007"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Bernalillo County, NM"	"35001"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Bronx County, NY"	"36005"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Kings County, NY"	"36047"	26	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Nassau County, NY"	"36059"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"New York County, NY"	"36061"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Queens County, NY"	"36081"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Cuyahoga County, OH"	"39035"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Franklin County, OH"	"39049"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Montgomery County, OH"	"39113"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Oklahoma County, OK"	"40109"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Multnomah County, OR"	"41051"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Allegheny County, PA"	"42003"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Bucks County, PA"	"42017"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Montgomery County, PA"	"42091"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Philadelphia County, PA"	"42101"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Knox County, TN"	"47093"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Shelby County, TN"	"47157"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Bexar County, TX"	"48029"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Dallas County, TX"	"48113"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Harris County, TX"	"48201"	30	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Travis County, TX"	"48453"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"King County, WA"	"53033"	22	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Snohomish County, WA"	"53061"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Milwaukee County, WI"	"55079"	27	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Maricopa County, AZ"	"04013"	47	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Pima County, AZ"	"04019"	23	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Alameda County, CA"	"06001"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Los Angeles County, CA"	"06037"	67	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Orange County, CA"	"06059"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Sacramento County, CA"	"06067"	19	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"San Bernardino County, CA"	"06071"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"San Diego County, CA"	"06073"	26	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Santa Clara County, CA"	"06085"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Denver County, CO"	"08031"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Fairfield County, CT"	"09001"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Hartford County, CT"	"09003"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"New Haven County, CT"	"09009"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"District of Columbia, DC"	"11001"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Brevard County, FL"	"12009"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Broward County, FL"	"12011"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Duval County, FL"	"12031"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Hillsborough County, FL"	"12057"	20	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Miami-Dade County, FL"	"12086"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Orange County, FL"	"12095"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Palm Beach County, FL"	"12099"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Pinellas County, FL"	"12103"	27	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Honolulu County, HI"	"15003"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Cook County, IL"	"17031"	50	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Marion County, IN"	"18097"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Sedgwick County, KS"	"20173"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Jefferson County, KY"	"21111"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Baltimore County, MD"	"24005"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Baltimore city, MD"	"24510"	33	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Bristol County, MA"	"25005"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Essex County, MA"	"25009"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Middlesex County, MA"	"25017"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Suffolk County, MA"	"25025"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Worcester County, MA"	"25027"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Macomb County, MI"	"26099"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Wayne County, MI"	"26163"	22	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Greene County, MO"	"29077"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"St. Louis County, MO"	"29189"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"St. Louis city, MO"	"29510"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Clark County, NV"	"32003"	28	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Bernalillo County, NM"	"35001"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Bronx County, NY"	"36005"	30	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Kings County, NY"	"36047"	17	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Nassau County, NY"	"36059"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"New York County, NY"	"36061"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Queens County, NY"	"36081"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Suffolk County, NY"	"36103"	13	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Cuyahoga County, OH"	"39035"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Franklin County, OH"	"39049"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Hamilton County, OH"	"39061"	11	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Montgomery County, OH"	"39113"	16	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Tulsa County, OK"	"40143"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Philadelphia County, PA"	"42101"	32	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Providence County, RI"	"44007"	12	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Spartanburg County, SC"	"45083"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Bexar County, TX"	"48029"	14	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Dallas County, TX"	"48113"	21	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Harris County, TX"	"48201"	31	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Tarrant County, TX"	"48439"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Salt Lake County, UT"	"49035"	18	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"King County, WA"	"53033"	15	Not Applicable	Not Applicable
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Milwaukee County, WI"	"55079"	16	Not Applicable	Not Applicable

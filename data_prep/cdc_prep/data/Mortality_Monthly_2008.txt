@@ -1,0 +1,704 @@
+"Notes"	"Year"	"Year Code"	"Month"	"Month Code"	"County"	"County Code"	Deaths	Population	Crude Rate
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Maricopa County, AZ"	"04013"	50	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Pima County, AZ"	"04019"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Alameda County, CA"	"06001"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Fresno County, CA"	"06019"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Los Angeles County, CA"	"06037"	63	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Orange County, CA"	"06059"	30	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Riverside County, CA"	"06065"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Sacramento County, CA"	"06067"	23	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"San Diego County, CA"	"06073"	38	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"San Francisco County, CA"	"06075"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Santa Clara County, CA"	"06085"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Adams County, CO"	"08001"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Denver County, CO"	"08031"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"New Haven County, CT"	"09009"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"New Castle County, DE"	"10003"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Brevard County, FL"	"12009"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Broward County, FL"	"12011"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Duval County, FL"	"12031"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Hillsborough County, FL"	"12057"	20	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Miami-Dade County, FL"	"12086"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Orange County, FL"	"12095"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Palm Beach County, FL"	"12099"	28	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Pasco County, FL"	"12101"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Pinellas County, FL"	"12103"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Fulton County, GA"	"13121"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Cook County, IL"	"17031"	39	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Baltimore County, MD"	"24005"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Baltimore city, MD"	"24510"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Middlesex County, MA"	"25017"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Suffolk County, MA"	"25025"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Macomb County, MI"	"26099"	23	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Wayne County, MI"	"26163"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Clark County, NV"	"32003"	35	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Bernalillo County, NM"	"35001"	24	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Bronx County, NY"	"36005"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Kings County, NY"	"36047"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Nassau County, NY"	"36059"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Suffolk County, NY"	"36103"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Cuyahoga County, OH"	"39035"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Franklin County, OH"	"39049"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Montgomery County, OH"	"39113"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Oklahoma County, OK"	"40109"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Tulsa County, OK"	"40143"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Multnomah County, OR"	"41051"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Allegheny County, PA"	"42003"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Philadelphia County, PA"	"42101"	31	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Davidson County, TN"	"47037"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Bexar County, TX"	"48029"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Dallas County, TX"	"48113"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Harris County, TX"	"48201"	36	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Nueces County, TX"	"48355"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Tarrant County, TX"	"48439"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Salt Lake County, UT"	"49035"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"King County, WA"	"53033"	20	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Pierce County, WA"	"53053"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Snohomish County, WA"	"53061"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Milwaukee County, WI"	"55079"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Mobile County, AL"	"01097"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Maricopa County, AZ"	"04013"	51	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Contra Costa County, CA"	"06013"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Kern County, CA"	"06029"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Los Angeles County, CA"	"06037"	56	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Orange County, CA"	"06059"	38	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Riverside County, CA"	"06065"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Sacramento County, CA"	"06067"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"San Bernardino County, CA"	"06071"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"San Diego County, CA"	"06073"	27	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"San Francisco County, CA"	"06075"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Arapahoe County, CO"	"08005"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Denver County, CO"	"08031"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"El Paso County, CO"	"08041"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Hartford County, CT"	"09003"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"New Haven County, CT"	"09009"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Broward County, FL"	"12011"	24	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Hillsborough County, FL"	"12057"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Orange County, FL"	"12095"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Palm Beach County, FL"	"12099"	30	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Pinellas County, FL"	"12103"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Cook County, IL"	"17031"	50	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Lake County, IL"	"17097"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Marion County, IN"	"18097"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Jefferson County, KY"	"21111"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Jefferson Parish, LA"	"22051"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Baltimore County, MD"	"24005"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Baltimore city, MD"	"24510"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Middlesex County, MA"	"25017"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Worcester County, MA"	"25027"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Wayne County, MI"	"26163"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Jackson County, MO"	"29095"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"St. Louis County, MO"	"29189"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Clark County, NV"	"32003"	31	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Washoe County, NV"	"32031"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Bernalillo County, NM"	"35001"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Bronx County, NY"	"36005"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Kings County, NY"	"36047"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Nassau County, NY"	"36059"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"New York County, NY"	"36061"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Queens County, NY"	"36081"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Suffolk County, NY"	"36103"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Cuyahoga County, OH"	"39035"	20	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Franklin County, OH"	"39049"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Montgomery County, OH"	"39113"	28	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Tulsa County, OK"	"40143"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Multnomah County, OR"	"41051"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Allegheny County, PA"	"42003"	24	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Bucks County, PA"	"42017"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Delaware County, PA"	"42045"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Philadelphia County, PA"	"42101"	25	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Providence County, RI"	"44007"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Knox County, TN"	"47093"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Bexar County, TX"	"48029"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Dallas County, TX"	"48113"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Harris County, TX"	"48201"	20	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Tarrant County, TX"	"48439"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Travis County, TX"	"48453"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Salt Lake County, UT"	"49035"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"King County, WA"	"53033"	24	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Pierce County, WA"	"53053"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Snohomish County, WA"	"53061"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Milwaukee County, WI"	"55079"	22	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Anchorage Borough, AK"	"02020"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Maricopa County, AZ"	"04013"	47	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Alameda County, CA"	"06001"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Kern County, CA"	"06029"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Los Angeles County, CA"	"06037"	60	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Orange County, CA"	"06059"	29	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Riverside County, CA"	"06065"	24	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Sacramento County, CA"	"06067"	20	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"San Diego County, CA"	"06073"	28	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"San Francisco County, CA"	"06075"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Denver County, CO"	"08031"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"El Paso County, CO"	"08041"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Hartford County, CT"	"09003"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Broward County, FL"	"12011"	36	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Hillsborough County, FL"	"12057"	31	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Miami-Dade County, FL"	"12086"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Orange County, FL"	"12095"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Palm Beach County, FL"	"12099"	30	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Pasco County, FL"	"12101"	24	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Pinellas County, FL"	"12103"	28	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Polk County, FL"	"12105"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Sarasota County, FL"	"12115"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Fulton County, GA"	"13121"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Cook County, IL"	"17031"	42	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Marion County, IN"	"18097"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"St. Tammany Parish, LA"	"22103"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Baltimore County, MD"	"24005"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Baltimore city, MD"	"24510"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Middlesex County, MA"	"25017"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Worcester County, MA"	"25027"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Macomb County, MI"	"26099"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Wayne County, MI"	"26163"	30	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Clark County, NV"	"32003"	24	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Washoe County, NV"	"32031"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Bernalillo County, NM"	"35001"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Erie County, NY"	"36029"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Kings County, NY"	"36047"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"New York County, NY"	"36061"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Suffolk County, NY"	"36103"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Cuyahoga County, OH"	"39035"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Franklin County, OH"	"39049"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Hamilton County, OH"	"39061"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Montgomery County, OH"	"39113"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Oklahoma County, OK"	"40109"	20	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Tulsa County, OK"	"40143"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Multnomah County, OR"	"41051"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Allegheny County, PA"	"42003"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Delaware County, PA"	"42045"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Philadelphia County, PA"	"42101"	40	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Providence County, RI"	"44007"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Greenville County, SC"	"45045"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Dallas County, TX"	"48113"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Harris County, TX"	"48201"	45	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Tarrant County, TX"	"48439"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Salt Lake County, UT"	"49035"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Kanawha County, WV"	"54039"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Milwaukee County, WI"	"55079"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Maricopa County, AZ"	"04013"	51	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Alameda County, CA"	"06001"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Contra Costa County, CA"	"06013"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Fresno County, CA"	"06019"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Kern County, CA"	"06029"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Los Angeles County, CA"	"06037"	63	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Orange County, CA"	"06059"	28	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Riverside County, CA"	"06065"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Sacramento County, CA"	"06067"	22	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"San Bernardino County, CA"	"06071"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"San Diego County, CA"	"06073"	31	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"San Francisco County, CA"	"06075"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Santa Clara County, CA"	"06085"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Denver County, CO"	"08031"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"El Paso County, CO"	"08041"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Brevard County, FL"	"12009"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Broward County, FL"	"12011"	31	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Duval County, FL"	"12031"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Hillsborough County, FL"	"12057"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Miami-Dade County, FL"	"12086"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Orange County, FL"	"12095"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Palm Beach County, FL"	"12099"	23	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Pasco County, FL"	"12101"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Pinellas County, FL"	"12103"	27	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Fulton County, GA"	"13121"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Cook County, IL"	"17031"	52	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"DuPage County, IL"	"17043"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Marion County, IN"	"18097"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Jefferson Parish, LA"	"22051"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Anne Arundel County, MD"	"24003"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Baltimore city, MD"	"24510"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Essex County, MA"	"25009"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Middlesex County, MA"	"25017"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Genesee County, MI"	"26049"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Macomb County, MI"	"26099"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Wayne County, MI"	"26163"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"St. Louis County, MO"	"29189"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Clark County, NV"	"32003"	23	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Bernalillo County, NM"	"35001"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Bronx County, NY"	"36005"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Erie County, NY"	"36029"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Kings County, NY"	"36047"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Nassau County, NY"	"36059"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"New York County, NY"	"36061"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Queens County, NY"	"36081"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Suffolk County, NY"	"36103"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Cuyahoga County, OH"	"39035"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Franklin County, OH"	"39049"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Hamilton County, OH"	"39061"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Montgomery County, OH"	"39113"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Oklahoma County, OK"	"40109"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Tulsa County, OK"	"40143"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Allegheny County, PA"	"42003"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Delaware County, PA"	"42045"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Lehigh County, PA"	"42077"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Philadelphia County, PA"	"42101"	27	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Greenville County, SC"	"45045"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Knox County, TN"	"47093"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Shelby County, TN"	"47157"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Bexar County, TX"	"48029"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Dallas County, TX"	"48113"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Harris County, TX"	"48201"	35	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Tarrant County, TX"	"48439"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Salt Lake County, UT"	"49035"	20	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"King County, WA"	"53033"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Pierce County, WA"	"53053"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Snohomish County, WA"	"53061"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Spokane County, WA"	"53063"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Milwaukee County, WI"	"55079"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Maricopa County, AZ"	"04013"	52	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Alameda County, CA"	"06001"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Los Angeles County, CA"	"06037"	62	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Orange County, CA"	"06059"	20	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Riverside County, CA"	"06065"	22	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Sacramento County, CA"	"06067"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"San Diego County, CA"	"06073"	31	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"San Francisco County, CA"	"06075"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"San Joaquin County, CA"	"06077"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Santa Clara County, CA"	"06085"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Adams County, CO"	"08001"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Denver County, CO"	"08031"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Fairfield County, CT"	"09001"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Brevard County, FL"	"12009"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Broward County, FL"	"12011"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Hillsborough County, FL"	"12057"	29	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Lee County, FL"	"12071"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Miami-Dade County, FL"	"12086"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Orange County, FL"	"12095"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Palm Beach County, FL"	"12099"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Pasco County, FL"	"12101"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Pinellas County, FL"	"12103"	29	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Volusia County, FL"	"12127"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Cobb County, GA"	"13067"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Honolulu County, HI"	"15003"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Cook County, IL"	"17031"	54	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Marion County, IN"	"18097"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Baltimore city, MD"	"24510"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Bristol County, MA"	"25005"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Middlesex County, MA"	"25017"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Norfolk County, MA"	"25021"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Suffolk County, MA"	"25025"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Macomb County, MI"	"26099"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Wayne County, MI"	"26163"	25	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Hennepin County, MN"	"27053"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Clark County, NV"	"32003"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Bernalillo County, NM"	"35001"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Kings County, NY"	"36047"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Nassau County, NY"	"36059"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"New York County, NY"	"36061"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Queens County, NY"	"36081"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Suffolk County, NY"	"36103"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Cuyahoga County, OH"	"39035"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Franklin County, OH"	"39049"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Montgomery County, OH"	"39113"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Oklahoma County, OK"	"40109"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Multnomah County, OR"	"41051"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Allegheny County, PA"	"42003"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Bucks County, PA"	"42017"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Montgomery County, PA"	"42091"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Philadelphia County, PA"	"42101"	30	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Providence County, RI"	"44007"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Shelby County, TN"	"47157"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Bexar County, TX"	"48029"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Dallas County, TX"	"48113"	22	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Harris County, TX"	"48201"	31	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Salt Lake County, UT"	"49035"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"King County, WA"	"53033"	28	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Snohomish County, WA"	"53061"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Spokane County, WA"	"53063"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Kanawha County, WV"	"54039"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Milwaukee County, WI"	"55079"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Maricopa County, AZ"	"04013"	39	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Pima County, AZ"	"04019"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Alameda County, CA"	"06001"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Contra Costa County, CA"	"06013"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Kern County, CA"	"06029"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Los Angeles County, CA"	"06037"	53	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Orange County, CA"	"06059"	28	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Riverside County, CA"	"06065"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Sacramento County, CA"	"06067"	34	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"San Diego County, CA"	"06073"	26	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"San Francisco County, CA"	"06075"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"San Joaquin County, CA"	"06077"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Ventura County, CA"	"06111"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Denver County, CO"	"08031"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"El Paso County, CO"	"08041"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Fairfield County, CT"	"09001"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Broward County, FL"	"12011"	28	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Hillsborough County, FL"	"12057"	27	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Lee County, FL"	"12071"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Miami-Dade County, FL"	"12086"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Orange County, FL"	"12095"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Palm Beach County, FL"	"12099"	22	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Pasco County, FL"	"12101"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Pinellas County, FL"	"12103"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Sarasota County, FL"	"12115"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Fulton County, GA"	"13121"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Cook County, IL"	"17031"	46	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Marion County, IN"	"18097"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Baltimore County, MD"	"24005"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Baltimore city, MD"	"24510"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Middlesex County, MA"	"25017"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Suffolk County, MA"	"25025"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Worcester County, MA"	"25027"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Macomb County, MI"	"26099"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Wayne County, MI"	"26163"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Hennepin County, MN"	"27053"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"St. Louis County, MO"	"29189"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Clark County, NV"	"32003"	34	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Bernalillo County, NM"	"35001"	31	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Bronx County, NY"	"36005"	22	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Kings County, NY"	"36047"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"New York County, NY"	"36061"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Suffolk County, NY"	"36103"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Cuyahoga County, OH"	"39035"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Franklin County, OH"	"39049"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Hamilton County, OH"	"39061"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Montgomery County, OH"	"39113"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Oklahoma County, OK"	"40109"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Multnomah County, OR"	"41051"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Allegheny County, PA"	"42003"	22	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Delaware County, PA"	"42045"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Philadelphia County, PA"	"42101"	34	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Bexar County, TX"	"48029"	22	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Dallas County, TX"	"48113"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Harris County, TX"	"48201"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Tarrant County, TX"	"48439"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Salt Lake County, UT"	"49035"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"King County, WA"	"53033"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Pierce County, WA"	"53053"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Spokane County, WA"	"53063"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Milwaukee County, WI"	"55079"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Alameda County, CA"	"06001"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Contra Costa County, CA"	"06013"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Kern County, CA"	"06029"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Los Angeles County, CA"	"06037"	59	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Orange County, CA"	"06059"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Riverside County, CA"	"06065"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Sacramento County, CA"	"06067"	20	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"San Bernardino County, CA"	"06071"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"San Diego County, CA"	"06073"	33	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"San Joaquin County, CA"	"06077"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Denver County, CO"	"08031"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Broward County, FL"	"12011"	22	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Miami-Dade County, FL"	"12086"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Palm Beach County, FL"	"12099"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Pasco County, FL"	"12101"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Pinellas County, FL"	"12103"	26	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Volusia County, FL"	"12127"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Honolulu County, HI"	"15003"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Cook County, IL"	"17031"	40	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Marion County, IN"	"18097"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Jefferson County, KY"	"21111"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Baltimore city, MD"	"24510"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Bristol County, MA"	"25005"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Macomb County, MI"	"26099"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Wayne County, MI"	"26163"	23	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"St. Louis County, MO"	"29189"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Clark County, NV"	"32003"	40	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Bernalillo County, NM"	"35001"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Bronx County, NY"	"36005"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Kings County, NY"	"36047"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Nassau County, NY"	"36059"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"New York County, NY"	"36061"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Queens County, NY"	"36081"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Suffolk County, NY"	"36103"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Wake County, NC"	"37183"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Butler County, OH"	"39017"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Franklin County, OH"	"39049"	20	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Hamilton County, OH"	"39061"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Montgomery County, OH"	"39113"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Oklahoma County, OK"	"40109"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Tulsa County, OK"	"40143"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Allegheny County, PA"	"42003"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Montgomery County, PA"	"42091"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Philadelphia County, PA"	"42101"	32	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Providence County, RI"	"44007"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Bexar County, TX"	"48029"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Dallas County, TX"	"48113"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Harris County, TX"	"48201"	29	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Travis County, TX"	"48453"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Salt Lake County, UT"	"49035"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"King County, WA"	"53033"	22	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Pierce County, WA"	"53053"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Spokane County, WA"	"53063"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Milwaukee County, WI"	"55079"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Jefferson County, AL"	"01073"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Maricopa County, AZ"	"04013"	48	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Pima County, AZ"	"04019"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Alameda County, CA"	"06001"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Fresno County, CA"	"06019"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Kern County, CA"	"06029"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Los Angeles County, CA"	"06037"	48	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Orange County, CA"	"06059"	26	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Riverside County, CA"	"06065"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Sacramento County, CA"	"06067"	22	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"San Diego County, CA"	"06073"	33	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"San Francisco County, CA"	"06075"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"San Joaquin County, CA"	"06077"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"San Mateo County, CA"	"06081"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Denver County, CO"	"08031"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Hartford County, CT"	"09003"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"New Haven County, CT"	"09009"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Brevard County, FL"	"12009"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Broward County, FL"	"12011"	23	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Duval County, FL"	"12031"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Hillsborough County, FL"	"12057"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Miami-Dade County, FL"	"12086"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Orange County, FL"	"12095"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Palm Beach County, FL"	"12099"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Pasco County, FL"	"12101"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Pinellas County, FL"	"12103"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Volusia County, FL"	"12127"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Fulton County, GA"	"13121"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Hawaii County, HI"	"15001"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Honolulu County, HI"	"15003"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Cook County, IL"	"17031"	45	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Winnebago County, IL"	"17201"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Baltimore County, MD"	"24005"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Baltimore city, MD"	"24510"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Middlesex County, MA"	"25017"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Macomb County, MI"	"26099"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Wayne County, MI"	"26163"	25	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Hennepin County, MN"	"27053"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Clark County, NV"	"32003"	33	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Camden County, NJ"	"34007"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Bernalillo County, NM"	"35001"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Bronx County, NY"	"36005"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Kings County, NY"	"36047"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Nassau County, NY"	"36059"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Queens County, NY"	"36081"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Suffolk County, NY"	"36103"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Cuyahoga County, OH"	"39035"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Franklin County, OH"	"39049"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Hamilton County, OH"	"39061"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Montgomery County, OH"	"39113"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Allegheny County, PA"	"42003"	26	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Philadelphia County, PA"	"42101"	43	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Shelby County, TN"	"47157"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Bexar County, TX"	"48029"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Dallas County, TX"	"48113"	23	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Harris County, TX"	"48201"	29	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Tarrant County, TX"	"48439"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Travis County, TX"	"48453"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Salt Lake County, UT"	"49035"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"King County, WA"	"53033"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Spokane County, WA"	"53063"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Milwaukee County, WI"	"55079"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Maricopa County, AZ"	"04013"	56	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Pima County, AZ"	"04019"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Alameda County, CA"	"06001"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Butte County, CA"	"06007"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Los Angeles County, CA"	"06037"	59	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Orange County, CA"	"06059"	27	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Riverside County, CA"	"06065"	23	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Sacramento County, CA"	"06067"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"San Bernardino County, CA"	"06071"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"San Diego County, CA"	"06073"	34	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"San Francisco County, CA"	"06075"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Denver County, CO"	"08031"	24	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Broward County, FL"	"12011"	33	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Hillsborough County, FL"	"12057"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Miami-Dade County, FL"	"12086"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Palm Beach County, FL"	"12099"	20	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Pasco County, FL"	"12101"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Pinellas County, FL"	"12103"	23	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Polk County, FL"	"12105"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Cook County, IL"	"17031"	45	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Baltimore County, MD"	"24005"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Baltimore city, MD"	"24510"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Bristol County, MA"	"25005"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Essex County, MA"	"25009"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Middlesex County, MA"	"25017"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Macomb County, MI"	"26099"	25	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Wayne County, MI"	"26163"	28	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Clark County, NV"	"32003"	35	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Bernalillo County, NM"	"35001"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Kings County, NY"	"36047"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Nassau County, NY"	"36059"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"New York County, NY"	"36061"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Suffolk County, NY"	"36103"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Cuyahoga County, OH"	"39035"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Franklin County, OH"	"39049"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Montgomery County, OH"	"39113"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Tulsa County, OK"	"40143"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Allegheny County, PA"	"42003"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Luzerne County, PA"	"42079"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Philadelphia County, PA"	"42101"	29	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Providence County, RI"	"44007"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Bexar County, TX"	"48029"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Dallas County, TX"	"48113"	20	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Harris County, TX"	"48201"	23	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Tarrant County, TX"	"48439"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Salt Lake County, UT"	"49035"	20	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"King County, WA"	"53033"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Spokane County, WA"	"53063"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Milwaukee County, WI"	"55079"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Maricopa County, AZ"	"04013"	37	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Pima County, AZ"	"04019"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Alameda County, CA"	"06001"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Contra Costa County, CA"	"06013"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Kern County, CA"	"06029"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Los Angeles County, CA"	"06037"	59	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Orange County, CA"	"06059"	22	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Riverside County, CA"	"06065"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Sacramento County, CA"	"06067"	25	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"San Bernardino County, CA"	"06071"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"San Diego County, CA"	"06073"	28	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"San Joaquin County, CA"	"06077"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Santa Clara County, CA"	"06085"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Denver County, CO"	"08031"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Brevard County, FL"	"12009"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Broward County, FL"	"12011"	38	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Hillsborough County, FL"	"12057"	22	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Lee County, FL"	"12071"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Palm Beach County, FL"	"12099"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Pinellas County, FL"	"12103"	25	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Volusia County, FL"	"12127"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Fulton County, GA"	"13121"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Cook County, IL"	"17031"	40	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Marion County, IN"	"18097"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Jefferson County, KY"	"21111"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Baltimore County, MD"	"24005"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Baltimore city, MD"	"24510"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Bristol County, MA"	"25005"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Middlesex County, MA"	"25017"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Norfolk County, MA"	"25021"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Suffolk County, MA"	"25025"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Worcester County, MA"	"25027"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Genesee County, MI"	"26049"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Macomb County, MI"	"26099"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Wayne County, MI"	"26163"	23	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Clark County, NV"	"32003"	28	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Bernalillo County, NM"	"35001"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Bronx County, NY"	"36005"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Kings County, NY"	"36047"	20	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Nassau County, NY"	"36059"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"New York County, NY"	"36061"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Suffolk County, NY"	"36103"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Cuyahoga County, OH"	"39035"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Franklin County, OH"	"39049"	23	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Hamilton County, OH"	"39061"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Montgomery County, OH"	"39113"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Multnomah County, OR"	"41051"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Allegheny County, PA"	"42003"	25	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Luzerne County, PA"	"42079"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Montgomery County, PA"	"42091"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Philadelphia County, PA"	"42101"	29	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Dallas County, TX"	"48113"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Salt Lake County, UT"	"49035"	20	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"King County, WA"	"53033"	26	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Pierce County, WA"	"53053"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Spokane County, WA"	"53063"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Jefferson County, AL"	"01073"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Maricopa County, AZ"	"04013"	41	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Pima County, AZ"	"04019"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Alameda County, CA"	"06001"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Contra Costa County, CA"	"06013"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Los Angeles County, CA"	"06037"	62	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Orange County, CA"	"06059"	37	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Riverside County, CA"	"06065"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Sacramento County, CA"	"06067"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"San Diego County, CA"	"06073"	27	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"San Francisco County, CA"	"06075"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Larimer County, CO"	"08069"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"New Haven County, CT"	"09009"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Brevard County, FL"	"12009"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Broward County, FL"	"12011"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Duval County, FL"	"12031"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Hillsborough County, FL"	"12057"	22	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Orange County, FL"	"12095"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Palm Beach County, FL"	"12099"	25	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Pinellas County, FL"	"12103"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Polk County, FL"	"12105"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Fulton County, GA"	"13121"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Cook County, IL"	"17031"	42	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Marion County, IN"	"18097"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Sedgwick County, KS"	"20173"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Baltimore city, MD"	"24510"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Middlesex County, MA"	"25017"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Macomb County, MI"	"26099"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Wayne County, MI"	"26163"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"St. Louis County, MO"	"29189"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Clark County, NV"	"32003"	25	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Camden County, NJ"	"34007"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Bernalillo County, NM"	"35001"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Bronx County, NY"	"36005"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Erie County, NY"	"36029"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Kings County, NY"	"36047"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"New York County, NY"	"36061"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Queens County, NY"	"36081"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Suffolk County, NY"	"36103"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Cuyahoga County, OH"	"39035"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Franklin County, OH"	"39049"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Hamilton County, OH"	"39061"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Tulsa County, OK"	"40143"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Multnomah County, OR"	"41051"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Allegheny County, PA"	"42003"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Bucks County, PA"	"42017"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Montgomery County, PA"	"42091"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Philadelphia County, PA"	"42101"	25	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Davidson County, TN"	"47037"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Knox County, TN"	"47093"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Salt Lake County, UT"	"49035"	21	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"King County, WA"	"53033"	22	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Pierce County, WA"	"53053"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Snohomish County, WA"	"53061"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Milwaukee County, WI"	"55079"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Maricopa County, AZ"	"04013"	46	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Pima County, AZ"	"04019"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Alameda County, CA"	"06001"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Contra Costa County, CA"	"06013"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Kern County, CA"	"06029"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Los Angeles County, CA"	"06037"	63	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Orange County, CA"	"06059"	24	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Riverside County, CA"	"06065"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Sacramento County, CA"	"06067"	20	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"San Bernardino County, CA"	"06071"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"San Diego County, CA"	"06073"	25	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"San Francisco County, CA"	"06075"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Santa Clara County, CA"	"06085"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"New Haven County, CT"	"09009"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Brevard County, FL"	"12009"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Broward County, FL"	"12011"	27	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Duval County, FL"	"12031"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Hillsborough County, FL"	"12057"	23	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Miami-Dade County, FL"	"12086"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Palm Beach County, FL"	"12099"	23	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Pasco County, FL"	"12101"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Pinellas County, FL"	"12103"	33	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Volusia County, FL"	"12127"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Cook County, IL"	"17031"	49	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Lake County, IL"	"17097"	12	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Marion County, IN"	"18097"	16	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Jefferson Parish, LA"	"22051"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Baltimore County, MD"	"24005"	19	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Baltimore city, MD"	"24510"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Middlesex County, MA"	"25017"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Macomb County, MI"	"26099"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Wayne County, MI"	"26163"	22	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Clark County, NV"	"32003"	37	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Bernalillo County, NM"	"35001"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Kings County, NY"	"36047"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Nassau County, NY"	"36059"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"New York County, NY"	"36061"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Queens County, NY"	"36081"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Suffolk County, NY"	"36103"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Cuyahoga County, OH"	"39035"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Franklin County, OH"	"39049"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Hamilton County, OH"	"39061"	18	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Montgomery County, OH"	"39113"	15	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Summit County, OH"	"39153"	11	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Allegheny County, PA"	"42003"	20	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Bucks County, PA"	"42017"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Philadelphia County, PA"	"42101"	38	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Providence County, RI"	"44007"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Spartanburg County, SC"	"45083"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Davidson County, TN"	"47037"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Shelby County, TN"	"47157"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Harris County, TX"	"48201"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Salt Lake County, UT"	"49035"	17	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"King County, WA"	"53033"	28	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Pierce County, WA"	"53053"	13	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Snohomish County, WA"	"53061"	14	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Spokane County, WA"	"53063"	10	Not Applicable	Not Applicable
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Milwaukee County, WI"	"55079"	17	Not Applicable	Not Applicable

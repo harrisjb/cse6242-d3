@@ -1,0 +1,856 @@
+"Notes"	"Year"	"Year Code"	"Month"	"Month Code"	"County"	"County Code"	Deaths	Population	Crude Rate
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Maricopa County, AZ"	"04013"	42	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Pima County, AZ"	"04019"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Alameda County, CA"	"06001"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Kern County, CA"	"06029"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Los Angeles County, CA"	"06037"	65	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Orange County, CA"	"06059"	35	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Riverside County, CA"	"06065"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Sacramento County, CA"	"06067"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"San Bernardino County, CA"	"06071"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"San Diego County, CA"	"06073"	28	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"San Francisco County, CA"	"06075"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Arapahoe County, CO"	"08005"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Denver County, CO"	"08031"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Brevard County, FL"	"12009"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Broward County, FL"	"12011"	36	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Hillsborough County, FL"	"12057"	27	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Lee County, FL"	"12071"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Orange County, FL"	"12095"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Palm Beach County, FL"	"12099"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Pasco County, FL"	"12101"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Pinellas County, FL"	"12103"	27	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Polk County, FL"	"12105"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Sarasota County, FL"	"12115"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Volusia County, FL"	"12127"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Fulton County, GA"	"13121"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Honolulu County, HI"	"15003"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Cook County, IL"	"17031"	40	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Marion County, IN"	"18097"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Jefferson County, KY"	"21111"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Baltimore County, MD"	"24005"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Baltimore city, MD"	"24510"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Middlesex County, MA"	"25017"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Worcester County, MA"	"25027"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Genesee County, MI"	"26049"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Wayne County, MI"	"26163"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Hennepin County, MN"	"27053"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"St. Louis County, MO"	"29189"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Clark County, NV"	"32003"	26	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Union County, NJ"	"34039"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Bernalillo County, NM"	"35001"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Bronx County, NY"	"36005"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Erie County, NY"	"36029"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Kings County, NY"	"36047"	23	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"New York County, NY"	"36061"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Queens County, NY"	"36081"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Suffolk County, NY"	"36103"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Wake County, NC"	"37183"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Cuyahoga County, OH"	"39035"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Franklin County, OH"	"39049"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Hamilton County, OH"	"39061"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Oklahoma County, OK"	"40109"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Tulsa County, OK"	"40143"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Multnomah County, OR"	"41051"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Allegheny County, PA"	"42003"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Montgomery County, PA"	"42091"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Philadelphia County, PA"	"42101"	26	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Providence County, RI"	"44007"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Sevier County, TN"	"47155"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Shelby County, TN"	"47157"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Bexar County, TX"	"48029"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Dallas County, TX"	"48113"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Harris County, TX"	"48201"	32	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Salt Lake County, UT"	"49035"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"King County, WA"	"53033"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Snohomish County, WA"	"53061"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Dane County, WI"	"55025"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Milwaukee County, WI"	"55079"	14	Not Applicable	Not Applicable
+"Total"	"2010"	"2010"	"Jan., 2010"	"2010/01"			3272	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Maricopa County, AZ"	"04013"	31	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Pima County, AZ"	"04019"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Butte County, CA"	"06007"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Fresno County, CA"	"06019"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Kern County, CA"	"06029"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Los Angeles County, CA"	"06037"	45	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Orange County, CA"	"06059"	24	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Riverside County, CA"	"06065"	33	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Sacramento County, CA"	"06067"	24	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"San Diego County, CA"	"06073"	24	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"San Francisco County, CA"	"06075"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Santa Clara County, CA"	"06085"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Stanislaus County, CA"	"06099"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Ventura County, CA"	"06111"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"New Haven County, CT"	"09009"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"District of Columbia, DC"	"11001"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Broward County, FL"	"12011"	21	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Hillsborough County, FL"	"12057"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Lee County, FL"	"12071"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Orange County, FL"	"12095"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Palm Beach County, FL"	"12099"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Pasco County, FL"	"12101"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Pinellas County, FL"	"12103"	20	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Polk County, FL"	"12105"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Fulton County, GA"	"13121"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Cook County, IL"	"17031"	26	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Winnebago County, IL"	"17201"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Marion County, IN"	"18097"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Baltimore County, MD"	"24005"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Baltimore city, MD"	"24510"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Middlesex County, MA"	"25017"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Worcester County, MA"	"25027"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Macomb County, MI"	"26099"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Wayne County, MI"	"26163"	24	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Hennepin County, MN"	"27053"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"St. Louis County, MO"	"29189"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Clark County, NV"	"32003"	36	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Bernalillo County, NM"	"35001"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Kings County, NY"	"36047"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"New York County, NY"	"36061"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Suffolk County, NY"	"36103"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Franklin County, OH"	"39049"	24	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Montgomery County, OH"	"39113"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Oklahoma County, OK"	"40109"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Tulsa County, OK"	"40143"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Multnomah County, OR"	"41051"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Allegheny County, PA"	"42003"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Delaware County, PA"	"42045"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Philadelphia County, PA"	"42101"	28	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Knox County, TN"	"47093"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Shelby County, TN"	"47157"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Bexar County, TX"	"48029"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Dallas County, TX"	"48113"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Harris County, TX"	"48201"	42	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Tarrant County, TX"	"48439"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Salt Lake County, UT"	"49035"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"King County, WA"	"53033"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Spokane County, WA"	"53063"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Milwaukee County, WI"	"55079"	22	Not Applicable	Not Applicable
+"Total"	"2010"	"2010"	"Feb., 2010"	"2010/02"			3081	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Maricopa County, AZ"	"04013"	45	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Pima County, AZ"	"04019"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Alameda County, CA"	"06001"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Kern County, CA"	"06029"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Los Angeles County, CA"	"06037"	66	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Orange County, CA"	"06059"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Riverside County, CA"	"06065"	23	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Sacramento County, CA"	"06067"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"San Bernardino County, CA"	"06071"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"San Diego County, CA"	"06073"	38	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"San Francisco County, CA"	"06075"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Santa Clara County, CA"	"06085"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Sonoma County, CA"	"06097"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"New Haven County, CT"	"09009"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Brevard County, FL"	"12009"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Broward County, FL"	"12011"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Duval County, FL"	"12031"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Hillsborough County, FL"	"12057"	25	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Lee County, FL"	"12071"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Orange County, FL"	"12095"	21	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Palm Beach County, FL"	"12099"	32	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Pasco County, FL"	"12101"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Pinellas County, FL"	"12103"	32	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Sarasota County, FL"	"12115"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Cook County, IL"	"17031"	46	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Madison County, IL"	"17119"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Baltimore County, MD"	"24005"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Baltimore city, MD"	"24510"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Middlesex County, MA"	"25017"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Norfolk County, MA"	"25021"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Suffolk County, MA"	"25025"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Macomb County, MI"	"26099"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Wayne County, MI"	"26163"	20	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Jackson County, MO"	"29095"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"St. Louis County, MO"	"29189"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Clark County, NV"	"32003"	35	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Camden County, NJ"	"34007"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Essex County, NJ"	"34013"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Bernalillo County, NM"	"35001"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Bronx County, NY"	"36005"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Erie County, NY"	"36029"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"New York County, NY"	"36061"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Suffolk County, NY"	"36103"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Butler County, OH"	"39017"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Cuyahoga County, OH"	"39035"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Franklin County, OH"	"39049"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Hamilton County, OH"	"39061"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Montgomery County, OH"	"39113"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Summit County, OH"	"39153"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Oklahoma County, OK"	"40109"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Tulsa County, OK"	"40143"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Multnomah County, OR"	"41051"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Allegheny County, PA"	"42003"	24	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Delaware County, PA"	"42045"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Montgomery County, PA"	"42091"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Philadelphia County, PA"	"42101"	25	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Knox County, TN"	"47093"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Shelby County, TN"	"47157"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Bexar County, TX"	"48029"	20	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Dallas County, TX"	"48113"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Harris County, TX"	"48201"	31	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Travis County, TX"	"48453"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Salt Lake County, UT"	"49035"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"King County, WA"	"53033"	24	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Milwaukee County, WI"	"55079"	13	Not Applicable	Not Applicable
+"Total"	"2010"	"2010"	"Mar., 2010"	"2010/03"			3407	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Maricopa County, AZ"	"04013"	55	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Pima County, AZ"	"04019"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Alameda County, CA"	"06001"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Contra Costa County, CA"	"06013"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Fresno County, CA"	"06019"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Kern County, CA"	"06029"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Los Angeles County, CA"	"06037"	53	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Orange County, CA"	"06059"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Riverside County, CA"	"06065"	20	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Sacramento County, CA"	"06067"	21	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"San Bernardino County, CA"	"06071"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"San Diego County, CA"	"06073"	28	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"San Francisco County, CA"	"06075"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"San Joaquin County, CA"	"06077"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Santa Clara County, CA"	"06085"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Shasta County, CA"	"06089"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Stanislaus County, CA"	"06099"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Ventura County, CA"	"06111"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Arapahoe County, CO"	"08005"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Denver County, CO"	"08031"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"New Haven County, CT"	"09009"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Brevard County, FL"	"12009"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Broward County, FL"	"12011"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Hillsborough County, FL"	"12057"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Manatee County, FL"	"12081"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Palm Beach County, FL"	"12099"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Pasco County, FL"	"12101"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Pinellas County, FL"	"12103"	22	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Fulton County, GA"	"13121"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Cook County, IL"	"17031"	32	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Marion County, IN"	"18097"	20	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Baltimore County, MD"	"24005"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Baltimore city, MD"	"24510"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Bristol County, MA"	"25005"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Hampden County, MA"	"25013"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Middlesex County, MA"	"25017"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Genesee County, MI"	"26049"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Macomb County, MI"	"26099"	22	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Wayne County, MI"	"26163"	24	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"St. Louis County, MO"	"29189"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Clark County, NV"	"32003"	30	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Essex County, NJ"	"34013"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Ocean County, NJ"	"34029"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Bernalillo County, NM"	"35001"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Bronx County, NY"	"36005"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Kings County, NY"	"36047"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Queens County, NY"	"36081"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Cuyahoga County, OH"	"39035"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Franklin County, OH"	"39049"	21	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Oklahoma County, OK"	"40109"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Tulsa County, OK"	"40143"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Allegheny County, PA"	"42003"	21	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Delaware County, PA"	"42045"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Philadelphia County, PA"	"42101"	22	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Davidson County, TN"	"47037"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Knox County, TN"	"47093"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Shelby County, TN"	"47157"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Bexar County, TX"	"48029"	21	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Dallas County, TX"	"48113"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Harris County, TX"	"48201"	37	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Tarrant County, TX"	"48439"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Salt Lake County, UT"	"49035"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"King County, WA"	"53033"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Snohomish County, WA"	"53061"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Milwaukee County, WI"	"55079"	12	Not Applicable	Not Applicable
+"Total"	"2010"	"2010"	"Apr., 2010"	"2010/04"			3203	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Maricopa County, AZ"	"04013"	47	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Pima County, AZ"	"04019"	23	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Contra Costa County, CA"	"06013"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Fresno County, CA"	"06019"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Kern County, CA"	"06029"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Los Angeles County, CA"	"06037"	56	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Orange County, CA"	"06059"	22	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Riverside County, CA"	"06065"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Sacramento County, CA"	"06067"	22	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"San Bernardino County, CA"	"06071"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"San Diego County, CA"	"06073"	28	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"San Francisco County, CA"	"06075"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Santa Clara County, CA"	"06085"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Sonoma County, CA"	"06097"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Ventura County, CA"	"06111"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Denver County, CO"	"08031"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"New Haven County, CT"	"09009"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Brevard County, FL"	"12009"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Broward County, FL"	"12011"	26	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Duval County, FL"	"12031"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Hillsborough County, FL"	"12057"	22	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Lee County, FL"	"12071"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Miami-Dade County, FL"	"12086"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Palm Beach County, FL"	"12099"	20	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Pinellas County, FL"	"12103"	29	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Volusia County, FL"	"12127"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Cook County, IL"	"17031"	40	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"DuPage County, IL"	"17043"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Lake County, IL"	"17097"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Marion County, IN"	"18097"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Bristol County, MA"	"25005"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Norfolk County, MA"	"25021"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Genesee County, MI"	"26049"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Macomb County, MI"	"26099"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Oakland County, MI"	"26125"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Wayne County, MI"	"26163"	23	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"St. Louis County, MO"	"29189"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Clark County, NV"	"32003"	36	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Washoe County, NV"	"32031"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Bernalillo County, NM"	"35001"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Kings County, NY"	"36047"	26	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Queens County, NY"	"36081"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Suffolk County, NY"	"36103"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Cuyahoga County, OH"	"39035"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Franklin County, OH"	"39049"	23	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Oklahoma County, OK"	"40109"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Tulsa County, OK"	"40143"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Multnomah County, OR"	"41051"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Allegheny County, PA"	"42003"	28	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Berks County, PA"	"42011"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Delaware County, PA"	"42045"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Montgomery County, PA"	"42091"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Philadelphia County, PA"	"42101"	31	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Bexar County, TX"	"48029"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Dallas County, TX"	"48113"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Harris County, TX"	"48201"	35	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Tarrant County, TX"	"48439"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Travis County, TX"	"48453"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"King County, WA"	"53033"	23	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Pierce County, WA"	"53053"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Snohomish County, WA"	"53061"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Milwaukee County, WI"	"55079"	15	Not Applicable	Not Applicable
+"Total"	"2010"	"2010"	"May, 2010"	"2010/05"			3309	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Maricopa County, AZ"	"04013"	53	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Pima County, AZ"	"04019"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Alameda County, CA"	"06001"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Butte County, CA"	"06007"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Contra Costa County, CA"	"06013"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Los Angeles County, CA"	"06037"	54	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Orange County, CA"	"06059"	26	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Riverside County, CA"	"06065"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Sacramento County, CA"	"06067"	23	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"San Bernardino County, CA"	"06071"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"San Diego County, CA"	"06073"	26	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"San Francisco County, CA"	"06075"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"San Joaquin County, CA"	"06077"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"El Paso County, CO"	"08041"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Hartford County, CT"	"09003"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"New Haven County, CT"	"09009"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"New Castle County, DE"	"10003"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Brevard County, FL"	"12009"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Broward County, FL"	"12011"	21	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Duval County, FL"	"12031"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Hillsborough County, FL"	"12057"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Lee County, FL"	"12071"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Palm Beach County, FL"	"12099"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Pasco County, FL"	"12101"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Pinellas County, FL"	"12103"	25	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Polk County, FL"	"12105"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Volusia County, FL"	"12127"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Fulton County, GA"	"13121"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Cook County, IL"	"17031"	46	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Marion County, IN"	"18097"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Jefferson County, KY"	"21111"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Baltimore County, MD"	"24005"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Macomb County, MI"	"26099"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Wayne County, MI"	"26163"	23	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Greene County, MO"	"29077"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Jackson County, MO"	"29095"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"St. Louis County, MO"	"29189"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Clark County, NV"	"32003"	29	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Bernalillo County, NM"	"35001"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Nassau County, NY"	"36059"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Queens County, NY"	"36081"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Richmond County, NY"	"36085"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Suffolk County, NY"	"36103"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Cuyahoga County, OH"	"39035"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Franklin County, OH"	"39049"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Hamilton County, OH"	"39061"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Oklahoma County, OK"	"40109"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Tulsa County, OK"	"40143"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Allegheny County, PA"	"42003"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Delaware County, PA"	"42045"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Philadelphia County, PA"	"42101"	27	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Providence County, RI"	"44007"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Shelby County, TN"	"47157"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Bexar County, TX"	"48029"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Dallas County, TX"	"48113"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Harris County, TX"	"48201"	34	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Tarrant County, TX"	"48439"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Salt Lake County, UT"	"49035"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"King County, WA"	"53033"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Pierce County, WA"	"53053"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Milwaukee County, WI"	"55079"	12	Not Applicable	Not Applicable
+"Total"	"2010"	"2010"	"Jun., 2010"	"2010/06"			3079	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Maricopa County, AZ"	"04013"	71	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Mohave County, AZ"	"04015"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Pima County, AZ"	"04019"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Alameda County, CA"	"06001"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Humboldt County, CA"	"06023"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Kern County, CA"	"06029"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Los Angeles County, CA"	"06037"	71	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Orange County, CA"	"06059"	27	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Riverside County, CA"	"06065"	24	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Sacramento County, CA"	"06067"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"San Diego County, CA"	"06073"	27	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"San Francisco County, CA"	"06075"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"San Joaquin County, CA"	"06077"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Stanislaus County, CA"	"06099"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Brevard County, FL"	"12009"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Broward County, FL"	"12011"	26	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Duval County, FL"	"12031"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Hillsborough County, FL"	"12057"	23	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Miami-Dade County, FL"	"12086"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Orange County, FL"	"12095"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Palm Beach County, FL"	"12099"	23	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Pasco County, FL"	"12101"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Pinellas County, FL"	"12103"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Polk County, FL"	"12105"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Cook County, IL"	"17031"	48	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Marion County, IN"	"18097"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Baltimore city, MD"	"24510"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Middlesex County, MA"	"25017"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Macomb County, MI"	"26099"	28	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Oakland County, MI"	"26125"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Wayne County, MI"	"26163"	25	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Jackson County, MO"	"29095"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"St. Louis County, MO"	"29189"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"St. Louis city, MO"	"29510"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Clark County, NV"	"32003"	37	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Washoe County, NV"	"32031"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Camden County, NJ"	"34007"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Bernalillo County, NM"	"35001"	23	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Kings County, NY"	"36047"	20	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Nassau County, NY"	"36059"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Suffolk County, NY"	"36103"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Butler County, OH"	"39017"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Cuyahoga County, OH"	"39035"	20	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Franklin County, OH"	"39049"	21	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Hamilton County, OH"	"39061"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Montgomery County, OH"	"39113"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Oklahoma County, OK"	"40109"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Tulsa County, OK"	"40143"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Multnomah County, OR"	"41051"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Allegheny County, PA"	"42003"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Montgomery County, PA"	"42091"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Philadelphia County, PA"	"42101"	24	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Shelby County, TN"	"47157"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Bexar County, TX"	"48029"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Dallas County, TX"	"48113"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Harris County, TX"	"48201"	51	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Tarrant County, TX"	"48439"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Salt Lake County, UT"	"49035"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Utah County, UT"	"49049"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"King County, WA"	"53033"	24	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Milwaukee County, WI"	"55079"	12	Not Applicable	Not Applicable
+"Total"	"2010"	"2010"	"Jul., 2010"	"2010/07"			3191	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Maricopa County, AZ"	"04013"	68	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Pima County, AZ"	"04019"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Alameda County, CA"	"06001"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Kern County, CA"	"06029"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Los Angeles County, CA"	"06037"	63	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Orange County, CA"	"06059"	30	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Riverside County, CA"	"06065"	38	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Sacramento County, CA"	"06067"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"San Bernardino County, CA"	"06071"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"San Diego County, CA"	"06073"	37	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"San Francisco County, CA"	"06075"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"San Joaquin County, CA"	"06077"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Denver County, CO"	"08031"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"El Paso County, CO"	"08041"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Broward County, FL"	"12011"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Duval County, FL"	"12031"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Hillsborough County, FL"	"12057"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Orange County, FL"	"12095"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Palm Beach County, FL"	"12099"	21	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Pasco County, FL"	"12101"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Pinellas County, FL"	"12103"	29	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"St. Lucie County, FL"	"12111"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Volusia County, FL"	"12127"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Cook County, IL"	"17031"	45	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Marion County, IN"	"18097"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Jefferson County, KY"	"21111"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Bristol County, MA"	"25005"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Middlesex County, MA"	"25017"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Worcester County, MA"	"25027"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Genesee County, MI"	"26049"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Macomb County, MI"	"26099"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Wayne County, MI"	"26163"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Jackson County, MO"	"29095"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"St. Louis County, MO"	"29189"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Clark County, NV"	"32003"	26	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Camden County, NJ"	"34007"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Bernalillo County, NM"	"35001"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Kings County, NY"	"36047"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Nassau County, NY"	"36059"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Queens County, NY"	"36081"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Suffolk County, NY"	"36103"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Cuyahoga County, OH"	"39035"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Franklin County, OH"	"39049"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Montgomery County, OH"	"39113"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Multnomah County, OR"	"41051"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Allegheny County, PA"	"42003"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Bucks County, PA"	"42017"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Philadelphia County, PA"	"42101"	29	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Shelby County, TN"	"47157"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Bexar County, TX"	"48029"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Dallas County, TX"	"48113"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Harris County, TX"	"48201"	38	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Travis County, TX"	"48453"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Salt Lake County, UT"	"49035"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"King County, WA"	"53033"	20	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Pierce County, WA"	"53053"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Snohomish County, WA"	"53061"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Milwaukee County, WI"	"55079"	11	Not Applicable	Not Applicable
+"Total"	"2010"	"2010"	"Aug., 2010"	"2010/08"			3155	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Maricopa County, AZ"	"04013"	51	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Pima County, AZ"	"04019"	22	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Contra Costa County, CA"	"06013"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Kern County, CA"	"06029"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Los Angeles County, CA"	"06037"	53	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Orange County, CA"	"06059"	20	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Riverside County, CA"	"06065"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Sacramento County, CA"	"06067"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"San Diego County, CA"	"06073"	35	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"San Francisco County, CA"	"06075"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"San Joaquin County, CA"	"06077"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Santa Clara County, CA"	"06085"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Stanislaus County, CA"	"06099"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Ventura County, CA"	"06111"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Arapahoe County, CO"	"08005"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Denver County, CO"	"08031"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Brevard County, FL"	"12009"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Broward County, FL"	"12011"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Duval County, FL"	"12031"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Miami-Dade County, FL"	"12086"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Orange County, FL"	"12095"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Palm Beach County, FL"	"12099"	20	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Pasco County, FL"	"12101"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Pinellas County, FL"	"12103"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Sarasota County, FL"	"12115"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Honolulu County, HI"	"15003"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Cook County, IL"	"17031"	38	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Marion County, IN"	"18097"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Sedgwick County, KS"	"20173"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Jefferson County, KY"	"21111"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Baltimore County, MD"	"24005"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Baltimore city, MD"	"24510"	22	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Middlesex County, MA"	"25017"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Genesee County, MI"	"26049"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Macomb County, MI"	"26099"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Wayne County, MI"	"26163"	29	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Hennepin County, MN"	"27053"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"St. Louis County, MO"	"29189"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Clark County, NV"	"32003"	52	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Monmouth County, NJ"	"34025"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Bernalillo County, NM"	"35001"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Erie County, NY"	"36029"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Kings County, NY"	"36047"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Suffolk County, NY"	"36103"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Cuyahoga County, OH"	"39035"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Franklin County, OH"	"39049"	20	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Summit County, OH"	"39153"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Oklahoma County, OK"	"40109"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Tulsa County, OK"	"40143"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Allegheny County, PA"	"42003"	27	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Bucks County, PA"	"42017"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Philadelphia County, PA"	"42101"	30	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Providence County, RI"	"44007"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Shelby County, TN"	"47157"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Bexar County, TX"	"48029"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Dallas County, TX"	"48113"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Harris County, TX"	"48201"	39	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Salt Lake County, UT"	"49035"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Utah County, UT"	"49049"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"King County, WA"	"53033"	21	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Snohomish County, WA"	"53061"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Dane County, WI"	"55025"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Milwaukee County, WI"	"55079"	14	Not Applicable	Not Applicable
+"Total"	"2010"	"2010"	"Sep., 2010"	"2010/09"			3066	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Maricopa County, AZ"	"04013"	55	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Pima County, AZ"	"04019"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Los Angeles County, CA"	"06037"	58	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Orange County, CA"	"06059"	35	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Riverside County, CA"	"06065"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Sacramento County, CA"	"06067"	21	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"San Bernardino County, CA"	"06071"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"San Diego County, CA"	"06073"	37	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"San Francisco County, CA"	"06075"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Santa Clara County, CA"	"06085"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"New Castle County, DE"	"10003"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Broward County, FL"	"12011"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Duval County, FL"	"12031"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Hillsborough County, FL"	"12057"	26	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Lee County, FL"	"12071"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Orange County, FL"	"12095"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Palm Beach County, FL"	"12099"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Pasco County, FL"	"12101"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Pinellas County, FL"	"12103"	24	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Fulton County, GA"	"13121"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Honolulu County, HI"	"15003"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Cook County, IL"	"17031"	40	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Lake County, IL"	"17097"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Marion County, IN"	"18097"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Jefferson County, KY"	"21111"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Baltimore County, MD"	"24005"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Baltimore city, MD"	"24510"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Worcester County, MA"	"25027"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Macomb County, MI"	"26099"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Oakland County, MI"	"26125"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Wayne County, MI"	"26163"	33	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Hennepin County, MN"	"27053"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Greene County, MO"	"29077"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Clark County, NV"	"32003"	27	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Essex County, NJ"	"34013"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Bernalillo County, NM"	"35001"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Bronx County, NY"	"36005"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Kings County, NY"	"36047"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Nassau County, NY"	"36059"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Queens County, NY"	"36081"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Suffolk County, NY"	"36103"	20	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Wake County, NC"	"37183"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Cuyahoga County, OH"	"39035"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Franklin County, OH"	"39049"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Hamilton County, OH"	"39061"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Montgomery County, OH"	"39113"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Oklahoma County, OK"	"40109"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Tulsa County, OK"	"40143"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Multnomah County, OR"	"41051"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Allegheny County, PA"	"42003"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Chester County, PA"	"42029"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Delaware County, PA"	"42045"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Philadelphia County, PA"	"42101"	29	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Providence County, RI"	"44007"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Davidson County, TN"	"47037"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Shelby County, TN"	"47157"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Bexar County, TX"	"48029"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Dallas County, TX"	"48113"	22	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Harris County, TX"	"48201"	26	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Tarrant County, TX"	"48439"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Travis County, TX"	"48453"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Salt Lake County, UT"	"49035"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"King County, WA"	"53033"	22	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Pierce County, WA"	"53053"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Milwaukee County, WI"	"55079"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Waukesha County, WI"	"55133"	10	Not Applicable	Not Applicable
+"Total"	"2010"	"2010"	"Oct., 2010"	"2010/10"			3180	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Maricopa County, AZ"	"04013"	44	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Pima County, AZ"	"04019"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Alameda County, CA"	"06001"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Butte County, CA"	"06007"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Fresno County, CA"	"06019"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Los Angeles County, CA"	"06037"	44	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Orange County, CA"	"06059"	30	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Riverside County, CA"	"06065"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Sacramento County, CA"	"06067"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"San Diego County, CA"	"06073"	27	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"San Francisco County, CA"	"06075"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Arapahoe County, CO"	"08005"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Denver County, CO"	"08031"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Broward County, FL"	"12011"	31	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Citrus County, FL"	"12017"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Duval County, FL"	"12031"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Hillsborough County, FL"	"12057"	31	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Orange County, FL"	"12095"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Palm Beach County, FL"	"12099"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Pasco County, FL"	"12101"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Pinellas County, FL"	"12103"	20	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Sarasota County, FL"	"12115"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Volusia County, FL"	"12127"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Cook County, IL"	"17031"	44	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Marion County, IN"	"18097"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Jefferson Parish, LA"	"22051"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Anne Arundel County, MD"	"24003"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Baltimore County, MD"	"24005"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Bristol County, MA"	"25005"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Middlesex County, MA"	"25017"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Macomb County, MI"	"26099"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Wayne County, MI"	"26163"	19	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Hennepin County, MN"	"27053"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Greene County, MO"	"29077"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Jackson County, MO"	"29095"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"St. Louis County, MO"	"29189"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Clark County, NV"	"32003"	29	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Washoe County, NV"	"32031"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Monmouth County, NJ"	"34025"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Bernalillo County, NM"	"35001"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Bronx County, NY"	"36005"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Kings County, NY"	"36047"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Monroe County, NY"	"36055"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Queens County, NY"	"36081"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Suffolk County, NY"	"36103"	20	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Cuyahoga County, OH"	"39035"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Franklin County, OH"	"39049"	20	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Hamilton County, OH"	"39061"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Montgomery County, OH"	"39113"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Oklahoma County, OK"	"40109"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Multnomah County, OR"	"41051"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Allegheny County, PA"	"42003"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Bucks County, PA"	"42017"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Montgomery County, PA"	"42091"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Philadelphia County, PA"	"42101"	38	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Providence County, RI"	"44007"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Davidson County, TN"	"47037"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Bexar County, TX"	"48029"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Dallas County, TX"	"48113"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Harris County, TX"	"48201"	40	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Tarrant County, TX"	"48439"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Salt Lake County, UT"	"49035"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"King County, WA"	"53033"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Pierce County, WA"	"53053"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Milwaukee County, WI"	"55079"	13	Not Applicable	Not Applicable
+"Total"	"2010"	"2010"	"Nov., 2010"	"2010/11"			3140	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Maricopa County, AZ"	"04013"	47	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Pima County, AZ"	"04019"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Contra Costa County, CA"	"06013"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Fresno County, CA"	"06019"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Kern County, CA"	"06029"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Los Angeles County, CA"	"06037"	72	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Orange County, CA"	"06059"	33	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Riverside County, CA"	"06065"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Sacramento County, CA"	"06067"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"San Bernardino County, CA"	"06071"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"San Diego County, CA"	"06073"	32	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"San Francisco County, CA"	"06075"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"San Joaquin County, CA"	"06077"	16	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Sonoma County, CA"	"06097"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Denver County, CO"	"08031"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"New Haven County, CT"	"09009"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"District of Columbia, DC"	"11001"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Brevard County, FL"	"12009"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Broward County, FL"	"12011"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Hillsborough County, FL"	"12057"	35	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Orange County, FL"	"12095"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Palm Beach County, FL"	"12099"	22	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Pasco County, FL"	"12101"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Pinellas County, FL"	"12103"	21	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Honolulu County, HI"	"15003"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Cook County, IL"	"17031"	43	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Kenton County, KY"	"21117"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Anne Arundel County, MD"	"24003"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Baltimore County, MD"	"24005"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Baltimore city, MD"	"24510"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Bristol County, MA"	"25005"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Middlesex County, MA"	"25017"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Macomb County, MI"	"26099"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Wayne County, MI"	"26163"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Clark County, NV"	"32003"	27	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Camden County, NJ"	"34007"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Bernalillo County, NM"	"35001"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Bronx County, NY"	"36005"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Kings County, NY"	"36047"	17	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"New York County, NY"	"36061"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Queens County, NY"	"36081"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Suffolk County, NY"	"36103"	24	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Cuyahoga County, OH"	"39035"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Franklin County, OH"	"39049"	25	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Montgomery County, OH"	"39113"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Oklahoma County, OK"	"40109"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Tulsa County, OK"	"40143"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Allegheny County, PA"	"42003"	21	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Bucks County, PA"	"42017"	12	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Delaware County, PA"	"42045"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Montgomery County, PA"	"42091"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Philadelphia County, PA"	"42101"	33	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Westmoreland County, PA"	"42129"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Davidson County, TN"	"47037"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Shelby County, TN"	"47157"	15	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Bexar County, TX"	"48029"	20	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Dallas County, TX"	"48113"	24	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Harris County, TX"	"48201"	40	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Tarrant County, TX"	"48439"	14	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Travis County, TX"	"48453"	18	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Salt Lake County, UT"	"49035"	13	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"King County, WA"	"53033"	29	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Snohomish County, WA"	"53061"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Spokane County, WA"	"53063"	10	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Milwaukee County, WI"	"55079"	15	Not Applicable	Not Applicable
+"Total"	"2010"	"2010"	"Dec., 2010"	"2010/12"			3246	Not Applicable	Not Applicable
+"Total"	"2010"	"2010"					38329	Not Applicable	Not Applicable
+"Total"							38329	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"Title: 2010CDCOverdoseMortalityByCounty"
+"MCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Year/Month: 2010"
+"Group By: Year; Month; County"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Oct 8, 2019 11:46:13 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Oct 8, 2019 11:46:13 AM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"2. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data are not available for this area for all of the requested years. See Caveats below for more information."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. Data for Prince of Wales-Hyder Census Area, AK (FIPS code 02198), Hoonah-Angoon Census Area, AK (FIPS code 02105), Skagway"
+"Municipality, AK (FIPS code 02230), Petersburg Borough/Census Area, AK (FIPS code 02195) and Wrangell City and Borough, AK (FIPS"
+"code 02275) are only available for 2014 and later; for computational purposes, counts and population estimates for 2013 and"
+"earlier are set to zero. Thus, counts and rates shown in multi-year requests for this entity do not include any data for years"
+"before 2014, only data for 2014 and later. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Alaska2014."
+"3. Death rates for Clifton Forge city, Virginia (FIPS code 51560) are available only for 1999-2000. For 2001 and beyond, death"
+"counts and population estimates for Clifton Forge city have been combined with those for Alleghany county, Virginia (FIPS code"
+"51005). Death counts and population estimates for this entity from multi-year requests, only reflect data from 1999 and 2000;"
+"for 2001 and beyond they have been set to zero. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Clifton Forge."
+"4. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510)."
+"5. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code"
+"24005)."
+"6. Deaths and population estimates are reported separately for St. Louis City (FIPS code 29510) and county (FIPS code 29189)."
+"7. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"8. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"9. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
