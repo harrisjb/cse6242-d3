@@ -1,0 +1,159 @@
+<html lang="en">
+<head>
+
+  <!-- SITE TITTLE -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Opioid Epidemic</title>
+
+  <!-- PLUGINS CSS STYLE -->
+  <!-- Bootstrap -->
+  <link href="plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Themefisher Font -->
+  <link href="plugins/themefisher-font/style.css" rel="stylesheet">
+  <!-- Slick Carousel -->
+  <link href="plugins/slick/slick.css" rel="stylesheet">
+  <!-- Slick Carousel Theme -->
+  <link href="plugins/slick/slick-theme.css" rel="stylesheet">
+
+  <!-- CUSTOM CSS -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- FAVICON -->
+  <link href="images/favicon.png" rel="shortcut icon">
+
+</head>
+
+<body class="body-wrapper">
+
+
+<nav class="navbar main-nav fixed-top navbar-expand-lg">
+  <div class="container">
+      <a class="navbar-brand" href="index"><img src="images/logo.png" alt="logo"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="tf-ion-android-menu"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link scrollTo" href="#home">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link scrollTo" href="#slide1">Data 1</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link scrollTo" href="#slide2">Data 2</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link scrollTo" href="#slide3">Data 3</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link scrollTo" href="#slide4">Data 4</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link scrollTo" href="#slide5">Data 5</a>
+        </li>
+      </ul>
+      </div>
+  </div>
+</nav>
+<!--=====================================
+=            Homepage                   =
+======================================-->
+
+<section class="banner bg-1" id="home">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 align-self-center">
+				<!-- Contents -->
+				<div class="content-block">
+					<h1>Analysis of the pain pill Crisis</h1>
+					<h5>Due to increases in opioid prescriptions for pain management and its abuse, the opioid epidemic
+                      has become a major public health problem in the United States of America (USA)[1,2].
+                      In 2014, 61% of 47,055 total drug overdose deaths involved opioids[3].</h5>
+					<!-- App Badge -->
+
+				</div>
+			</div>
+
+		</div>
+	</div>
+</section>
+
+<!--====  End of Homepage Banner  ====-->
+
+
+{% block slide1 %}
+{% endblock %}
+
+{% block slide2 %}
+{% endblock %}
+
+{% block slide3 %}
+{% endblock %}
+
+{% block slide4 %}
+{% endblock %}
+
+{% block slide5 %}
+{% endblock %}
+
+
+
+<footer class="footer-main">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mr-auto">
+          <div class="footer-logo">
+            <!-- Logo -->
+          </div>
+          <div class="copyright">
+            <p>@2019 CSE6242  | Team 92</p>
+            <p>
+              Source: Data compiled by the DEA and made available for download by <a href="https://www.washingtonpost.com/national/2019/07/20/opioid-files/?noredirect=on">The washington Post</a>
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-4 text-lg-right">
+          <!-- Social Icons -->
+
+          <!-- Footer Links -->
+
+        </div>
+      </div>
+    </div>
+</footer>
+
+
+
+  <!-- JAVASCRIPTS -->
+
+  <script src="plugins/jquery/jquery.js"></script>
+  <script src="plugins/popper/popper.min.js"></script>
+  <script src="plugins/bootstrap/js/bootstrap.min.js"></script>
+  <script src="plugins/waypoints/jquery.waypoints.min.js"></script>
+  <script src="plugins/slick/slick.min.js"></script>
+  <script src="plugins/smoothscroll/SmoothScroll.min.js"></script>
+  <script src="js/custom.js"></script>
+
+
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css"/>
+  <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.20/datatables.min.js"></script>
+
+  <script>
+      $(document).ready( function () {
+         $('#distributors').DataTable({
+            "order": [[ 2, "desc" ]],
+            "columnDefs": [ { "targets": 1, "orderable": false} ]
+          });
+
+         $('#manufacturer').DataTable({
+           "order": [[ 2, "desc" ]]
+         });
+      } );
+  </script>
+</body>
+
+
+</html>

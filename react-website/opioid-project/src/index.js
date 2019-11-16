@@ -13,6 +13,7 @@
 
 import React, { PureComponent } from 'react';
 import ReactDOM from 'react-dom';
+import './style.css';
 import injectSheet from 'react-jss';
 import { Scrollama, Step } from 'react-scrollama';
 
@@ -78,7 +79,7 @@ class Graphic extends PureComponent {
     return (
       <div className={classes.main}>
         <div className={classes.scroller}>
-          <Scrollama onStepEnter={this.onStepEnter} onStepExit={this.onStepExit} offset={0.33} debug>
+          <Scrollama onStepEnter={this.onStepEnter} onStepExit={this.onStepExit} offset={0.33} >
             {steps.map(value => (
               <Step data={value} key={value}>
                 <div className={classes.step}>
