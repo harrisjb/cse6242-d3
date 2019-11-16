@@ -38,7 +38,7 @@ def slide2_data():
 
 def slide5_data():
     # Build up data required to render slide five and return it in the form of a dictionary
-    dir_path = "./static/data/pill_totals_by_manufacturers_o.tsv"
+    dir_path = "./static/data/pill_totals_by_manufacturer_o.tsv"
     pill_totals = csv.DictReader(open(dir_path),delimiter='\t')
     #logging.debug("pill totals [{}]".format(pill_totals))
     return pill_totals

@@ -6,9 +6,9 @@
 .headers on
 
 
-DROP TABLE IF EXISTS pills;
+DROP TABLE IF EXISTS dea_arcos_wpost;
 
-CREATE TABLE pills (
+CREATE TABLE dea_arcos_wpost (
     REPORTER_DEA_NO TEXT,
     REPORTER_BUS_ACT TEXT,
     REPORTER_NAME TEXT,
@@ -54,19 +54,19 @@ CREATE TABLE pills (
  );
 
 .separator "\t"
-.import ./arcos_all_washpost.tsv pills
-.schema pills
+.import ./arcos_all_washpost.tsv dea_arcos_wpost
+.schema dea_arcos_wpost
 
 -- Check Substring Statement
 -- SELECT  REPORTER_DEA_NO, substr(TRANSACTION_DATE, -4) FROM pills LIMIT 10;
 
 -- Add the Year as a separate column to improve query performance
-ALTER TABLE pills
+ALTER TABLE dea_arcos_wpost
    ADD trans_year INTEGER;
 
-UPDATE pills
+UPDATE dea_arcos_wpost
    SET trans_year = substr(TRANSACTION_DATE, -4);
 
-CREATE INDEX pills_buyer_zip ON pills (BUYER_ZIP);
+CREATE INDEX pills_buyer_zip ON dea_arcos_wpost (BUYER_ZIP);
 
 
