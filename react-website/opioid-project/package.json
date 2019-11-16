@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "d3": "^5.12.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0",
@@ -11,6 +12,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "npm run build && aws s3 sync build/ s3://cse6242.omscsprojects.com --profile harrisjbiobase && aws cloudfront create-invalidation --profile harrisjbiobase --distribution-id E1SEF4D1I7LTG6 --paths '/*' /index.html",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
