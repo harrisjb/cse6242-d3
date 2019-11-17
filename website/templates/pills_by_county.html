@@ -6,13 +6,13 @@
 	<div class="container">
 
     <style>
-        .states {
+        .states_s5 {
             fill: none;
             stroke: #000;
             stroke-linejoin: round;
         }
 
-        .counties {
+        .counties_s5 {
             fill: none;
             stroke: #fff;
             stroke-linejoin: round;
@@ -53,7 +53,7 @@
     <script src="./js/d3-tip.min.js"></script>
 
 
-        <div id='title-container-s5'></div>
+
         <div id='dropbox-container-s5'></div>
         <div id='legend-container-s5'></div>
         <div id='map-container-s5'></div>
@@ -66,10 +66,10 @@
 
 
     var svg_s5 = d3.select("#map-container-s5").append("svg")
-        .attr("width", width + margin.left + margin.right + 500)
+        .attr("width", width + margin.left + margin.right )
         .attr("height", height + margin.top + margin.bottom)
         .append("g")
-        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+        .attr("transform", "translate(" + (margin.left - 130)+ "," + margin.top + ")");
 
     var tool_tip_s5 = d3.tip()
         .attr("class", "d3-tip")
@@ -115,18 +115,12 @@
     Promise.all(promises).then(ready_s5);
 
     function ready_s5(promise_data){
-       us = promise_data[0];
+       us_s5 = promise_data[0];
        render_chart_s5(2006)
     }
 
     function render_chart_s5(map_year) {
         console.log("map_year="+map_year)
-        pills = {};
-        Object.keys(pillsMap).forEach(function(key) {
-            value = pillsMap[key];
-            index = map_year- 2006
-            pills[key]=value[index]
-        });
 
 
         mapScale_s5 = d3.scaleLog()
@@ -134,16 +128,17 @@
             .range([0, 8]);
 
         svg_s5.append("g")
-            .attr("class", "counties")
+            .attr("class", "counties_s5")
             .selectAll("path")
-            .data(topojson.feature(us, us.objects.counties).features)
+            .data(topojson.feature(us_s5, us_s5.objects.counties).features)
             .enter()
             .append("path")
             .on('mouseover', tool_tip_s5.show)
             .on('mouseout', tool_tip_s5.hide)
             .attr("fill", function (d) {
                 state = d['id'];
-                count = pills[state];
+                counts = pillsMap[state];
+                count = counts[map_year - 2006]
                 log = 0;
                 log = Math.round(mapScale_s5(count));
                 log = log === -Infinity ? 0 : log;
@@ -161,8 +156,8 @@
             .attr("d", path);
 
         svg_s5.append("path")
-            .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
-            .attr("class", "states")			//Mesh state boundaries to prevent duplicate paths for borders
+            .datum(topojson.mesh(us_s5, us_s5.objects.states, function(a, b) { return a !== b; }))
+            .attr("class", "states_s5")			//Mesh state boundaries to prevent duplicate paths for borders
             .attr("d", path);
 
     }
@@ -176,9 +171,9 @@
         .enter();
 
     legend.append("rect")
-        .attr("x", 0)
+        .attr("x", -150)
         .attr("y", function (d, i) {
-            return (grid_size * i) + 30;
+            return (grid_size * i) +160;
         })
         .attr("width", grid_size)
         .attr("height", grid_size)
@@ -190,14 +185,14 @@
         .attr("class", "mono")
         .text(function (d) {
             // Hack fix later
-            if (d == 150) {
+            if (d === 150) {
                 return '150+'
             }
             return d3.format(",")(d)
         })
-        .attr("x", 40)
+        .attr("x", -110)
         .attr("y", function (d, i) {
-            return (grid_size * i) + 50;
+            return (grid_size * i) + 180;
         });
 
     legend.append("text")
@@ -205,13 +200,15 @@
         .attr("font-family", "sans-serif")
         .attr("font-size", "16px")
         .attr("font-weight", "500")
-        //.attr("transform", "translate("+ (grid_size+10) +","+(height-10)+")")
+        .attr("x", -130)
+        .attr("y", 140)
+
         .text("Pills");
 
 
     var dropdownChange = function() {
             var range = d3.select(this).property('value');
-            console.log("range val="+range)
+            console.log("range val="+ range)
             years = [2006,2007,2008,2009,2010,2011,2012]
             render_chart_s5(range)
 
