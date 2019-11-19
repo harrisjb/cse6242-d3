@@ -119,15 +119,18 @@
 
   <script>
       $(document).ready( function () {
+         $('#distributors').DataTable.ext.pager.numbers_length = 3;
          $('#distributors').DataTable({
             "order": [[ 2, "desc" ]],
             "columnDefs": [ { "targets": 1, "orderable": false} ]
           });
+         $('#manufacturer').DataTable.ext.pager.numbers_length = 3;
 
          $('#manufacturer').DataTable({
            "order": [[ 2, "desc" ]],
            "columnDefs": [ { "targets": 1, "orderable": false} ]
          });
+
       } );
   </script>
 </body>

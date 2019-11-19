@@ -75,13 +75,17 @@
         .attr("class", "d3-tip")
         .offset([-8, 0])
         .html(function (d) {
-            county = d.properties['name'];
+            //county = d.properties['name'];
             county_cd = d['id'];
-            count = pills[county_cd];
-            return "County: " + county + "<br/>Pills: " + numberWithCommas(count);
+            counts = pillsMap[county_cd];
+            count = counts[map_year - 2006];
+            state = counts[7];
+            county = counts[8];
+            return county + ", "+state+"<br/>Pills: " + numberWithCommas(count);
         });
 
     function numberWithCommas(x) {
+
             return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
     }
 
@@ -94,7 +98,7 @@
     svg_s5.call(tool_tip_s5);
 
     var pillsMap = {};
-    var pills = {};
+    var map_year = 2006;
 
     var projection = d3.geoAlbersUsa();
     var path = d3.geoPath().projection(projection);
@@ -105,7 +109,7 @@
     var promises = [
         d3.json("./data/counties-10m.json"),
         d3.csv("./data/pills_sold_by_county_and_years.csv", function (d) {
-            pillsMap[d.County_cd]=[+d[2006],+d[2007],+d[2008],+d[2009],+d[2010],+d[2011],+d[2012]];
+            pillsMap[d.County_cd]=[+d[2006],+d[2007],+d[2008],+d[2009],+d[2010],+d[2011],+d[2012],d.State_nm,d.County_nm];
         })
     ];
 
@@ -116,12 +120,11 @@
 
     function ready_s5(promise_data){
        us_s5 = promise_data[0];
-       render_chart_s5(2006)
+       render_chart_s5(map_year)
     }
 
     function render_chart_s5(map_year) {
-        console.log("map_year="+map_year)
-
+        //map_year = map_year;
 
         mapScale_s5 = d3.scaleLog()
             .domain([min_pills_s5, max_pills_s5])
@@ -208,7 +211,6 @@
 
     var dropdownChange = function() {
             var range = d3.select(this).property('value');
-            console.log("range val="+ range)
             years = [2006,2007,2008,2009,2010,2011,2012]
             render_chart_s5(range)
 
