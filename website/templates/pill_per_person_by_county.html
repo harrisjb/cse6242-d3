@@ -1,7 +1,10 @@
-<html>
-<head>
-    <meta charset="utf-8">
-    <style>
+<section class="section section bg-2" id="slide4a">
+    <div class="section-title">
+        <h2>Number of Pills Per Person Per Year</h2>
+        <p>Average County yearly total 2006 - 2012</p>
+    </div>
+	<div class="container">
+     <style>
         .states {
             fill: none;
             stroke: #000;
@@ -43,16 +46,14 @@
 
     </style>
 
-    <script src="../js/d3.v5.min.js"></script>
-    <script src="../js/d3-scale-chromatic.v1.min.js"></script>
-    <script src="../js/topojson.v2.min.js"></script>
-    <script src="../js/d3-tip.min.js"></script>
-</head>
-<body>
-        <div id='title-container'></div>
-        <div id='dropbox-container'></div>
-        <div id='legend-container'></div>
-        <div id='map-container'></div>
+    <script src="../static/js/d3.v5.min.js"></script>
+    <script src="../static/js/d3-scale-chromatic.v1.min.js"></script>
+    <script src="../static/js/topojson.v2.min.js"></script>
+    <script src="../static/js/d3-tip.min.js"></script>
+
+        <div id='legend-container_s3'></div>
+        <div id='map-container_s3'></div>
+
 <script>
 
     // set the dimensions and margins of the graph
@@ -61,18 +62,18 @@
         height = 600 - margin.top - margin.bottom;
 
 
-    var svg = d3.select("#map-container").append("svg")
+    var svg_s3 = d3.select("#map-container_s3").append("svg")
         .attr("width", width + margin.left + margin.right + 500)
         .attr("height", height + margin.top + margin.bottom)
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    var tool_tip = d3.tip()
+    var tool_tip_s3 = d3.tip()
         .attr("class", "d3-tip")
         .offset([-8, 0])
         .html(function (d) {
             county_id = d['id'];
-            pill_data = pills[county_id];
+            pill_data = pills_s3[county_id];
             count = pill_data[0];
             state = pill_data[1];
             county = pill_data[2];
@@ -80,60 +81,61 @@
         });
 
 
-    svg.call(tool_tip);
+    //svg_s3.call(tool_tip_s3);
 
-    pills = {};
+    pills_s3 = {};
 
-    var projection = d3.geoAlbersUsa();
-    var path = d3.geoPath().projection(projection);
+    var projection_s3 = d3.geoAlbersUsa();
+    var path_s3 = d3.geoPath().projection(projection_s3);
 
     //DPH FIX ME Set this later
-    max_pills = 40;
-    min_pills = 1;
-    var promises = [
+    max_pills_s3 = 150;
+    min_pills_s3 = 1;
+    var promises_s3 = [
         d3.json("./data/counties-10m.json"),
-        d3.csv("./data/Mortality_2006_2012.csv", function (d) {
-            pills[d.county_id]=[d['deaths'],d['state'],d['county']];
+        d3.csv("./data/pills_per_person_average_2006_2012.csv", function (d) {
+            //County_cd,State_nm,County_nm,avgerage_pills
+            pills_s3[d.County_cd]=[d['avgerage_pills'],d['State_nm'],d['County_nm']];
         })
     ];
 
-    colorScheme = ['#e5e49e','#dcce05','#d9b70b','#d6a011','#d28917','#cf721d','#c84429','#c52d2f','#bf003b'];
-    colorScheme = ['#ffffff','#f8f8f8','#feeff8','#c2c5e0','#95b0d4','#5a9ac5','#478ebe','#0f6756','#083629'];
+    colorScheme_s3 = ['#e5e49e','#dcce05','#d9b70b','#d6a011','#d28917','#cf721d','#c84429','#c52d2f','#bf003b'];
+    colorScheme_s3 = ['#ffffff','#f8f8f8','#e2e2e2','#d2d2d2','#e2d5ea','#ebe3f3','#ce99c4','#953d4d','#753037'];
     //colorScheme = ['#4d004b','#810f7c','#88419d','#8c6bb1','#8c96c6','#9ebcda','#bfd3e6','#e0ecf4','#f7fcfd']
 
-    Promise.all(promises).then(ready);
+    Promise.all(promises_s3).then(ready_s3);
 
-    function ready(promise_data){
+    function ready_s3(promise_data){
        us = promise_data[0];
-       render_chart()
+       render_chart_s3()
     }
 
-    function render_chart() {
+    function render_chart_s3() {
 
 
-        mapScale = d3.scaleLog()
-            .domain([min_pills, max_pills])
+        mapScale_s3 = d3.scaleLog()
+            .domain([min_pills_s3, max_pills_s3])
             .range([0, 8]);
 
-        svg.append("g")
+        svg_s3.append("g")
             .attr("class", "states")
             .attr("class", "counties")
             .selectAll("path")
             .data(topojson.feature(us, us.objects.counties).features)
             .enter()
             .append("path")
-            .on('mouseover', tool_tip.show)
-            .on('mouseout', tool_tip.hide)
+            .on('mouseover', tool_tip_s3.show)
+            .on('mouseout', tool_tip_s3.hide)
             .attr("fill", function (d) {
                 state = d['id'];
-                pill_data = pills[state];
+                pill_data = pills_s3[state];
                 count=0;
                 if (typeof(pill_data) !== "undefined"){
                    count = pill_data[0];
                 }
                 //console.log(count)
                 log = 0;
-                log = Math.round(mapScale(count));
+                log = Math.round(mapScale_s3(count));
                 log = log === -Infinity ? 0 : log;
 
                 if (typeof count === 'undefined'){
@@ -144,36 +146,36 @@
                 }
                 //console.log("State="+state+" count="+count+" log="+log+" color="+colorScheme[log]);
 
-                return colorScheme[log];
+                return colorScheme_s3[log];
             })
-            .attr("d", path);
+            .attr("d", path_s3);
 
-        svg.append("path")
+        svg_s3.append("path")
             .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
             .attr("class", "states")			//Mesh state boundaries to prevent duplicate paths for borders
-            .attr("d", path);
+            .attr("d", path_s3);
     }
 
-    grid_size = 30;
+    grid_size_s3 = 30;
 
-    var legend = svg.append("g")
+    var legend_s3 = svg_s3.append("g")
         .attr("transform", "translate(" + (width + margin.left + margin.right) + "," + margin.top + ")")
         .selectAll(".legend")
-        .data([0, 1, 10, 15, 20, 25, 30, 35, 40])
+        .data([0, 1, 10, 15, 25, 50, 75, 100, 150])
         .enter();
 
-    legend.append("rect")
-        .attr("x", -150)
+    legend_s3.append("rect")
+        .attr("x", 0)
         .attr("y", function (d, i) {
-            return (grid_size * i) + 160;
+            return (grid_size_s3 * i) + 30;
         })
-        .attr("width", grid_size)
-        .attr("height", grid_size)
+        .attr("width", grid_size_s3)
+        .attr("height", grid_size_s3)
         .style("fill", function (d, i) {
-            return colorScheme[i];
+            return colorScheme_s3[i];
         });
 
-    legend.append("text")
+    legend_s3.append("text")
         .attr("class", "mono")
         .text(function (d,i) {
             ret_val = d3.format(",")(d);
@@ -182,19 +184,20 @@
             }
             return ret_val
         })
-        .attr("x", -110)
+        .attr("x", 40)
         .attr("y", function (d, i) {
-            return (grid_size * i) + 180;
+            return (grid_size_s3 * i) + 50;
         });
 
-    legend.append("text")
+    legend_s3.append("text")
         .attr("text-anchor", "middle")
         .attr("font-family", "sans-serif")
         .attr("font-size", "16px")
         .attr("font-weight", "500")
         //.attr("transform", "translate("+ (grid_size+10) +","+(height-10)+")")
-        .text("Deaths");
+        .text("Pills");
 
 </script>
-</body>
-</html>
+
+</div>
+</section>
