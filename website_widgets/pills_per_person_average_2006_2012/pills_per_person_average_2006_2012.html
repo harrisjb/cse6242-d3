@@ -153,6 +153,11 @@
             .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
             .attr("class", "states")			//Mesh state boundaries to prevent duplicate paths for borders
             .attr("d", path);
+
+        svg.append("path")
+            .data(topojson.feature(us, us.objects.nation).features)
+            .attr("class", "states")
+            .attr("d", path);
     }
 
     grid_size = 30;

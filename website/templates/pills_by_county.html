@@ -85,7 +85,6 @@
         });
 
     function numberWithCommas(x) {
-
             return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
     }
 
@@ -106,7 +105,7 @@
     //DPH FIX ME Set this later
     var max_pills_s5 = 425;
     var min_pills_s5 = 1;
-    var promises = [
+    var promises_s5 = [
         d3.json("./data/counties-10m.json"),
         d3.csv("./data/pills_sold_by_county_and_years.csv", function (d) {
             pillsMap[d.County_cd]=[+d[2006],+d[2007],+d[2008],+d[2009],+d[2010],+d[2011],+d[2012],d.State_nm,d.County_nm];
@@ -116,10 +115,10 @@
     var colorScheme_s5 = ['#f7fcfd','#e0ecf4','#bfd3e6','#9ebcda','#8c96c6','#8c6bb1','#88419d','#810f7c','#4d004b'];
     //colorScheme_s5 = ['#4d004b','#810f7c','#88419d','#8c6bb1','#8c96c6','#9ebcda','#bfd3e6','#e0ecf4','#f7fcfd']
 
-    Promise.all(promises).then(ready_s5);
+    Promise.all(promises_s5).then(ready_s5);
 
     function ready_s5(promise_data){
-       us_s5 = promise_data[0];
+       us = promise_data[0];
        render_chart_s5(current_year)
     }
 
@@ -133,7 +132,7 @@
         svg_s5.append("g")
             .attr("class", "counties_s5")
             .selectAll("path")
-            .data(topojson.feature(us_s5, us_s5.objects.counties).features)
+            .data(topojson.feature(us, us.objects.counties).features)
             .enter()
             .append("path")
             .on('mouseover', tool_tip_s5.show)
@@ -159,9 +158,15 @@
             .attr("d", path);
 
         svg_s5.append("path")
-            .datum(topojson.mesh(us_s5, us_s5.objects.states, function(a, b) { return a !== b; }))
+            .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
             .attr("class", "states_s5")			//Mesh state boundaries to prevent duplicate paths for borders
             .attr("d", path);
+
+        svg_s5.append("path")
+            .data(topojson.feature(us, us.objects.nation).features)
+            .attr("class", "states_s5")
+            .attr("d", path);
+
 
     }
 

@@ -1,4 +1,4 @@
-<section class="section section bg-2" id="slide4a">
+<section class="section section bg-2" id="slide3a">
     <div class="section-title">
         <h2>Number of Pills Per Person Per Year</h2>
         <p>Average County yearly total 2006 - 2012</p>
@@ -57,16 +57,16 @@
 <script>
 
     // set the dimensions and margins of the graph
-    var margin = {top: 70, bottom: 40, left: 40, right: 80},
+    var margin = {top: 20, bottom: 40, left: 40, right: 80},
         width = 1000 - margin.left - margin.right,
         height = 600 - margin.top - margin.bottom;
 
 
     var svg_s3 = d3.select("#map-container_s3").append("svg")
-        .attr("width", width + margin.left + margin.right + 500)
+        .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
         .append("g")
-        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+        .attr("transform", "translate(" + (margin.left -130) + "," + margin.top + ")");
 
     var tool_tip_s3 = d3.tip()
         .attr("class", "d3-tip")
@@ -154,6 +154,13 @@
             .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
             .attr("class", "states")			//Mesh state boundaries to prevent duplicate paths for borders
             .attr("d", path_s3);
+
+        svg_s3.append("path")
+            .data(topojson.feature(us, us.objects.nation).features)
+            .attr("class", "states")
+            .attr("d", path_s3);
+
+
     }
 
     grid_size_s3 = 30;
@@ -165,9 +172,9 @@
         .enter();
 
     legend_s3.append("rect")
-        .attr("x", 0)
+        .attr("x", -150)
         .attr("y", function (d, i) {
-            return (grid_size_s3 * i) + 30;
+            return (grid_size_s3 * i) + 160;
         })
         .attr("width", grid_size_s3)
         .attr("height", grid_size_s3)
@@ -184,9 +191,9 @@
             }
             return ret_val
         })
-        .attr("x", 40)
+        .attr("x", -110)
         .attr("y", function (d, i) {
-            return (grid_size_s3 * i) + 50;
+            return (grid_size_s3 * i) + 180;
         });
 
     legend_s3.append("text")
@@ -195,6 +202,8 @@
         .attr("font-size", "16px")
         .attr("font-weight", "500")
         //.attr("transform", "translate("+ (grid_size+10) +","+(height-10)+")")
+        .attr("x", -120)
+        .attr("y", 150)
         .text("Pills");
 
 </script>
