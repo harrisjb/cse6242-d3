@@ -519,3 +519,42 @@ INNER JOIN
 census_2010_master G
 ON
 F.county_code = G.geoid
+
+21-Nov-2019
+==========
+
+Exploratory Analysis
+====================
+
+Below SQL created Wpost-ReporterFamily-RanksBy-OpioidWeight-6aebc841-6e13-402f-977e-77fdb7737f43.csv
+
+--Note this query does not take Delete Action Indicator into account. Ideally, it should have...
+select reporter_family, sum(cast(calc_base_wt_in_gm as double)) as total_gms
+from dea_arcos_wpost_string 
+where lower(buyer_zip) <> 'buyer_zip'
+group by reporter_family
+order by total_gms desc
+
+
+Below SQL created Wpost-ReporterFamily-RanksBy-DosageUnit-b01066c4-b80c-4137-8ee9-6aed63481e2c.csv
+
+--Note this query does not take Delete Action Indicator into account. Ideally, it should have...
+select reporter_family, sum(cast(dosage_unit as double)) as total_dosage
+from dea_arcos_wpost_string 
+where lower(buyer_zip) <> 'buyer_zip' AND lower(dosage_unit) <> 'null'
+group by reporter_family
+order by total_dosage desc
+
+
+Below SQL created Wpost-OpioidWeight-ByStateCounty-7f69a640-5f92-4dc3-a143-fb372a48b266.csv
+
+select reporter_county, reporter_state, sum(
+       CASE action_indicator
+           WHEN 'D' THEN -cast(calc_base_wt_in_gm as double)
+           ELSE cast(calc_base_wt_in_gm as double)
+       END
+) as total_gms
+from dea_arcos_wpost_string 
+where lower(buyer_zip) <> 'buyer_zip'
+group by reporter_county, reporter_state
+order by total_gms desc
