@@ -1,5 +1,14 @@
 # CSE6242 Website
 
+## THREE STEPS TO INSTALL AND RUN LOCALLY
+0. Prerequisites git and python 3.5 or higher
+1. `git clone https://github.com/harrisjb/cse6242-d3.git`
+2. `pip install -r ./requirements.txt`
+3. `./run.sh` (Website is available on http:/127.0.0.1:9000)
+
+To install a production environment see EC2_README.md for more details.
+
+## Technologies used for development
 The website uses the following web technologies:
 * Front End 
     * Bootstrap v4.0
@@ -11,15 +20,9 @@ The website uses the following web technologies:
     * Flask-wtf v0.14.2 
     * gunicorn  v19.9.0 
 
-To install a development environment see EC2_README.md for more details.
-   
-To run the application in development execute `./run.sh` in the website directory.
- 
-This  will start a server and it will be available on the local host at port 9000
-  `http://127.0.0.1:9000`
 
-### Lifetrackr - Free Responsive Bootstrap App Landing Page Template
+#### Lifetrackr - Free Responsive Bootstrap App Landing Page Template
 https://themewagon.com/themes/lifetracker-free-responsive-bootstrap-app-landing-page-template/
 
-The website is based upon a decompsition of the Lifetrackr template
+The website is based upon a decomposition of the Lifetrackr template
   

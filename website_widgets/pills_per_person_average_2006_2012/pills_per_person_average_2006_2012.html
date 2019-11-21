@@ -8,6 +8,13 @@
             stroke-linejoin: round;
         }
 
+        .mesh {
+          fill: none;
+          stroke: #fff;
+          stroke-linecap: round;
+          stroke-linejoin: round;
+}
+
         .counties {
             fill: none;
             stroke: #fff;
@@ -41,6 +48,7 @@
             left: 0;
         }
 
+
     </style>
 
     <script src="../js/d3.v5.min.js"></script>
@@ -62,10 +70,13 @@
 
 
     var svg = d3.select("#map-container").append("svg")
-        .attr("width", width + margin.left + margin.right + 500)
+        .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    var g = svg.append("g");
+
 
     var tool_tip = d3.tip()
         .attr("class", "d3-tip")
@@ -84,8 +95,10 @@
 
     pills = {};
 
+
     var projection = d3.geoAlbersUsa();
     var path = d3.geoPath().projection(projection);
+
 
     //DPH FIX ME Set this later
     max_pills = 150;
@@ -111,15 +124,12 @@
 
     function render_chart() {
 
-
         mapScale = d3.scaleLog()
             .domain([min_pills, max_pills])
             .range([0, 8]);
 
-        svg.append("g")
-            .attr("class", "states")
+        g.selectAll("path")
             .attr("class", "counties")
-            .selectAll("path")
             .data(topojson.feature(us, us.objects.counties).features)
             .enter()
             .append("path")
@@ -149,12 +159,13 @@
             })
             .attr("d", path);
 
-        svg.append("path")
-            .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
-            .attr("class", "states")			//Mesh state boundaries to prevent duplicate paths for borders
+
+        g.append("path")
+           .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
+           .attr("class", "states")
             .attr("d", path);
 
-        svg.append("path")
+        g.append("path")
             .data(topojson.feature(us, us.objects.nation).features)
             .attr("class", "states")
             .attr("d", path);
