@@ -1,0 +1,560 @@
+8-Oct-2019
+----------
+CREATE EXTERNAL TABLE IF NOT EXISTS DEA_ARCOS_WPOST_RAW (
+    REPORTER_DEA_NO STRING,
+    REPORTER_BUS_ACT STRING,
+    REPORTER_NAME STRING,
+    REPORTER_ADDL_CO_INFO STRING,
+    REPORTER_ADDRESS1 STRING,
+    REPORTER_ADDRESS2 STRING,
+    REPORTER_CITY STRING,
+    REPORTER_STATE STRING,
+    REPORTER_ZIP STRING,
+    REPORTER_COUNTY STRING,
+    BUYER_DEA_NO STRING,
+    BUYER_BUS_ACT STRING,
+    BUYER_NAME STRING,
+    BUYER_ADDL_CO_INFO STRING,
+    BUYER_ADDRESS1 STRING,
+    BUYER_ADDRESS2 STRING,
+    BUYER_CITY STRING,
+    BUYER_STATE STRING,
+    BUYER_ZIP STRING,
+    BUYER_COUNTY STRING,
+    TRANSACTION_CODE STRING,
+    DRUG_CODE STRING,
+    NDC_NO STRING,
+    DRUG_NAME STRING,
+    QUANTITY DOUBLE,
+    UNIT STRING COMMENT 'Modified to be STRING to accomodate categorical values like D that stands for Dozen',
+    ACTION_INDICATOR STRING,
+    ORDER_FORM_NO STRING,
+    CORRECTION_NO STRING,
+    STRENGTH DOUBLE,
+    TRANSACTION_DATE STRING,
+    CALC_BASE_WT_IN_GM DOUBLE,
+    DOSAGE_UNIT DOUBLE,
+    TRANSACTION_ID BIGINT,
+    Product_Name STRING,
+    Ingredient_Name STRING,
+    Measure STRING,
+    MME_Conversion_Factor DOUBLE,
+    Combined_Labeler_Name STRING,
+    Revised_Company_Name STRING,
+    Reporter_family STRING,
+    dos_str  DOUBLE)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '\t'
+LOCATION 's3://cse6242courseproject/arcos-washpost/'
+--> 0GB
+
+CREATE TABLE IF NOT EXISTS DEA_ARCOS_WPOST 
+WITH (format='PARQUET', parquet_compression='SNAPPY', external_location='s3://cse6242courseproject/arcos-washpost-parquet/')
+AS
+SELECT * from DEA_ARCOS_WPOST_RAW
+--> 74GB
+
+CREATE EXTERNAL TABLE IF NOT EXISTS DEA_ARCOS_FULL_RAW (
+    REPORTER_DEA_NO STRING,
+    REPORTER_BUS_ACT STRING,
+    REPORTER_NAME STRING,
+    REPORTER_ADDL_CO_INFO STRING,
+    REPORTER_ADDRESS1 STRING,
+    REPORTER_ADDRESS2 STRING,
+    REPORTER_CITY STRING,
+    REPORTER_STATE STRING,
+    REPORTER_ZIP STRING,
+    REPORTER_COUNTY STRING,
+    BUYER_DEA_NO STRING,
+    BUYER_BUS_ACT STRING,
+    BUYER_NAME STRING,
+    BUYER_ADDL_CO_INFO STRING,
+    BUYER_ADDRESS1 STRING,
+    BUYER_ADDRESS2 STRING,
+    BUYER_CITY STRING,
+    BUYER_STATE STRING,
+    BUYER_ZIP STRING,
+    BUYER_COUNTY STRING,
+    TRANSACTION_CODE STRING,
+    DRUG_CODE STRING,
+    NDC_NO STRING,
+    DRUG_NAME STRING,
+    QUANTITY DOUBLE,
+    UNIT STRING COMMENT 'Modified to be String to accomodate values like D that stands for Dozen',
+    ACTION_INDICATOR STRING,
+    ORDER_FORM_NO STRING,
+    CORRECTION_NO STRING,
+    STRENGTH DOUBLE,
+    TRANSACTION_DATE STRING,
+    CALC_BASE_WT_IN_GM DOUBLE,
+    DOSAGE_UNIT DOUBLE,
+    TRANSACTION_ID BIGINT,
+    Product_Name STRING,
+    Ingredient_Name STRING,
+    Measure STRING,
+    MME_Conversion_Factor DOUBLE,
+    Combined_Labeler_Name STRING,
+    Revised_Company_Name STRING,
+    Reporter_family STRING,
+    dos_str  DOUBLE)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '\t'
+LOCATION 's3://cse6242courseproject/arcos-full/'
+
+CREATE TABLE IF NOT EXISTS DEA_ARCOS_FULL
+WITH (format='PARQUET', parquet_compression='SNAPPY', external_location='s3://cse6242courseproject/arcos-full-parquet/')
+AS
+SELECT * from DEA_ARCOS_FULL_RAW
+Data: 157GB
+
+---------------------------
+select count(*) from courseproject.dea_arcos_wpost where lower(trim(reporter_dea_no)) not in
+(
+  select distinct lower(trim(buyer_dea_no)) from courseproject.dea_arcos_wpost
+)
+Result: 178598027
+--> 113.88MB
+
+---------------------------
+select count(*) from courseproject.dea_arcos_wpost
+Data: 0KB
+Result: 178598027
+
+---------------------------
+select strength, count(*) as numOrders from courseproject.dea_arcos_wpost group by strength
+order by numOrders desc
+Data: 4.56MB
+1		     134475399
+2	0.0	     42992312
+3	1000.0	 1116037
+4	800.0	 2481
+
+----------------------------
+select strength, count(*) as numOrders from courseproject.dea_arcos_wpost group by strength
+order by strength desc
+Data: 4.56MB
+1	8000.0	1
+2	7600.0	11
+3	7508.0	1
+4	7500.0	2
+5	7000.0	2
+6	6600.0	9
+7	6500.0	13
+
+----------------------------
+select A.reporter_dea_no, count(*) as reporter_degree from
+(
+ select distinct reporter_dea_no, buyer_dea_no from courseproject.dea_arcos_wpost
+) A
+group by A.reporter_dea_no
+order by reporter_degree desc
+Data scanned: 113.86MB
+RESULT:
+ 	reporter_dea_no	reporter_degree
+1	RA0287020	23410
+2	RA0180733	18078
+3	RH0302567	12607
+4	RG0131499	7529
+5	RD0277409	5981
+6	RW0294493	5603
+7	RH0162494	5515
+8	RW0282145	4570
+9	RW0277752	4383
+10	RH0181709	4214
+
+select * from dea_arcos_full limit 10;
+Data: 89.88 MB
+--------------------------
+select count(*) from dea_arcos_full
+378573016
+
+select count(*) from courseproject.dea_arcos_full where lower(trim(reporter_dea_no)) not in
+(
+  select distinct lower(trim(buyer_dea_no)) from courseproject.dea_arcos_full
+)
+Result: 1414
+Data: 250MB
+----------------------------------
+
+select count(*) from (select distinct(drug_code) from dea_arcos_full)A
+Result: 15
+Data: 154MB
+----------------------------------
+select quantity, unit, strength, dosage_unit, measure, mme_conversion_factor, dos_str from dea_arcos_full limit 100;
+Result: 
+
+Data: 26.84MB
+-----------------------------------
+select quantity, unit, strength, dosage_unit, measure, mme_conversion_factor, dos_str 
+       from dea_arcos_full 
+       where unit is not null and strength is not null and dosage_unit is not null limit 100;
+Data: 1.05GB
+
+ 	quantity	unit	strength	dosage_unit	measure	mme_conversion_factor	dos_str
+1	107.0	    3.0	    1000.0	    107.0	    CAP	    0.25	                16.0
+2	580730.0	2.0	    1000.0	    580.73	    TAB	    0.25	                32.0
+3	52.0	    3.0	    960.0	    49.92	    TAB	    1.0	                    5.0
+4	31.0	    3.0	    960.0	    29.76	    TAB	    1.0	                    5.0
+5	180640.0	2.0	    986.0	    178.11104	TAB	    1.0	                    5.0
+6	291345.0	2.0	    1000.0	    291.345	    TAB	    0.25	                32.0
+7	99400.0	    2.0	    1000.0	    99.4	    TAB	    1.0	                    5.0
+8	20008.0	    2.0	    1000.0	    20.008	    TAB	    1.0	                    5.0
+9	194966.0	3.0	    1000.0	    194966.0	CAP	    0.25	                16.0
+10	90.0	    3.0	    1000.0	    90.0	    TAB	    1.0	                    5.0
+.....
+
+-----------------------------------
+
+11-Nov-2019
+-----------
+create external table cdc_monthly_raw (
+  county_code string,
+  deaths int,
+  state_code string,
+  county_name string,
+  year int,
+  month int
+  )
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+LOCATION 's3://cse6242courseproject/cdc-csv/'
+TBLPROPERTIES ('skip.header.line.count'='1')
+
+CREATE TABLE IF NOT EXISTS cdc_monthly_parquet 
+WITH (format='PARQUET', parquet_compression='SNAPPY', external_location='s3://cse6242courseproject/cdc-parquet/')
+AS
+SELECT * from cdc_monthly_raw
+
+
+16-Nov-2019
+------------
+create external table cdc_yearly_raw (
+  county_code string,
+  deaths int,
+  Population int,
+  state_code string,
+  county_name string,
+  year int
+  )
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+LOCATION 's3://cse6242courseproject/cdc-yearly-csv/'
+TBLPROPERTIES ('skip.header.line.count'='1')
+
+CREATE TABLE IF NOT EXISTS cdc_yearly_parquet 
+WITH (format='PARQUET', parquet_compression='SNAPPY', external_location='s3://cse6242courseproject/cdc-yearly-parquet/')
+AS
+SELECT * from cdc_yearly_raw
+
+-- Below SQL creates UniqueID for each DEA Number - (For page rank and graph construction)
+
+create table if not exists dea_ids 
+WITH (format='PARQUET', parquet_compression='SNAPPY', external_location='s3://cse6242courseproject/dea_ids_parquet/')
+AS
+select dea_no , row_number() over() as id
+from  
+(
+  select distinct dea_no from (
+    select distinct reporter_dea_no as dea_no from dea_arcos_full_string
+      UNION DISTINCT
+    select distinct buyer_dea_no as dea_no from dea_arcos_full_string
+  )
+) A
+
+
+-- Create table: Find out transactions between reporter and buyer as a graph (for PageRank)
+==========================================================================================
+create table dea_arcos_sales_graph
+with (format='PARQUET', parquet_compression='SNAPPY', external_location='s3://cse6242courseproject/dea_arcos_sales_graph/')
+AS
+select reporter_dea_no, buyer_dea_no,  sum(actual_wt_in_gm) as calc_base_wt_in_gm
+from
+(
+  select reporter_dea_no, buyer_dea_no,
+
+	CASE action_indicator
+           WHEN 'D' THEN -cast(calc_base_wt_in_gm as double)
+           ELSE cast(calc_base_wt_in_gm as double)
+        END as actual_wt_in_gm
+
+        from dea_arcos_full_string
+        where
+        calc_base_wt_in_gm <> 'CALC_BASE_WT_IN_GM' AND 
+        transaction_code = 'S' AND
+        ((drug_code = '9193') or (drug_code = '9143')) AND 
+        measure = 'TAB'
+)A
+group by reporter_dea_no, buyer_dea_no
+
+CENUS Median Age across Counties
+================================ 
+create external table census_2010_medianage_counties (
+	geoid string, 
+	name string, 
+	median_age double,
+	median_age_annotation string,
+	median_age_moe double,
+	median_age_moe_annotation string,
+	male_age double,
+	male_age_annotation string,
+	male_age_moe double,
+	male_age_moe_annotation string,
+	female_age double,
+	female_age_annotation string,
+	female_age_moe double,
+	female_age_moe_annotation string,
+	state string,
+	county string )
+ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
+WITH SERDEPROPERTIES ("separatorChar" = ",", "escapeChar" = "\\")
+LOCATION 's3://cse6242courseproject/census_2010/census_median_age_counties/'
+TBLPROPERTIES ('skip.header.line.count'='1')
+
+create external table census_2010_median_hhincome_counties (
+   geoid string,
+   name string,
+   median_hhincome double,
+   median_hhincome_annotation string,
+   median_hhincome_moe double,
+   median_hhincome_moe_annotation string,
+   state string,
+   county string
+)
+ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
+WITH SERDEPROPERTIES ("separatorChar" = ",", "escapeChar" = "\\")
+LOCATION 's3://cse6242courseproject/census_2010/census_median_hh_income_counties/'
+TBLPROPERTIES ('skip.header.line.count'='1')
+
+create external table census_2010_population_counties (
+    geoid string,
+    name string,
+    population double,
+    population_annotation string,
+    population_moe double,
+    population_moe_annotation string,
+    state string,
+    county string
+)
+ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
+WITH SERDEPROPERTIES ("separatorChar" = ",", "escapeChar" = "\\")
+LOCATION 's3://cse6242courseproject/census_2010/census_population_counties/'
+TBLPROPERTIES ('skip.header.line.count'='1')
+
+
+create external table census_2010_race_counties (
+geoid string,
+name string,
+race_universe double,
+race_universe_annotation string,
+race_universe_moe double,
+universe_moe_annotation string,
+white_alone double,
+white_alone_annotation string,
+white_alone_moe double,
+white_alone_moe_annotation string,
+black_alone double,
+black_alone_annotation string,
+black_alone_moe double,
+black_alone_moe_annotation string,
+american_indian_and_alaska_native double,
+american_indian_and_alaska_native_annotation string,
+american_indian_and_alaska_native_moe double,
+american_indian_and_alaska_native_moe_annotation string,
+asian_alone double,
+asian_alone_annotation string,
+asian_alone_moe double,
+asian_alone_moe_annotation string,
+native_hawaiian_and_pacific_islander double,
+native_hawaiian_and_pacific_islander_annotation string,
+native_hawaiian_and_pacific_islander_moe double,
+native_hawaiian_and_pacific_islander_moe_annotation string,
+other_alone double,
+other_alone_annotation string,
+other_alone_moe double,
+other_alone_moe_annotation string,
+two_or_more_races double,
+two_or_more_races_annotation string,
+two_or_more_races_moe double,
+two_or_more_races_moe_annotation string,
+latino_alone double,
+latino_alone_annotation string,
+latino_alone_moe double,
+latino_alone_moe_annotation string,
+state string,
+county string,
+asians_all double,
+asians_all_moe double,
+other_all double,
+other_all_moe double
+)
+ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
+WITH SERDEPROPERTIES ("separatorChar" = ",", "escapeChar" = "\\")
+LOCATION 's3://cse6242courseproject/census_2010/census_race_counties/'
+TBLPROPERTIES ('skip.header.line.count'='1')
+
+
+
+-----Creating Master CENSUS data table ------
+
+create table census_2010_master 
+with (format='PARQUET', parquet_compression='SNAPPY', external_location='s3://cse6242courseproject/census_2010_master_parquet/')
+AS
+select E.*, F.median_age, F.median_age_moe, F.male_age, F.male_age_moe, F.female_age, F.female_age_moe
+from
+(
+select C.*, D.median_hhincome, D.median_hhincome_moe from
+(
+select A.geoid,
+A.name,
+A.state,
+A.county,
+A.race_universe,
+A.race_universe_moe,
+A.white_alone,
+A.white_alone_moe,
+A.black_alone,
+A.black_alone_moe,
+A.american_indian_and_alaska_native,
+A.american_indian_and_alaska_native_moe,
+A.asian_alone,
+A.asian_alone_moe,
+A.native_hawaiian_and_pacific_islander,
+A.native_hawaiian_and_pacific_islander_moe,
+A.other_alone,
+A.other_alone_moe,
+A.two_or_more_races,
+A.two_or_more_races_moe,
+A.latino_alone,
+A.latino_alone_moe,
+A.asians_all,
+A.asians_all_moe,
+A.other_all,
+A.other_all_moe, 
+B.population, 
+B.population_moe  from
+census_2010_race_counties  A
+INNER JOIN
+census_2010_population_counties B
+ON A.geoid = B.geoid 
+) C
+INNER JOIN 
+census_2010_median_hhincome_counties D
+ON C.geoid = D.geoid
+) E 
+INNER JOIN 
+census_2010_medianage_counties F
+ON E.geoid = F.geoid
+
+
+------ Creating ARCOS County Code Matches
+create external table dea_arcos_county_codes (
+state string,
+county string,
+county_code string)
+ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
+WITH SERDEPROPERTIES ("separatorChar" = ",", "escapeChar" = "\\")
+LOCATION 's3://cse6242courseproject/dea_arcos_county_codes/'
+TBLPROPERTIES ('skip.header.line.count'='1')
+
+------------Creating distinct ARCOS county code matches
+
+create table dea_arcos_county_codes_parquet
+with (format='PARQUET', parquet_compression='SNAPPY', external_location='s3://cse6242courseproject/dea_arcos_county_codes_parquet/')
+AS
+select A.* from
+(
+select state, county, county_code, row_number() over (partition by state, county 
+                                                      order by county_code desc) as somerow
+from dea_arcos_county_codes
+)A
+where A.somerow=1
+
+17-Nov-2019
+===========
+
+Data count change for the below SQL.
+
+21598
+21569 - After merge with ARCOS county codes table...
+18915 - After merge with CDC...
+18915 - After merge with Census
+
+Below SQL created --> WPost-cdc-census-yearlymerge-AnalyticsFrame-17Nov2019.csv
+
+--------- Creation of Data Frame for Analytics  ------------
+select F.*, G.*
+from
+(
+select D.*, E.deaths
+from
+(
+select B.*, C.county_code  
+from
+(
+select A.buyer_state, A.buyer_county, A.year, sum(A.actual_wt_in_gm) as opioids_in_gm
+from
+(
+select buyer_state, buyer_county, 	
+        CASE action_indicator
+           WHEN 'D' THEN -cast(calc_base_wt_in_gm as double)
+           ELSE cast(calc_base_wt_in_gm as double)
+        END as actual_wt_in_gm,
+        substr(transaction_date,5,4) as year
+        from
+        dea_arcos_wpost
+        where buyer_county <> 'BUYER_COUNTY'
+) A
+group by A.buyer_state, A.buyer_county, A.year
+) B
+INNER JOIN
+dea_arcos_county_codes_parquet C
+ON
+B.buyer_state = C.state AND B.buyer_county = C.county
+) D
+INNER JOIN
+cdc_yearly_parquet E
+ON (D.county_code = E.county_code)  AND (D.year = cast(E.year as varchar))
+) F
+INNER JOIN
+census_2010_master G
+ON
+F.county_code = G.geoid
+
+21-Nov-2019
+==========
+
+Exploratory Analysis
+====================
+
+Below SQL created Wpost-ReporterFamily-RanksBy-OpioidWeight-6aebc841-6e13-402f-977e-77fdb7737f43.csv
+
+--Note this query does not take Delete Action Indicator into account. Ideally, it should have...
+select reporter_family, sum(cast(calc_base_wt_in_gm as double)) as total_gms
+from dea_arcos_wpost_string 
+where lower(buyer_zip) <> 'buyer_zip'
+group by reporter_family
+order by total_gms desc
+
+
+Below SQL created Wpost-ReporterFamily-RanksBy-DosageUnit-b01066c4-b80c-4137-8ee9-6aed63481e2c.csv
+
+--Note this query does not take Delete Action Indicator into account. Ideally, it should have...
+select reporter_family, sum(cast(dosage_unit as double)) as total_dosage
+from dea_arcos_wpost_string 
+where lower(buyer_zip) <> 'buyer_zip' AND lower(dosage_unit) <> 'null'
+group by reporter_family
+order by total_dosage desc
+
+
+Below SQL created Wpost-OpioidWeight-ByStateCounty-7f69a640-5f92-4dc3-a143-fb372a48b266.csv
+
+select reporter_county, reporter_state, sum(
+       CASE action_indicator
+           WHEN 'D' THEN -cast(calc_base_wt_in_gm as double)
+           ELSE cast(calc_base_wt_in_gm as double)
+       END
+) as total_gms
+from dea_arcos_wpost_string 
+where lower(buyer_zip) <> 'buyer_zip'
+group by reporter_county, reporter_state
+order by total_gms desc

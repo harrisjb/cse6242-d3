@@ -1,0 +1,220 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <style>
+        .states {
+            fill: none;
+            stroke: #000;
+            stroke-linejoin: round;
+        }
+
+        .mesh {
+          fill: none;
+          stroke: #fff;
+          stroke-linecap: round;
+          stroke-linejoin: round;
+}
+
+        .counties {
+            fill: none;
+            stroke: #fff;
+            stroke-linejoin: round;
+        }
+
+        .d3-tip {
+            line-height: 1;
+            padding: 6px;
+            background: rgba(0, 0, 0, 0.8);
+            color: #fff;
+            border-radius: 4px;
+            font-size: 12px;
+        }
+
+        .d3-tip:after {
+            box-sizing: border-box;
+            display: inline;
+            font-size: 10px;
+            width: 100%;
+            line-height: 1;
+            color: rgba(0, 0, 0, 0.8);
+            content: "\25BC";
+            position: absolute;
+            text-align: center;
+        }
+
+        .d3-tip.n:after {
+            margin: -2px 0 0 0;
+            top: 100%;
+            left: 0;
+        }
+
+
+    </style>
+
+    <script src="../js/d3.v5.min.js"></script>
+    <script src="../js/d3-scale-chromatic.v1.min.js"></script>
+    <script src="../js/topojson.v2.min.js"></script>
+    <script src="../js/d3-tip.min.js"></script>
+</head>
+<body>
+        <div id='title-container'></div>
+        <div id='dropbox-container'></div>
+        <div id='legend-container'></div>
+        <div id='map-container'></div>
+<script>
+
+    // set the dimensions and margins of the graph
+    var margin = {top: 70, bottom: 40, left: 40, right: 80},
+        width = 1000 - margin.left - margin.right,
+        height = 600 - margin.top - margin.bottom;
+
+
+    var svg = d3.select("#map-container").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    var g = svg.append("g");
+
+
+    var tool_tip = d3.tip()
+        .attr("class", "d3-tip")
+        .offset([-8, 0])
+        .html(function (d) {
+            county_id = d['id'];
+            pill_data = pills[county_id];
+            count = pill_data[0];
+            state = pill_data[1];
+            county = pill_data[2];
+            return "Location: " + county + ", "+state+"<br/>Deaths: " + count;
+        });
+
+
+    svg.call(tool_tip);
+
+    pills = {};
+
+
+    var projection = d3.geoAlbersUsa();
+    var path = d3.geoPath().projection(projection);
+
+
+    //DPH FIX ME Set this later
+    max_pills = 150;
+    min_pills = 1;
+    var promises = [
+        d3.json("./data/counties-10m.json"),
+        d3.csv("./data/pills_per_person_average_2006_2012.csv", function (d) {
+            //County_cd,State_nm,County_nm,avgerage_pills
+            pills[d.County_cd]=[d['avgerage_pills'],d['State_nm'],d['County_nm']];
+        })
+    ];
+
+    colorScheme = ['#e5e49e','#dcce05','#d9b70b','#d6a011','#d28917','#cf721d','#c84429','#c52d2f','#bf003b'];
+    colorScheme = ['#ffffff','#f8f8f8','#e2e2e2','#d2d2d2','#e2d5ea','#ebe3f3','#ce99c4','#953d4d','#753037'];
+    //colorScheme = ['#4d004b','#810f7c','#88419d','#8c6bb1','#8c96c6','#9ebcda','#bfd3e6','#e0ecf4','#f7fcfd']
+
+    Promise.all(promises).then(ready);
+
+    function ready(promise_data){
+       us = promise_data[0];
+       render_chart()
+    }
+
+    function render_chart() {
+
+        mapScale = d3.scaleLog()
+            .domain([min_pills, max_pills])
+            .range([0, 8]);
+
+        g.selectAll("path")
+            .attr("class", "counties")
+            .data(topojson.feature(us, us.objects.counties).features)
+            .enter()
+            .append("path")
+            .on('mouseover', tool_tip.show)
+            .on('mouseout', tool_tip.hide)
+            .attr("fill", function (d) {
+                state = d['id'];
+                pill_data = pills[state];
+                count=0;
+                if (typeof(pill_data) !== "undefined"){
+                   count = pill_data[0];
+                }
+                //console.log(count)
+                log = 0;
+                log = Math.round(mapScale(count));
+                log = log === -Infinity ? 0 : log;
+
+                if (typeof count === 'undefined'){
+                    log=0
+                }
+                if (log >8){
+                    log=8
+                }
+                //console.log("State="+state+" count="+count+" log="+log+" color="+colorScheme[log]);
+
+                return colorScheme[log];
+            })
+            .attr("d", path);
+
+
+        g.append("path")
+           .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
+           .attr("class", "states")
+            .attr("d", path);
+
+        g.append("path")
+            .data(topojson.feature(us, us.objects.nation).features)
+            .attr("class", "states")
+            .attr("d", path);
+    }
+
+    grid_size = 30;
+
+    var legend = svg.append("g")
+        .attr("transform", "translate(" + (width + margin.left + margin.right) + "," + margin.top + ")")
+        .selectAll(".legend")
+        .data([0, 1, 10, 15, 25, 50, 75, 100, 150])
+        .enter();
+
+    legend.append("rect")
+        .attr("x", 0)
+        .attr("y", function (d, i) {
+            return (grid_size * i) + 30;
+        })
+        .attr("width", grid_size)
+        .attr("height", grid_size)
+        .style("fill", function (d, i) {
+            return colorScheme[i];
+        });
+
+    legend.append("text")
+        .attr("class", "mono")
+        .text(function (d,i) {
+            ret_val = d3.format(",")(d);
+            if(i===8){
+                ret_val = ret_val + ' +'
+            }
+            return ret_val
+        })
+        .attr("x", 40)
+        .attr("y", function (d, i) {
+            return (grid_size * i) + 50;
+        });
+
+    legend.append("text")
+        .attr("text-anchor", "middle")
+        .attr("font-family", "sans-serif")
+        .attr("font-size", "16px")
+        .attr("font-weight", "500")
+        //.attr("transform", "translate("+ (grid_size+10) +","+(height-10)+")")
+        .text("Pills");
+
+
+
+
+</script>
+</body>
+</html>

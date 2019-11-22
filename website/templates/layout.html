@@ -30,42 +30,18 @@
 
 <nav class="navbar main-nav fixed-top navbar-expand-lg">
   <div class="container">
-      <a class="navbar-brand" href="index"><img src="images/logo.png" alt="logo"></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="tf-ion-android-menu"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link scrollTo" href="#home">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link scrollTo" href="#slide1">Data 1</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link scrollTo" href="#slide2">Data 2</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link scrollTo" href="#slide3">Data 3</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link scrollTo" href="#slide4">Data 4</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link scrollTo" href="#slide5">Data 5</a>
-        </li>
-      </ul>
-      </div>
+      <a class="navbar-brand" href="index"><img src="images/logo.png" alt="logo" height="30" width="100"></a>
+
   </div>
 </nav>
 <!--=====================================
 =            Homepage                   =
 ======================================-->
 
-<section class="banner bg-1" id="home">
+<section id="home" class="banner bg-1">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8 align-self-center">
+			<div class=" align-self-center">
 				<!-- Contents -->
 				<div class="content-block">
 					<h1>Analysis of the pain pill Crisis</h1>
@@ -143,14 +119,19 @@
 
   <script>
       $(document).ready( function () {
+         $('#distributors').DataTable.ext.pager.numbers_length = 3;
          $('#distributors').DataTable({
             "order": [[ 2, "desc" ]],
-            "columnDefs": [ { "targets": 1, "orderable": false} ]
+            "columnDefs": [ { "targets": 1, "orderable": false},
+                            { "targets": 3, "orderable": false}]
           });
+         $('#manufacturer').DataTable.ext.pager.numbers_length = 3;
 
          $('#manufacturer').DataTable({
-           "order": [[ 2, "desc" ]]
+           "order": [[ 2, "desc" ]],
+           "columnDefs": [ { "targets": 1, "orderable": false} ]
          });
+
       } );
   </script>
 </body>

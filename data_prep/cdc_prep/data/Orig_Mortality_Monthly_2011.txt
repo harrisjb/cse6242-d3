@@ -1,0 +1,935 @@
+"Notes"	"Year"	"Year Code"	"Month"	"Month Code"	"County"	"County Code"	Deaths	Population	Crude Rate
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Maricopa County, AZ"	"04013"	49	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Pima County, AZ"	"04019"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Alameda County, CA"	"06001"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Butte County, CA"	"06007"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Contra Costa County, CA"	"06013"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Kern County, CA"	"06029"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Los Angeles County, CA"	"06037"	57	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Orange County, CA"	"06059"	33	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Riverside County, CA"	"06065"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Sacramento County, CA"	"06067"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"San Bernardino County, CA"	"06071"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"San Diego County, CA"	"06073"	41	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"San Francisco County, CA"	"06075"	25	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"San Joaquin County, CA"	"06077"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Denver County, CO"	"08031"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"New Haven County, CT"	"09009"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Brevard County, FL"	"12009"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Broward County, FL"	"12011"	24	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Hillsborough County, FL"	"12057"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Manatee County, FL"	"12081"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Miami-Dade County, FL"	"12086"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Orange County, FL"	"12095"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Palm Beach County, FL"	"12099"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Pasco County, FL"	"12101"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Pinellas County, FL"	"12103"	24	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Sarasota County, FL"	"12115"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Fulton County, GA"	"13121"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Honolulu County, HI"	"15003"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Cook County, IL"	"17031"	39	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Will County, IL"	"17197"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Jefferson County, KY"	"21111"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Jefferson Parish, LA"	"22051"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Anne Arundel County, MD"	"24003"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Baltimore County, MD"	"24005"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Baltimore city, MD"	"24510"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Middlesex County, MA"	"25017"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Worcester County, MA"	"25027"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Macomb County, MI"	"26099"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Wayne County, MI"	"26163"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"St. Louis city, MO"	"29510"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Clark County, NV"	"32003"	31	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Washoe County, NV"	"32031"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Rockingham County, NH"	"33015"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Camden County, NJ"	"34007"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Monmouth County, NJ"	"34025"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Bernalillo County, NM"	"35001"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Bronx County, NY"	"36005"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Kings County, NY"	"36047"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Nassau County, NY"	"36059"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"New York County, NY"	"36061"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Queens County, NY"	"36081"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Suffolk County, NY"	"36103"	30	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Cuyahoga County, OH"	"39035"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Franklin County, OH"	"39049"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Hamilton County, OH"	"39061"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Oklahoma County, OK"	"40109"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Allegheny County, PA"	"42003"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Bucks County, PA"	"42017"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Delaware County, PA"	"42045"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Philadelphia County, PA"	"42101"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Providence County, RI"	"44007"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Davidson County, TN"	"47037"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Bexar County, TX"	"48029"	29	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Dallas County, TX"	"48113"	28	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Harris County, TX"	"48201"	29	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Tarrant County, TX"	"48439"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Travis County, TX"	"48453"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Salt Lake County, UT"	"49035"	27	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"King County, WA"	"53033"	25	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Pierce County, WA"	"53053"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Snohomish County, WA"	"53061"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Milwaukee County, WI"	"55079"	14	Not Applicable	Not Applicable
+"Total"	"2011"	"2011"	"Jan., 2011"	"2011/01"			3479	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Maricopa County, AZ"	"04013"	59	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Pima County, AZ"	"04019"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Alameda County, CA"	"06001"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Fresno County, CA"	"06019"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Los Angeles County, CA"	"06037"	41	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Orange County, CA"	"06059"	26	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Riverside County, CA"	"06065"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Sacramento County, CA"	"06067"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"San Bernardino County, CA"	"06071"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"San Diego County, CA"	"06073"	35	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"San Francisco County, CA"	"06075"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"San Joaquin County, CA"	"06077"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Santa Clara County, CA"	"06085"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Stanislaus County, CA"	"06099"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Arapahoe County, CO"	"08005"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Denver County, CO"	"08031"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Hartford County, CT"	"09003"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"New Haven County, CT"	"09009"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"District of Columbia, DC"	"11001"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Brevard County, FL"	"12009"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Broward County, FL"	"12011"	24	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Duval County, FL"	"12031"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Hillsborough County, FL"	"12057"	25	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Miami-Dade County, FL"	"12086"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Orange County, FL"	"12095"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Palm Beach County, FL"	"12099"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Pasco County, FL"	"12101"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Pinellas County, FL"	"12103"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Polk County, FL"	"12105"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Sarasota County, FL"	"12115"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Seminole County, FL"	"12117"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Cook County, IL"	"17031"	40	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Marion County, IN"	"18097"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Prince George's County, MD"	"24033"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Baltimore city, MD"	"24510"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Bristol County, MA"	"25005"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Essex County, MA"	"25009"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Middlesex County, MA"	"25017"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Genesee County, MI"	"26049"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Macomb County, MI"	"26099"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Wayne County, MI"	"26163"	24	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Ramsey County, MN"	"27123"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"St. Louis County, MO"	"29189"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Clark County, NV"	"32003"	35	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Camden County, NJ"	"34007"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Bernalillo County, NM"	"35001"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Kings County, NY"	"36047"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Nassau County, NY"	"36059"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"New York County, NY"	"36061"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Suffolk County, NY"	"36103"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Cuyahoga County, OH"	"39035"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Franklin County, OH"	"39049"	24	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Hamilton County, OH"	"39061"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Montgomery County, OH"	"39113"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Oklahoma County, OK"	"40109"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Multnomah County, OR"	"41051"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Allegheny County, PA"	"42003"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Bucks County, PA"	"42017"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Montgomery County, PA"	"42091"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Philadelphia County, PA"	"42101"	41	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Shelby County, TN"	"47157"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Bexar County, TX"	"48029"	24	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Dallas County, TX"	"48113"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Harris County, TX"	"48201"	34	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Tarrant County, TX"	"48439"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Salt Lake County, UT"	"49035"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Utah County, UT"	"49049"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"King County, WA"	"53033"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Pierce County, WA"	"53053"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Snohomish County, WA"	"53061"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Milwaukee County, WI"	"55079"	13	Not Applicable	Not Applicable
+"Total"	"2011"	"2011"	"Feb., 2011"	"2011/02"			3429	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Jefferson County, AL"	"01073"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Maricopa County, AZ"	"04013"	60	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Pima County, AZ"	"04019"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Yavapai County, AZ"	"04025"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Contra Costa County, CA"	"06013"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Kern County, CA"	"06029"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Los Angeles County, CA"	"06037"	60	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Orange County, CA"	"06059"	31	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Riverside County, CA"	"06065"	29	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Sacramento County, CA"	"06067"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"San Diego County, CA"	"06073"	32	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"San Francisco County, CA"	"06075"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"San Joaquin County, CA"	"06077"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Santa Clara County, CA"	"06085"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Ventura County, CA"	"06111"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Denver County, CO"	"08031"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"El Paso County, CO"	"08041"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Hartford County, CT"	"09003"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"New Haven County, CT"	"09009"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Broward County, FL"	"12011"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Duval County, FL"	"12031"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Hillsborough County, FL"	"12057"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Miami-Dade County, FL"	"12086"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Orange County, FL"	"12095"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Palm Beach County, FL"	"12099"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Pasco County, FL"	"12101"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Pinellas County, FL"	"12103"	27	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Volusia County, FL"	"12127"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Fulton County, GA"	"13121"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Cook County, IL"	"17031"	41	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Marion County, IN"	"18097"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Baltimore County, MD"	"24005"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Baltimore city, MD"	"24510"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Bristol County, MA"	"25005"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Middlesex County, MA"	"25017"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Macomb County, MI"	"26099"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Wayne County, MI"	"26163"	27	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"St. Louis County, MO"	"29189"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Clark County, NV"	"32003"	29	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Washoe County, NV"	"32031"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Middlesex County, NJ"	"34023"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Bernalillo County, NM"	"35001"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Bronx County, NY"	"36005"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Erie County, NY"	"36029"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Kings County, NY"	"36047"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Nassau County, NY"	"36059"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Queens County, NY"	"36081"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Richmond County, NY"	"36085"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Suffolk County, NY"	"36103"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Westchester County, NY"	"36119"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Cuyahoga County, OH"	"39035"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Franklin County, OH"	"39049"	26	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Hamilton County, OH"	"39061"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Montgomery County, OH"	"39113"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Tulsa County, OK"	"40143"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Multnomah County, OR"	"41051"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Allegheny County, PA"	"42003"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Bucks County, PA"	"42017"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Chester County, PA"	"42029"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Montgomery County, PA"	"42091"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Philadelphia County, PA"	"42101"	38	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Providence County, RI"	"44007"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Bexar County, TX"	"48029"	25	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Dallas County, TX"	"48113"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Harris County, TX"	"48201"	37	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Tarrant County, TX"	"48439"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Travis County, TX"	"48453"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Salt Lake County, UT"	"49035"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Weber County, UT"	"49057"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"King County, WA"	"53033"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Pierce County, WA"	"53053"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Snohomish County, WA"	"53061"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Milwaukee County, WI"	"55079"	14	Not Applicable	Not Applicable
+"Total"	"2011"	"2011"	"Mar., 2011"	"2011/03"			3591	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Jefferson County, AL"	"01073"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Mobile County, AL"	"01097"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Maricopa County, AZ"	"04013"	46	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Pima County, AZ"	"04019"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Alameda County, CA"	"06001"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Contra Costa County, CA"	"06013"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Kern County, CA"	"06029"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Los Angeles County, CA"	"06037"	64	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Orange County, CA"	"06059"	38	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Riverside County, CA"	"06065"	30	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Sacramento County, CA"	"06067"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"San Diego County, CA"	"06073"	33	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"San Francisco County, CA"	"06075"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"San Joaquin County, CA"	"06077"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Denver County, CO"	"08031"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"El Paso County, CO"	"08041"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Hartford County, CT"	"09003"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"New Haven County, CT"	"09009"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"District of Columbia, DC"	"11001"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Brevard County, FL"	"12009"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Broward County, FL"	"12011"	24	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Hillsborough County, FL"	"12057"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Miami-Dade County, FL"	"12086"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Orange County, FL"	"12095"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Pasco County, FL"	"12101"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Pinellas County, FL"	"12103"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Honolulu County, HI"	"15003"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Cook County, IL"	"17031"	33	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Lake County, IL"	"17097"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Will County, IL"	"17197"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Marion County, IN"	"18097"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Jefferson County, KY"	"21111"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Baltimore County, MD"	"24005"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Middlesex County, MA"	"25017"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Norfolk County, MA"	"25021"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Worcester County, MA"	"25027"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Macomb County, MI"	"26099"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Wayne County, MI"	"26163"	25	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Hennepin County, MN"	"27053"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"St. Louis County, MO"	"29189"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Clark County, NV"	"32003"	42	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Washoe County, NV"	"32031"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Monmouth County, NJ"	"34025"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Bernalillo County, NM"	"35001"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Kings County, NY"	"36047"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Nassau County, NY"	"36059"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"New York County, NY"	"36061"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Suffolk County, NY"	"36103"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Cuyahoga County, OH"	"39035"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Franklin County, OH"	"39049"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Hamilton County, OH"	"39061"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Montgomery County, OH"	"39113"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Oklahoma County, OK"	"40109"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Tulsa County, OK"	"40143"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Multnomah County, OR"	"41051"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Allegheny County, PA"	"42003"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Bucks County, PA"	"42017"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Montgomery County, PA"	"42091"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Philadelphia County, PA"	"42101"	35	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Providence County, RI"	"44007"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Bexar County, TX"	"48029"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Dallas County, TX"	"48113"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Harris County, TX"	"48201"	33	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Tarrant County, TX"	"48439"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Travis County, TX"	"48453"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"King County, WA"	"53033"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Pierce County, WA"	"53053"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Snohomish County, WA"	"53061"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Spokane County, WA"	"53063"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Milwaukee County, WI"	"55079"	26	Not Applicable	Not Applicable
+"Total"	"2011"	"2011"	"Apr., 2011"	"2011/04"			3483	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Maricopa County, AZ"	"04013"	57	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Pima County, AZ"	"04019"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Alameda County, CA"	"06001"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Contra Costa County, CA"	"06013"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Kern County, CA"	"06029"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Los Angeles County, CA"	"06037"	60	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Orange County, CA"	"06059"	24	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Riverside County, CA"	"06065"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Sacramento County, CA"	"06067"	28	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"San Bernardino County, CA"	"06071"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"San Diego County, CA"	"06073"	36	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"San Francisco County, CA"	"06075"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"San Joaquin County, CA"	"06077"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Santa Clara County, CA"	"06085"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Ventura County, CA"	"06111"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Denver County, CO"	"08031"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Jefferson County, CO"	"08059"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Brevard County, FL"	"12009"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Broward County, FL"	"12011"	24	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Duval County, FL"	"12031"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Hillsborough County, FL"	"12057"	26	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Pasco County, FL"	"12101"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Pinellas County, FL"	"12103"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Polk County, FL"	"12105"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Honolulu County, HI"	"15003"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Cook County, IL"	"17031"	41	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Marion County, IN"	"18097"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Jefferson County, KY"	"21111"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Baltimore County, MD"	"24005"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Baltimore city, MD"	"24510"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Middlesex County, MA"	"25017"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Macomb County, MI"	"26099"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Wayne County, MI"	"26163"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Hennepin County, MN"	"27053"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Jackson County, MO"	"29095"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"St. Louis County, MO"	"29189"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Clark County, NV"	"32003"	49	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Camden County, NJ"	"34007"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Essex County, NJ"	"34013"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Monmouth County, NJ"	"34025"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Bernalillo County, NM"	"35001"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Bronx County, NY"	"36005"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Kings County, NY"	"36047"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Nassau County, NY"	"36059"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"New York County, NY"	"36061"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Queens County, NY"	"36081"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Suffolk County, NY"	"36103"	36	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Cuyahoga County, OH"	"39035"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Franklin County, OH"	"39049"	30	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Hamilton County, OH"	"39061"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Montgomery County, OH"	"39113"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Summit County, OH"	"39153"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Trumbull County, OH"	"39155"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Oklahoma County, OK"	"40109"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Tulsa County, OK"	"40143"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Multnomah County, OR"	"41051"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Allegheny County, PA"	"42003"	34	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Delaware County, PA"	"42045"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Philadelphia County, PA"	"42101"	30	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Westmoreland County, PA"	"42129"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Providence County, RI"	"44007"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Bexar County, TX"	"48029"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Dallas County, TX"	"48113"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"El Paso County, TX"	"48141"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Harris County, TX"	"48201"	32	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Tarrant County, TX"	"48439"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Travis County, TX"	"48453"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Salt Lake County, UT"	"49035"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"King County, WA"	"53033"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Pierce County, WA"	"53053"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Milwaukee County, WI"	"55079"	16	Not Applicable	Not Applicable
+"Total"	"2011"	"2011"	"May, 2011"	"2011/05"			3551	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Maricopa County, AZ"	"04013"	46	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Pima County, AZ"	"04019"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Alameda County, CA"	"06001"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Contra Costa County, CA"	"06013"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Los Angeles County, CA"	"06037"	55	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Orange County, CA"	"06059"	25	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Riverside County, CA"	"06065"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Sacramento County, CA"	"06067"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"San Bernardino County, CA"	"06071"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"San Diego County, CA"	"06073"	36	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"San Francisco County, CA"	"06075"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Ventura County, CA"	"06111"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Arapahoe County, CO"	"08005"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Denver County, CO"	"08031"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Fairfield County, CT"	"09001"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"New Haven County, CT"	"09009"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"District of Columbia, DC"	"11001"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Broward County, FL"	"12011"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Duval County, FL"	"12031"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Hillsborough County, FL"	"12057"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Lee County, FL"	"12071"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Miami-Dade County, FL"	"12086"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Orange County, FL"	"12095"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Palm Beach County, FL"	"12099"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Pasco County, FL"	"12101"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Pinellas County, FL"	"12103"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Cook County, IL"	"17031"	44	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Marion County, IN"	"18097"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Jefferson County, KY"	"21111"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Baltimore city, MD"	"24510"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Middlesex County, MA"	"25017"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Genesee County, MI"	"26049"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Macomb County, MI"	"26099"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Oakland County, MI"	"26125"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Wayne County, MI"	"26163"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"St. Louis County, MO"	"29189"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Clark County, NV"	"32003"	44	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Washoe County, NV"	"32031"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Bernalillo County, NM"	"35001"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Bronx County, NY"	"36005"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Kings County, NY"	"36047"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"New York County, NY"	"36061"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Richmond County, NY"	"36085"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Suffolk County, NY"	"36103"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Cuyahoga County, OH"	"39035"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Franklin County, OH"	"39049"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Hamilton County, OH"	"39061"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Oklahoma County, OK"	"40109"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Multnomah County, OR"	"41051"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Allegheny County, PA"	"42003"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Bucks County, PA"	"42017"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Chester County, PA"	"42029"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Delaware County, PA"	"42045"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Philadelphia County, PA"	"42101"	42	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Bexar County, TX"	"48029"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Dallas County, TX"	"48113"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Harris County, TX"	"48201"	30	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Tarrant County, TX"	"48439"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Travis County, TX"	"48453"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Salt Lake County, UT"	"49035"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"King County, WA"	"53033"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Pierce County, WA"	"53053"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Snohomish County, WA"	"53061"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Milwaukee County, WI"	"55079"	16	Not Applicable	Not Applicable
+"Total"	"2011"	"2011"	"Jun., 2011"	"2011/06"			3244	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Maricopa County, AZ"	"04013"	50	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Pima County, AZ"	"04019"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Alameda County, CA"	"06001"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Fresno County, CA"	"06019"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Kern County, CA"	"06029"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Los Angeles County, CA"	"06037"	62	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Orange County, CA"	"06059"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Riverside County, CA"	"06065"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Sacramento County, CA"	"06067"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"San Bernardino County, CA"	"06071"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"San Diego County, CA"	"06073"	28	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"San Francisco County, CA"	"06075"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Denver County, CO"	"08031"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"New Haven County, CT"	"09009"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Broward County, FL"	"12011"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Duval County, FL"	"12031"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Hillsborough County, FL"	"12057"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Miami-Dade County, FL"	"12086"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Orange County, FL"	"12095"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Palm Beach County, FL"	"12099"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Pasco County, FL"	"12101"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Pinellas County, FL"	"12103"	27	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Volusia County, FL"	"12127"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Cook County, IL"	"17031"	55	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Marion County, IN"	"18097"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Jefferson County, KY"	"21111"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Baltimore city, MD"	"24510"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Hampden County, MA"	"25013"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Middlesex County, MA"	"25017"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Worcester County, MA"	"25027"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Kent County, MI"	"26081"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Macomb County, MI"	"26099"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Wayne County, MI"	"26163"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Jackson County, MO"	"29095"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"St. Louis County, MO"	"29189"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Clark County, NV"	"32003"	53	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Ocean County, NJ"	"34029"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Bernalillo County, NM"	"35001"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Bronx County, NY"	"36005"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Erie County, NY"	"36029"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Kings County, NY"	"36047"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Monroe County, NY"	"36055"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Nassau County, NY"	"36059"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Queens County, NY"	"36081"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Suffolk County, NY"	"36103"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Cuyahoga County, OH"	"39035"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Franklin County, OH"	"39049"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Hamilton County, OH"	"39061"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Montgomery County, OH"	"39113"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Oklahoma County, OK"	"40109"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Tulsa County, OK"	"40143"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Multnomah County, OR"	"41051"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Allegheny County, PA"	"42003"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Chester County, PA"	"42029"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Delaware County, PA"	"42045"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Philadelphia County, PA"	"42101"	39	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Bexar County, TX"	"48029"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Dallas County, TX"	"48113"	28	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Harris County, TX"	"48201"	39	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Tarrant County, TX"	"48439"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Travis County, TX"	"48453"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Salt Lake County, UT"	"49035"	28	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"King County, WA"	"53033"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Snohomish County, WA"	"53061"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Milwaukee County, WI"	"55079"	17	Not Applicable	Not Applicable
+"Total"	"2011"	"2011"	"Jul., 2011"	"2011/07"			3563	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Maricopa County, AZ"	"04013"	57	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Pima County, AZ"	"04019"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Alameda County, CA"	"06001"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Contra Costa County, CA"	"06013"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Kern County, CA"	"06029"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Los Angeles County, CA"	"06037"	62	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Orange County, CA"	"06059"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Riverside County, CA"	"06065"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Sacramento County, CA"	"06067"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"San Bernardino County, CA"	"06071"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"San Diego County, CA"	"06073"	38	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"San Francisco County, CA"	"06075"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"San Joaquin County, CA"	"06077"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Santa Clara County, CA"	"06085"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Ventura County, CA"	"06111"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Adams County, CO"	"08001"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Denver County, CO"	"08031"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"El Paso County, CO"	"08041"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"New Haven County, CT"	"09009"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Brevard County, FL"	"12009"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Broward County, FL"	"12011"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Hillsborough County, FL"	"12057"	30	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Lee County, FL"	"12071"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Palm Beach County, FL"	"12099"	27	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Pasco County, FL"	"12101"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Pinellas County, FL"	"12103"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Polk County, FL"	"12105"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Volusia County, FL"	"12127"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Cook County, IL"	"17031"	38	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Jefferson County, KY"	"21111"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Baltimore city, MD"	"24510"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Middlesex County, MA"	"25017"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Suffolk County, MA"	"25025"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Worcester County, MA"	"25027"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Macomb County, MI"	"26099"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Wayne County, MI"	"26163"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Hennepin County, MN"	"27053"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"St. Louis County, MO"	"29189"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Clark County, NV"	"32003"	39	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Camden County, NJ"	"34007"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Ocean County, NJ"	"34029"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Bernalillo County, NM"	"35001"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Bronx County, NY"	"36005"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Erie County, NY"	"36029"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Kings County, NY"	"36047"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Nassau County, NY"	"36059"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"New York County, NY"	"36061"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Suffolk County, NY"	"36103"	27	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Butler County, OH"	"39017"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Cuyahoga County, OH"	"39035"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Franklin County, OH"	"39049"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Hamilton County, OH"	"39061"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Montgomery County, OH"	"39113"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Oklahoma County, OK"	"40109"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Multnomah County, OR"	"41051"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Allegheny County, PA"	"42003"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Bucks County, PA"	"42017"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Delaware County, PA"	"42045"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Philadelphia County, PA"	"42101"	44	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Greenville County, SC"	"45045"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Knox County, TN"	"47093"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Shelby County, TN"	"47157"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Bexar County, TX"	"48029"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Dallas County, TX"	"48113"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Harris County, TX"	"48201"	36	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Travis County, TX"	"48453"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Salt Lake County, UT"	"49035"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Utah County, UT"	"49049"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"King County, WA"	"53033"	28	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Snohomish County, WA"	"53061"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Milwaukee County, WI"	"55079"	17	Not Applicable	Not Applicable
+"Total"	"2011"	"2011"	"Aug., 2011"	"2011/08"			3441	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Maricopa County, AZ"	"04013"	55	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Pima County, AZ"	"04019"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Alameda County, CA"	"06001"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Contra Costa County, CA"	"06013"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Kern County, CA"	"06029"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Los Angeles County, CA"	"06037"	50	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Orange County, CA"	"06059"	26	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Riverside County, CA"	"06065"	29	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Sacramento County, CA"	"06067"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"San Diego County, CA"	"06073"	28	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"San Francisco County, CA"	"06075"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"San Joaquin County, CA"	"06077"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Santa Clara County, CA"	"06085"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Santa Cruz County, CA"	"06087"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"El Paso County, CO"	"08041"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"New Haven County, CT"	"09009"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"District of Columbia, DC"	"11001"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Brevard County, FL"	"12009"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Broward County, FL"	"12011"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Duval County, FL"	"12031"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Hillsborough County, FL"	"12057"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Manatee County, FL"	"12081"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Orange County, FL"	"12095"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Palm Beach County, FL"	"12099"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Pasco County, FL"	"12101"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Pinellas County, FL"	"12103"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Polk County, FL"	"12105"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Honolulu County, HI"	"15003"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Cook County, IL"	"17031"	44	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Jefferson County, KY"	"21111"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Baltimore city, MD"	"24510"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Bristol County, MA"	"25005"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Middlesex County, MA"	"25017"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Worcester County, MA"	"25027"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Genesee County, MI"	"26049"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Macomb County, MI"	"26099"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Wayne County, MI"	"26163"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Jackson County, MO"	"29095"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"St. Louis County, MO"	"29189"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Clark County, NV"	"32003"	41	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Washoe County, NV"	"32031"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Bergen County, NJ"	"34003"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Bernalillo County, NM"	"35001"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Bronx County, NY"	"36005"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Kings County, NY"	"36047"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Nassau County, NY"	"36059"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Suffolk County, NY"	"36103"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Cuyahoga County, OH"	"39035"	26	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Franklin County, OH"	"39049"	26	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Hamilton County, OH"	"39061"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Oklahoma County, OK"	"40109"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Tulsa County, OK"	"40143"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Allegheny County, PA"	"42003"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Delaware County, PA"	"42045"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Philadelphia County, PA"	"42101"	34	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Providence County, RI"	"44007"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Shelby County, TN"	"47157"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Bexar County, TX"	"48029"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Dallas County, TX"	"48113"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Harris County, TX"	"48201"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Tarrant County, TX"	"48439"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Travis County, TX"	"48453"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Salt Lake County, UT"	"49035"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"King County, WA"	"53033"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Pierce County, WA"	"53053"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Snohomish County, WA"	"53061"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Milwaukee County, WI"	"55079"	12	Not Applicable	Not Applicable
+"Total"	"2011"	"2011"	"Sep., 2011"	"2011/09"			3323	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Maricopa County, AZ"	"04013"	48	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Alameda County, CA"	"06001"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Contra Costa County, CA"	"06013"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Kern County, CA"	"06029"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Los Angeles County, CA"	"06037"	53	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Orange County, CA"	"06059"	27	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Riverside County, CA"	"06065"	24	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Sacramento County, CA"	"06067"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"San Bernardino County, CA"	"06071"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"San Diego County, CA"	"06073"	35	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"San Francisco County, CA"	"06075"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"San Joaquin County, CA"	"06077"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Santa Clara County, CA"	"06085"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Adams County, CO"	"08001"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Denver County, CO"	"08031"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"El Paso County, CO"	"08041"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Fairfield County, CT"	"09001"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"New Castle County, DE"	"10003"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Brevard County, FL"	"12009"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Broward County, FL"	"12011"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Duval County, FL"	"12031"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Hillsborough County, FL"	"12057"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Miami-Dade County, FL"	"12086"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Orange County, FL"	"12095"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Palm Beach County, FL"	"12099"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Pasco County, FL"	"12101"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Pinellas County, FL"	"12103"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Polk County, FL"	"12105"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Fulton County, GA"	"13121"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Honolulu County, HI"	"15003"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Cook County, IL"	"17031"	35	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Marion County, IN"	"18097"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Jefferson County, KY"	"21111"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Bristol County, MA"	"25005"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Middlesex County, MA"	"25017"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Plymouth County, MA"	"25023"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Macomb County, MI"	"26099"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Wayne County, MI"	"26163"	29	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Hennepin County, MN"	"27053"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Clark County, NV"	"32003"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Bergen County, NJ"	"34003"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Camden County, NJ"	"34007"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Bernalillo County, NM"	"35001"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Erie County, NY"	"36029"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Kings County, NY"	"36047"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Nassau County, NY"	"36059"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Queens County, NY"	"36081"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Richmond County, NY"	"36085"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Suffolk County, NY"	"36103"	26	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Westchester County, NY"	"36119"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Cuyahoga County, OH"	"39035"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Franklin County, OH"	"39049"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Hamilton County, OH"	"39061"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Montgomery County, OH"	"39113"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Tulsa County, OK"	"40143"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Multnomah County, OR"	"41051"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Allegheny County, PA"	"42003"	27	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Bucks County, PA"	"42017"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Delaware County, PA"	"42045"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Montgomery County, PA"	"42091"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Philadelphia County, PA"	"42101"	40	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Westmoreland County, PA"	"42129"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Knox County, TN"	"47093"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Bexar County, TX"	"48029"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Dallas County, TX"	"48113"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Harris County, TX"	"48201"	31	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Tarrant County, TX"	"48439"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Travis County, TX"	"48453"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Salt Lake County, UT"	"49035"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"King County, WA"	"53033"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Snohomish County, WA"	"53061"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Milwaukee County, WI"	"55079"	15	Not Applicable	Not Applicable
+"Total"	"2011"	"2011"	"Oct., 2011"	"2011/10"			3392	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Maricopa County, AZ"	"04013"	58	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Pima County, AZ"	"04019"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Alameda County, CA"	"06001"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Kern County, CA"	"06029"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Los Angeles County, CA"	"06037"	62	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Orange County, CA"	"06059"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Riverside County, CA"	"06065"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Sacramento County, CA"	"06067"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"San Diego County, CA"	"06073"	36	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"San Francisco County, CA"	"06075"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"San Joaquin County, CA"	"06077"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Ventura County, CA"	"06111"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"El Paso County, CO"	"08041"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Broward County, FL"	"12011"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Duval County, FL"	"12031"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Hillsborough County, FL"	"12057"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Miami-Dade County, FL"	"12086"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Orange County, FL"	"12095"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Palm Beach County, FL"	"12099"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Pinellas County, FL"	"12103"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Polk County, FL"	"12105"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Cook County, IL"	"17031"	51	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"DuPage County, IL"	"17043"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Marion County, IN"	"18097"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Jefferson County, KY"	"21111"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Jefferson Parish, LA"	"22051"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Baltimore County, MD"	"24005"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Baltimore city, MD"	"24510"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Bristol County, MA"	"25005"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Essex County, MA"	"25009"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Middlesex County, MA"	"25017"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Suffolk County, MA"	"25025"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Worcester County, MA"	"25027"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Macomb County, MI"	"26099"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Wayne County, MI"	"26163"	27	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Hennepin County, MN"	"27053"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"St. Louis County, MO"	"29189"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Clark County, NV"	"32003"	40	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Washoe County, NV"	"32031"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Bergen County, NJ"	"34003"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Camden County, NJ"	"34007"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Bernalillo County, NM"	"35001"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Bronx County, NY"	"36005"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Kings County, NY"	"36047"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Nassau County, NY"	"36059"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Queens County, NY"	"36081"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Suffolk County, NY"	"36103"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Wake County, NC"	"37183"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Butler County, OH"	"39017"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Cuyahoga County, OH"	"39035"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Franklin County, OH"	"39049"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Hamilton County, OH"	"39061"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Multnomah County, OR"	"41051"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Allegheny County, PA"	"42003"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Bucks County, PA"	"42017"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Delaware County, PA"	"42045"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Philadelphia County, PA"	"42101"	36	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Providence County, RI"	"44007"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Greenville County, SC"	"45045"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Bexar County, TX"	"48029"	29	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Dallas County, TX"	"48113"	22	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Harris County, TX"	"48201"	29	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Tarrant County, TX"	"48439"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Travis County, TX"	"48453"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Salt Lake County, UT"	"49035"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Utah County, UT"	"49049"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"King County, WA"	"53033"	24	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Pierce County, WA"	"53053"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Spokane County, WA"	"53063"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Milwaukee County, WI"	"55079"	11	Not Applicable	Not Applicable
+"Total"	"2011"	"2011"	"Nov., 2011"	"2011/11"			3400	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Maricopa County, AZ"	"04013"	42	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Pima County, AZ"	"04019"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Alameda County, CA"	"06001"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Contra Costa County, CA"	"06013"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Fresno County, CA"	"06019"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Kern County, CA"	"06029"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Los Angeles County, CA"	"06037"	58	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Orange County, CA"	"06059"	30	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Riverside County, CA"	"06065"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Sacramento County, CA"	"06067"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"San Diego County, CA"	"06073"	37	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"San Francisco County, CA"	"06075"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"San Joaquin County, CA"	"06077"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Santa Clara County, CA"	"06085"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Solano County, CA"	"06095"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Stanislaus County, CA"	"06099"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Ventura County, CA"	"06111"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Adams County, CO"	"08001"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Denver County, CO"	"08031"	21	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"New Haven County, CT"	"09009"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"New Castle County, DE"	"10003"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Brevard County, FL"	"12009"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Broward County, FL"	"12011"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Duval County, FL"	"12031"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Hillsborough County, FL"	"12057"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Orange County, FL"	"12095"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Palm Beach County, FL"	"12099"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Pasco County, FL"	"12101"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Pinellas County, FL"	"12103"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Polk County, FL"	"12105"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Fulton County, GA"	"13121"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Cook County, IL"	"17031"	42	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Marion County, IN"	"18097"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Polk County, IA"	"19153"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Jefferson County, KY"	"21111"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Baltimore County, MD"	"24005"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Suffolk County, MA"	"25025"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Worcester County, MA"	"25027"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Macomb County, MI"	"26099"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Wayne County, MI"	"26163"	19	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Hennepin County, MN"	"27053"	14	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Jackson County, MO"	"29095"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"St. Louis County, MO"	"29189"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Clark County, NV"	"32003"	30	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Washoe County, NV"	"32031"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Monmouth County, NJ"	"34025"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Ocean County, NJ"	"34029"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Bernalillo County, NM"	"35001"	15	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Kings County, NY"	"36047"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Nassau County, NY"	"36059"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Queens County, NY"	"36081"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Suffolk County, NY"	"36103"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Cuyahoga County, OH"	"39035"	20	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Franklin County, OH"	"39049"	16	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Hamilton County, OH"	"39061"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Allegheny County, PA"	"42003"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Delaware County, PA"	"42045"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Montgomery County, PA"	"42091"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Philadelphia County, PA"	"42101"	34	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Davidson County, TN"	"47037"	12	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Bexar County, TX"	"48029"	24	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Dallas County, TX"	"48113"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Harris County, TX"	"48201"	32	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Nueces County, TX"	"48355"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Tarrant County, TX"	"48439"	18	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Travis County, TX"	"48453"	13	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Salt Lake County, UT"	"49035"	23	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"King County, WA"	"53033"	17	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Snohomish County, WA"	"53061"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Milwaukee County, WI"	"55079"	20	Not Applicable	Not Applicable
+"Total"	"2011"	"2011"	"Dec., 2011"	"2011/12"			3444	Not Applicable	Not Applicable
+"Total"	"2011"	"2011"					41340	Not Applicable	Not Applicable
+"Total"							41340	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"Title: 2011CDCOverdoseMortalityByCounty"
+"MCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Year/Month: 2011"
+"Group By: Year; Month; County"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Oct 8, 2019 11:56:21 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Oct 8, 2019 11:56:21 AM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"2. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data are not available for this area for all of the requested years. See Caveats below for more information."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. Data for Prince of Wales-Hyder Census Area, AK (FIPS code 02198), Hoonah-Angoon Census Area, AK (FIPS code 02105), Skagway"
+"Municipality, AK (FIPS code 02230), Petersburg Borough/Census Area, AK (FIPS code 02195) and Wrangell City and Borough, AK (FIPS"
+"code 02275) are only available for 2014 and later; for computational purposes, counts and population estimates for 2013 and"
+"earlier are set to zero. Thus, counts and rates shown in multi-year requests for this entity do not include any data for years"
+"before 2014, only data for 2014 and later. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Alaska2014."
+"3. Death rates for Clifton Forge city, Virginia (FIPS code 51560) are available only for 1999-2000. For 2001 and beyond, death"
+"counts and population estimates for Clifton Forge city have been combined with those for Alleghany county, Virginia (FIPS code"
+"51005). Death counts and population estimates for this entity from multi-year requests, only reflect data from 1999 and 2000;"
+"for 2001 and beyond they have been set to zero. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Clifton Forge."
+"4. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510)."
+"5. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code"
+"24005)."
+"6. Deaths and population estimates are reported separately for St. Louis City (FIPS code 29510) and county (FIPS code 29189)."
+"7. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"8. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"9. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

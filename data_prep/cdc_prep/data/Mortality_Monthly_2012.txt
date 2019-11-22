@@ -1,0 +1,874 @@
+"Notes"	"Year"	"Year Code"	"Month"	"Month Code"	"County"	"County Code"	Deaths	Population	Crude Rate
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Maricopa County, AZ"	"04013"	54	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Pima County, AZ"	"04019"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Contra Costa County, CA"	"06013"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Kern County, CA"	"06029"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Los Angeles County, CA"	"06037"	62	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Orange County, CA"	"06059"	33	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Riverside County, CA"	"06065"	29	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Sacramento County, CA"	"06067"	27	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"San Bernardino County, CA"	"06071"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"San Diego County, CA"	"06073"	27	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"San Francisco County, CA"	"06075"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Santa Clara County, CA"	"06085"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Adams County, CO"	"08001"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Denver County, CO"	"08031"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Hartford County, CT"	"09003"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"New Castle County, DE"	"10003"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Brevard County, FL"	"12009"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Broward County, FL"	"12011"	23	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Duval County, FL"	"12031"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Hillsborough County, FL"	"12057"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Manatee County, FL"	"12081"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Miami-Dade County, FL"	"12086"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Orange County, FL"	"12095"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Pasco County, FL"	"12101"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Pinellas County, FL"	"12103"	27	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Sarasota County, FL"	"12115"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Fulton County, GA"	"13121"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Cook County, IL"	"17031"	55	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Will County, IL"	"17197"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Marion County, IN"	"18097"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Jefferson County, KY"	"21111"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Baltimore County, MD"	"24005"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Prince George's County, MD"	"24033"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Baltimore city, MD"	"24510"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Middlesex County, MA"	"25017"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Macomb County, MI"	"26099"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Oakland County, MI"	"26125"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Wayne County, MI"	"26163"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Hennepin County, MN"	"27053"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Jackson County, MO"	"29095"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"St. Louis County, MO"	"29189"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Clark County, NV"	"32003"	40	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Washoe County, NV"	"32031"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Burlington County, NJ"	"34005"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Camden County, NJ"	"34007"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Monmouth County, NJ"	"34025"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Ocean County, NJ"	"34029"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Bernalillo County, NM"	"35001"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Bronx County, NY"	"36005"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Kings County, NY"	"36047"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Nassau County, NY"	"36059"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"New York County, NY"	"36061"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Queens County, NY"	"36081"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Suffolk County, NY"	"36103"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Cuyahoga County, OH"	"39035"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Franklin County, OH"	"39049"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Hamilton County, OH"	"39061"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Montgomery County, OH"	"39113"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Oklahoma County, OK"	"40109"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Multnomah County, OR"	"41051"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Allegheny County, PA"	"42003"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Delaware County, PA"	"42045"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Philadelphia County, PA"	"42101"	38	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Kent County, RI"	"44003"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Davidson County, TN"	"47037"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Shelby County, TN"	"47157"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Bexar County, TX"	"48029"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Dallas County, TX"	"48113"	23	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Harris County, TX"	"48201"	23	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Tarrant County, TX"	"48439"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Travis County, TX"	"48453"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Salt Lake County, UT"	"49035"	26	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"King County, WA"	"53033"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Snohomish County, WA"	"53061"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Milwaukee County, WI"	"55079"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Maricopa County, AZ"	"04013"	49	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Pima County, AZ"	"04019"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Butte County, CA"	"06007"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Fresno County, CA"	"06019"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Kern County, CA"	"06029"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Los Angeles County, CA"	"06037"	48	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Orange County, CA"	"06059"	28	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Riverside County, CA"	"06065"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Sacramento County, CA"	"06067"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"San Bernardino County, CA"	"06071"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"San Diego County, CA"	"06073"	34	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"San Francisco County, CA"	"06075"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Santa Clara County, CA"	"06085"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Denver County, CO"	"08031"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Brevard County, FL"	"12009"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Broward County, FL"	"12011"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Duval County, FL"	"12031"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Hillsborough County, FL"	"12057"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Miami-Dade County, FL"	"12086"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Palm Beach County, FL"	"12099"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Pasco County, FL"	"12101"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Pinellas County, FL"	"12103"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Cook County, IL"	"17031"	60	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"DuPage County, IL"	"17043"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Lake County, IL"	"17097"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Winnebago County, IL"	"17201"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Marion County, IN"	"18097"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Jefferson County, KY"	"21111"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Baltimore County, MD"	"24005"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Bristol County, MA"	"25005"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Middlesex County, MA"	"25017"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Macomb County, MI"	"26099"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Wayne County, MI"	"26163"	30	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Hennepin County, MN"	"27053"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Jefferson County, MO"	"29099"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"St. Louis County, MO"	"29189"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Clark County, NV"	"32003"	33	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Washoe County, NV"	"32031"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Camden County, NJ"	"34007"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Bernalillo County, NM"	"35001"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Bronx County, NY"	"36005"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Kings County, NY"	"36047"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"New York County, NY"	"36061"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Suffolk County, NY"	"36103"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Mecklenburg County, NC"	"37119"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Butler County, OH"	"39017"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Cuyahoga County, OH"	"39035"	23	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Franklin County, OH"	"39049"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Hamilton County, OH"	"39061"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Montgomery County, OH"	"39113"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Summit County, OH"	"39153"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Oklahoma County, OK"	"40109"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Tulsa County, OK"	"40143"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Allegheny County, PA"	"42003"	33	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Montgomery County, PA"	"42091"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Philadelphia County, PA"	"42101"	41	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Providence County, RI"	"44007"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Shelby County, TN"	"47157"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Bexar County, TX"	"48029"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Dallas County, TX"	"48113"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Harris County, TX"	"48201"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Tarrant County, TX"	"48439"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Salt Lake County, UT"	"49035"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"King County, WA"	"53033"	26	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Snohomish County, WA"	"53061"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Milwaukee County, WI"	"55079"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Maricopa County, AZ"	"04013"	43	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Pima County, AZ"	"04019"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Alameda County, CA"	"06001"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Contra Costa County, CA"	"06013"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Kern County, CA"	"06029"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Los Angeles County, CA"	"06037"	61	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Orange County, CA"	"06059"	33	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Riverside County, CA"	"06065"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Sacramento County, CA"	"06067"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"San Bernardino County, CA"	"06071"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"San Diego County, CA"	"06073"	31	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"San Francisco County, CA"	"06075"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Santa Clara County, CA"	"06085"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Ventura County, CA"	"06111"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"New Haven County, CT"	"09009"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Broward County, FL"	"12011"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Duval County, FL"	"12031"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Hillsborough County, FL"	"12057"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Miami-Dade County, FL"	"12086"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Orange County, FL"	"12095"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Palm Beach County, FL"	"12099"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Pasco County, FL"	"12101"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Pinellas County, FL"	"12103"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Fulton County, GA"	"13121"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Honolulu County, HI"	"15003"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Cook County, IL"	"17031"	46	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Lake County, IL"	"17097"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Marion County, IN"	"18097"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Vanderburgh County, IN"	"18163"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Baltimore city, MD"	"24510"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Essex County, MA"	"25009"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Middlesex County, MA"	"25017"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Worcester County, MA"	"25027"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Genesee County, MI"	"26049"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Macomb County, MI"	"26099"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Wayne County, MI"	"26163"	35	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Hennepin County, MN"	"27053"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Ramsey County, MN"	"27123"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"St. Louis County, MO"	"29189"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Clark County, NV"	"32003"	37	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Atlantic County, NJ"	"34001"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Camden County, NJ"	"34007"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Middlesex County, NJ"	"34023"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Ocean County, NJ"	"34029"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Bernalillo County, NM"	"35001"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Bronx County, NY"	"36005"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Erie County, NY"	"36029"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Kings County, NY"	"36047"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Nassau County, NY"	"36059"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"New York County, NY"	"36061"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Queens County, NY"	"36081"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Suffolk County, NY"	"36103"	26	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Butler County, OH"	"39017"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Cuyahoga County, OH"	"39035"	26	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Franklin County, OH"	"39049"	25	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Hamilton County, OH"	"39061"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Montgomery County, OH"	"39113"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Summit County, OH"	"39153"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Multnomah County, OR"	"41051"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Allegheny County, PA"	"42003"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Delaware County, PA"	"42045"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Montgomery County, PA"	"42091"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Philadelphia County, PA"	"42101"	37	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Westmoreland County, PA"	"42129"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Providence County, RI"	"44007"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Greenville County, SC"	"45045"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Knox County, TN"	"47093"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Shelby County, TN"	"47157"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Bexar County, TX"	"48029"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Dallas County, TX"	"48113"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Harris County, TX"	"48201"	34	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Tarrant County, TX"	"48439"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Travis County, TX"	"48453"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Davis County, UT"	"49011"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Salt Lake County, UT"	"49035"	25	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"King County, WA"	"53033"	27	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Pierce County, WA"	"53053"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Milwaukee County, WI"	"55079"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Maricopa County, AZ"	"04013"	52	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Pima County, AZ"	"04019"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Alameda County, CA"	"06001"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Kern County, CA"	"06029"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Los Angeles County, CA"	"06037"	49	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Orange County, CA"	"06059"	25	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Riverside County, CA"	"06065"	27	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Sacramento County, CA"	"06067"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"San Bernardino County, CA"	"06071"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"San Diego County, CA"	"06073"	51	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"San Francisco County, CA"	"06075"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Santa Clara County, CA"	"06085"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Ventura County, CA"	"06111"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Arapahoe County, CO"	"08005"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Denver County, CO"	"08031"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"El Paso County, CO"	"08041"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Hartford County, CT"	"09003"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Broward County, FL"	"12011"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Duval County, FL"	"12031"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Hillsborough County, FL"	"12057"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Miami-Dade County, FL"	"12086"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Orange County, FL"	"12095"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Palm Beach County, FL"	"12099"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Pinellas County, FL"	"12103"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Cook County, IL"	"17031"	54	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Marion County, IN"	"18097"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Jefferson County, KY"	"21111"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Baltimore County, MD"	"24005"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Baltimore city, MD"	"24510"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Middlesex County, MA"	"25017"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Worcester County, MA"	"25027"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Genesee County, MI"	"26049"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Macomb County, MI"	"26099"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Wayne County, MI"	"26163"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Hennepin County, MN"	"27053"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Clark County, NV"	"32003"	38	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Washoe County, NV"	"32031"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Bernalillo County, NM"	"35001"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Bronx County, NY"	"36005"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Kings County, NY"	"36047"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Nassau County, NY"	"36059"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"New York County, NY"	"36061"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Suffolk County, NY"	"36103"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Westchester County, NY"	"36119"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Cuyahoga County, OH"	"39035"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Franklin County, OH"	"39049"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Hamilton County, OH"	"39061"	23	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Summit County, OH"	"39153"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Oklahoma County, OK"	"40109"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Multnomah County, OR"	"41051"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Allegheny County, PA"	"42003"	23	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Delaware County, PA"	"42045"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Philadelphia County, PA"	"42101"	32	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Providence County, RI"	"44007"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Greenville County, SC"	"45045"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Shelby County, TN"	"47157"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Bexar County, TX"	"48029"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Dallas County, TX"	"48113"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Harris County, TX"	"48201"	37	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Travis County, TX"	"48453"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Salt Lake County, UT"	"49035"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Utah County, UT"	"49049"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"King County, WA"	"53033"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Snohomish County, WA"	"53061"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Spokane County, WA"	"53063"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Milwaukee County, WI"	"55079"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Maricopa County, AZ"	"04013"	64	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Pima County, AZ"	"04019"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Alameda County, CA"	"06001"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Contra Costa County, CA"	"06013"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Los Angeles County, CA"	"06037"	56	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Orange County, CA"	"06059"	31	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Riverside County, CA"	"06065"	24	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Sacramento County, CA"	"06067"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"San Bernardino County, CA"	"06071"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"San Diego County, CA"	"06073"	36	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"San Francisco County, CA"	"06075"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Santa Clara County, CA"	"06085"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Sonoma County, CA"	"06097"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"El Paso County, CO"	"08041"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Fairfield County, CT"	"09001"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"New Castle County, DE"	"10003"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Brevard County, FL"	"12009"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Broward County, FL"	"12011"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Duval County, FL"	"12031"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Hillsborough County, FL"	"12057"	23	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Palm Beach County, FL"	"12099"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Pasco County, FL"	"12101"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Pinellas County, FL"	"12103"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Polk County, FL"	"12105"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Volusia County, FL"	"12127"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Fulton County, GA"	"13121"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Cook County, IL"	"17031"	56	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"DuPage County, IL"	"17043"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Marion County, IN"	"18097"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Jefferson County, KY"	"21111"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Baltimore County, MD"	"24005"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Baltimore city, MD"	"24510"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Hampden County, MA"	"25013"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Worcester County, MA"	"25027"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Genesee County, MI"	"26049"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Kent County, MI"	"26081"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Macomb County, MI"	"26099"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Wayne County, MI"	"26163"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Hennepin County, MN"	"27053"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Jackson County, MO"	"29095"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"St. Louis County, MO"	"29189"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Clark County, NV"	"32003"	44	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Camden County, NJ"	"34007"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Essex County, NJ"	"34013"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Bernalillo County, NM"	"35001"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Bronx County, NY"	"36005"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Erie County, NY"	"36029"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Kings County, NY"	"36047"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Nassau County, NY"	"36059"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"New York County, NY"	"36061"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Queens County, NY"	"36081"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Suffolk County, NY"	"36103"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Westchester County, NY"	"36119"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Butler County, OH"	"39017"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Cuyahoga County, OH"	"39035"	27	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Franklin County, OH"	"39049"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Hamilton County, OH"	"39061"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Montgomery County, OH"	"39113"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Oklahoma County, OK"	"40109"	27	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Tulsa County, OK"	"40143"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Allegheny County, PA"	"42003"	25	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Delaware County, PA"	"42045"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Montgomery County, PA"	"42091"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Philadelphia County, PA"	"42101"	36	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Shelby County, TN"	"47157"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Bexar County, TX"	"48029"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Dallas County, TX"	"48113"	23	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Harris County, TX"	"48201"	32	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Tarrant County, TX"	"48439"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Travis County, TX"	"48453"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Salt Lake County, UT"	"49035"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Utah County, UT"	"49049"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"King County, WA"	"53033"	25	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Pierce County, WA"	"53053"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Snohomish County, WA"	"53061"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Milwaukee County, WI"	"55079"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Maricopa County, AZ"	"04013"	57	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Pima County, AZ"	"04019"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Alameda County, CA"	"06001"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Contra Costa County, CA"	"06013"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Kern County, CA"	"06029"	25	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Los Angeles County, CA"	"06037"	40	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Orange County, CA"	"06059"	24	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Riverside County, CA"	"06065"	33	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Sacramento County, CA"	"06067"	24	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"San Bernardino County, CA"	"06071"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"San Diego County, CA"	"06073"	44	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"San Francisco County, CA"	"06075"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Santa Clara County, CA"	"06085"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Santa Cruz County, CA"	"06087"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Adams County, CO"	"08001"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Denver County, CO"	"08031"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"District of Columbia, DC"	"11001"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Brevard County, FL"	"12009"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Broward County, FL"	"12011"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Duval County, FL"	"12031"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Hillsborough County, FL"	"12057"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Orange County, FL"	"12095"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Palm Beach County, FL"	"12099"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Pasco County, FL"	"12101"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Pinellas County, FL"	"12103"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Cobb County, GA"	"13067"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Cook County, IL"	"17031"	45	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Marion County, IN"	"18097"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Jefferson County, KY"	"21111"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Baltimore County, MD"	"24005"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Baltimore city, MD"	"24510"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Bristol County, MA"	"25005"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Essex County, MA"	"25009"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Middlesex County, MA"	"25017"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Worcester County, MA"	"25027"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Macomb County, MI"	"26099"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Wayne County, MI"	"26163"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Hennepin County, MN"	"27053"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"St. Louis County, MO"	"29189"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Clark County, NV"	"32003"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Bergen County, NJ"	"34003"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Burlington County, NJ"	"34005"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Camden County, NJ"	"34007"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Monmouth County, NJ"	"34025"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Ocean County, NJ"	"34029"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Bernalillo County, NM"	"35001"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Bronx County, NY"	"36005"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Kings County, NY"	"36047"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Nassau County, NY"	"36059"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"New York County, NY"	"36061"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Richmond County, NY"	"36085"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Suffolk County, NY"	"36103"	33	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Cuyahoga County, OH"	"39035"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Franklin County, OH"	"39049"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Hamilton County, OH"	"39061"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Lucas County, OH"	"39095"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Mahoning County, OH"	"39099"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Montgomery County, OH"	"39113"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Oklahoma County, OK"	"40109"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Tulsa County, OK"	"40143"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Allegheny County, PA"	"42003"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Bucks County, PA"	"42017"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Delaware County, PA"	"42045"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Philadelphia County, PA"	"42101"	49	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Westmoreland County, PA"	"42129"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Davidson County, TN"	"47037"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Knox County, TN"	"47093"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Shelby County, TN"	"47157"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Bexar County, TX"	"48029"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Dallas County, TX"	"48113"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Harris County, TX"	"48201"	45	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Travis County, TX"	"48453"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Salt Lake County, UT"	"49035"	30	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"King County, WA"	"53033"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Milwaukee County, WI"	"55079"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Maricopa County, AZ"	"04013"	59	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Pima County, AZ"	"04019"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Los Angeles County, CA"	"06037"	50	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Orange County, CA"	"06059"	26	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Riverside County, CA"	"06065"	27	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Sacramento County, CA"	"06067"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"San Bernardino County, CA"	"06071"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"San Diego County, CA"	"06073"	26	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"San Francisco County, CA"	"06075"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Santa Clara County, CA"	"06085"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Stanislaus County, CA"	"06099"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Hartford County, CT"	"09003"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Broward County, FL"	"12011"	24	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Duval County, FL"	"12031"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Hillsborough County, FL"	"12057"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Orange County, FL"	"12095"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Palm Beach County, FL"	"12099"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Pinellas County, FL"	"12103"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Volusia County, FL"	"12127"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Honolulu County, HI"	"15003"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Cook County, IL"	"17031"	55	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"DuPage County, IL"	"17043"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Marion County, IN"	"18097"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Jefferson County, KY"	"21111"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Jefferson Parish, LA"	"22051"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Orleans Parish, LA"	"22071"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Baltimore County, MD"	"24005"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Baltimore city, MD"	"24510"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Essex County, MA"	"25009"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Middlesex County, MA"	"25017"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Suffolk County, MA"	"25025"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Worcester County, MA"	"25027"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Macomb County, MI"	"26099"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Oakland County, MI"	"26125"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Wayne County, MI"	"26163"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Hennepin County, MN"	"27053"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"St. Louis County, MO"	"29189"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"St. Louis city, MO"	"29510"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Clark County, NV"	"32003"	34	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Washoe County, NV"	"32031"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Ocean County, NJ"	"34029"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Bernalillo County, NM"	"35001"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Bronx County, NY"	"36005"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Kings County, NY"	"36047"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Nassau County, NY"	"36059"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"New York County, NY"	"36061"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Queens County, NY"	"36081"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Suffolk County, NY"	"36103"	28	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Cuyahoga County, OH"	"39035"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Franklin County, OH"	"39049"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Hamilton County, OH"	"39061"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Montgomery County, OH"	"39113"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Oklahoma County, OK"	"40109"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Multnomah County, OR"	"41051"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Allegheny County, PA"	"42003"	23	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Delaware County, PA"	"42045"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Montgomery County, PA"	"42091"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Philadelphia County, PA"	"42101"	38	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Westmoreland County, PA"	"42129"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Davidson County, TN"	"47037"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Knox County, TN"	"47093"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Shelby County, TN"	"47157"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Bexar County, TX"	"48029"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Dallas County, TX"	"48113"	26	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Harris County, TX"	"48201"	30	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Tarrant County, TX"	"48439"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Travis County, TX"	"48453"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Salt Lake County, UT"	"49035"	23	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"King County, WA"	"53033"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Pierce County, WA"	"53053"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Snohomish County, WA"	"53061"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Spokane County, WA"	"53063"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Milwaukee County, WI"	"55079"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Maricopa County, AZ"	"04013"	61	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Pima County, AZ"	"04019"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Alameda County, CA"	"06001"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Kern County, CA"	"06029"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Los Angeles County, CA"	"06037"	72	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Orange County, CA"	"06059"	31	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Riverside County, CA"	"06065"	23	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Sacramento County, CA"	"06067"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"San Diego County, CA"	"06073"	40	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"San Francisco County, CA"	"06075"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"San Joaquin County, CA"	"06077"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Ventura County, CA"	"06111"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Denver County, CO"	"08031"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Hartford County, CT"	"09003"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"New Haven County, CT"	"09009"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Brevard County, FL"	"12009"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Broward County, FL"	"12011"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Duval County, FL"	"12031"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Hillsborough County, FL"	"12057"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Miami-Dade County, FL"	"12086"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Orange County, FL"	"12095"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Palm Beach County, FL"	"12099"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Pinellas County, FL"	"12103"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Honolulu County, HI"	"15003"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Cook County, IL"	"17031"	61	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"DuPage County, IL"	"17043"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Lake County, IL"	"17097"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Will County, IL"	"17197"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Marion County, IN"	"18097"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Polk County, IA"	"19153"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Jefferson County, KY"	"21111"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Baltimore County, MD"	"24005"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Baltimore city, MD"	"24510"	25	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Bristol County, MA"	"25005"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Suffolk County, MA"	"25025"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Macomb County, MI"	"26099"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Wayne County, MI"	"26163"	32	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Jefferson County, MO"	"29099"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"St. Louis County, MO"	"29189"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Clark County, NV"	"32003"	34	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Camden County, NJ"	"34007"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Middlesex County, NJ"	"34023"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Bernalillo County, NM"	"35001"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Bronx County, NY"	"36005"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Kings County, NY"	"36047"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Nassau County, NY"	"36059"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"New York County, NY"	"36061"	35	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Suffolk County, NY"	"36103"	33	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Westchester County, NY"	"36119"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Cuyahoga County, OH"	"39035"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Franklin County, OH"	"39049"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Hamilton County, OH"	"39061"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Lucas County, OH"	"39095"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Montgomery County, OH"	"39113"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Oklahoma County, OK"	"40109"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Multnomah County, OR"	"41051"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Allegheny County, PA"	"42003"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Bucks County, PA"	"42017"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Delaware County, PA"	"42045"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Montgomery County, PA"	"42091"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Philadelphia County, PA"	"42101"	39	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Knox County, TN"	"47093"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Shelby County, TN"	"47157"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Bexar County, TX"	"48029"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Dallas County, TX"	"48113"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Denton County, TX"	"48121"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Harris County, TX"	"48201"	34	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Tarrant County, TX"	"48439"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Salt Lake County, UT"	"49035"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"King County, WA"	"53033"	25	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Snohomish County, WA"	"53061"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Milwaukee County, WI"	"55079"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Maricopa County, AZ"	"04013"	55	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Pima County, AZ"	"04019"	23	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Contra Costa County, CA"	"06013"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Kern County, CA"	"06029"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Los Angeles County, CA"	"06037"	53	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Orange County, CA"	"06059"	27	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Riverside County, CA"	"06065"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"San Diego County, CA"	"06073"	31	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"San Francisco County, CA"	"06075"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Ventura County, CA"	"06111"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"New Haven County, CT"	"09009"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"District of Columbia, DC"	"11001"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Broward County, FL"	"12011"	27	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Hillsborough County, FL"	"12057"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Miami-Dade County, FL"	"12086"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Orange County, FL"	"12095"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Palm Beach County, FL"	"12099"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Pinellas County, FL"	"12103"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Fulton County, GA"	"13121"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Cook County, IL"	"17031"	44	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Marion County, IN"	"18097"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Jefferson County, KY"	"21111"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Baltimore County, MD"	"24005"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Baltimore city, MD"	"24510"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Bristol County, MA"	"25005"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Essex County, MA"	"25009"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Middlesex County, MA"	"25017"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Norfolk County, MA"	"25021"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Macomb County, MI"	"26099"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Wayne County, MI"	"26163"	27	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Hennepin County, MN"	"27053"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"St. Louis County, MO"	"29189"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Clark County, NV"	"32003"	32	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Washoe County, NV"	"32031"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Bergen County, NJ"	"34003"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Hudson County, NJ"	"34017"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Bernalillo County, NM"	"35001"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Bronx County, NY"	"36005"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Kings County, NY"	"36047"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Nassau County, NY"	"36059"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"New York County, NY"	"36061"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Queens County, NY"	"36081"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Suffolk County, NY"	"36103"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Westchester County, NY"	"36119"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Mecklenburg County, NC"	"37119"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Cuyahoga County, OH"	"39035"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Franklin County, OH"	"39049"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Hamilton County, OH"	"39061"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Lucas County, OH"	"39095"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Montgomery County, OH"	"39113"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Oklahoma County, OK"	"40109"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Tulsa County, OK"	"40143"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Multnomah County, OR"	"41051"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Allegheny County, PA"	"42003"	30	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Bucks County, PA"	"42017"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Delaware County, PA"	"42045"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Philadelphia County, PA"	"42101"	31	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Providence County, RI"	"44007"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Davidson County, TN"	"47037"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Dallas County, TX"	"48113"	32	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Harris County, TX"	"48201"	35	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Tarrant County, TX"	"48439"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Travis County, TX"	"48453"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Salt Lake County, UT"	"49035"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"King County, WA"	"53033"	28	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Pierce County, WA"	"53053"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Milwaukee County, WI"	"55079"	24	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Mobile County, AL"	"01097"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Maricopa County, AZ"	"04013"	52	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Pima County, AZ"	"04019"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Kern County, CA"	"06029"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Los Angeles County, CA"	"06037"	64	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Orange County, CA"	"06059"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Riverside County, CA"	"06065"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Sacramento County, CA"	"06067"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"San Diego County, CA"	"06073"	33	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"San Joaquin County, CA"	"06077"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Santa Clara County, CA"	"06085"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Ventura County, CA"	"06111"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Adams County, CO"	"08001"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Arapahoe County, CO"	"08005"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Denver County, CO"	"08031"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Brevard County, FL"	"12009"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Broward County, FL"	"12011"	24	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Duval County, FL"	"12031"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Hillsborough County, FL"	"12057"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Palm Beach County, FL"	"12099"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Pinellas County, FL"	"12103"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Cook County, IL"	"17031"	43	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"DuPage County, IL"	"17043"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Marion County, IN"	"18097"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Campbell County, KY"	"21037"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Jefferson County, KY"	"21111"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Anne Arundel County, MD"	"24003"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Baltimore County, MD"	"24005"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Baltimore city, MD"	"24510"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Middlesex County, MA"	"25017"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Macomb County, MI"	"26099"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Oakland County, MI"	"26125"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Wayne County, MI"	"26163"	36	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Hennepin County, MN"	"27053"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Jackson County, MO"	"29095"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"St. Louis County, MO"	"29189"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Clark County, NV"	"32003"	31	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Burlington County, NJ"	"34005"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Camden County, NJ"	"34007"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Monmouth County, NJ"	"34025"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Ocean County, NJ"	"34029"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Bernalillo County, NM"	"35001"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Bronx County, NY"	"36005"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Kings County, NY"	"36047"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Nassau County, NY"	"36059"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Queens County, NY"	"36081"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Richmond County, NY"	"36085"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Suffolk County, NY"	"36103"	25	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Cuyahoga County, OH"	"39035"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Franklin County, OH"	"39049"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Montgomery County, OH"	"39113"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Summit County, OH"	"39153"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Oklahoma County, OK"	"40109"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Tulsa County, OK"	"40143"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Allegheny County, PA"	"42003"	28	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Bucks County, PA"	"42017"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Delaware County, PA"	"42045"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Luzerne County, PA"	"42079"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Montgomery County, PA"	"42091"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Philadelphia County, PA"	"42101"	44	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Shelby County, TN"	"47157"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Bexar County, TX"	"48029"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Dallas County, TX"	"48113"	28	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Harris County, TX"	"48201"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Tarrant County, TX"	"48439"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Travis County, TX"	"48453"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Salt Lake County, UT"	"49035"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Utah County, UT"	"49049"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"King County, WA"	"53033"	24	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Pierce County, WA"	"53053"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Milwaukee County, WI"	"55079"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Jefferson County, AL"	"01073"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Maricopa County, AZ"	"04013"	45	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Pima County, AZ"	"04019"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Yavapai County, AZ"	"04025"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Alameda County, CA"	"06001"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Contra Costa County, CA"	"06013"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Kern County, CA"	"06029"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Los Angeles County, CA"	"06037"	65	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Orange County, CA"	"06059"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Riverside County, CA"	"06065"	31	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Sacramento County, CA"	"06067"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"San Diego County, CA"	"06073"	31	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"San Joaquin County, CA"	"06077"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Santa Clara County, CA"	"06085"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Hartford County, CT"	"09003"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"New Haven County, CT"	"09009"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Brevard County, FL"	"12009"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Broward County, FL"	"12011"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Duval County, FL"	"12031"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Hillsborough County, FL"	"12057"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Lee County, FL"	"12071"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Orange County, FL"	"12095"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Palm Beach County, FL"	"12099"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Pinellas County, FL"	"12103"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Polk County, FL"	"12105"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Sarasota County, FL"	"12115"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Honolulu County, HI"	"15003"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Cook County, IL"	"17031"	51	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Marion County, IN"	"18097"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Jefferson Parish, LA"	"22051"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Baltimore County, MD"	"24005"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Baltimore city, MD"	"24510"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Bristol County, MA"	"25005"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Middlesex County, MA"	"25017"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Suffolk County, MA"	"25025"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Macomb County, MI"	"26099"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Wayne County, MI"	"26163"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Hennepin County, MN"	"27053"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"St. Louis County, MO"	"29189"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Clark County, NV"	"32003"	42	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Ocean County, NJ"	"34029"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Bernalillo County, NM"	"35001"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Bronx County, NY"	"36005"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Kings County, NY"	"36047"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Monroe County, NY"	"36055"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Nassau County, NY"	"36059"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"New York County, NY"	"36061"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Queens County, NY"	"36081"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Richmond County, NY"	"36085"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Suffolk County, NY"	"36103"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Cuyahoga County, OH"	"39035"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Franklin County, OH"	"39049"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Hamilton County, OH"	"39061"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Montgomery County, OH"	"39113"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Oklahoma County, OK"	"40109"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Tulsa County, OK"	"40143"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Multnomah County, OR"	"41051"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Allegheny County, PA"	"42003"	23	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Bucks County, PA"	"42017"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Delaware County, PA"	"42045"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Montgomery County, PA"	"42091"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Philadelphia County, PA"	"42101"	31	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Westmoreland County, PA"	"42129"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Davidson County, TN"	"47037"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Bexar County, TX"	"48029"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Dallas County, TX"	"48113"	23	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Harris County, TX"	"48201"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Tarrant County, TX"	"48439"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Travis County, TX"	"48453"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Davis County, UT"	"49011"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Salt Lake County, UT"	"49035"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"King County, WA"	"53033"	19	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Pierce County, WA"	"53053"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Milwaukee County, WI"	"55079"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Maricopa County, AZ"	"04013"	39	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Pima County, AZ"	"04019"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Alameda County, CA"	"06001"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Contra Costa County, CA"	"06013"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Kern County, CA"	"06029"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Los Angeles County, CA"	"06037"	62	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Orange County, CA"	"06059"	25	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Riverside County, CA"	"06065"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Sacramento County, CA"	"06067"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"San Bernardino County, CA"	"06071"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"San Diego County, CA"	"06073"	40	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"San Joaquin County, CA"	"06077"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Santa Clara County, CA"	"06085"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Denver County, CO"	"08031"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"El Paso County, CO"	"08041"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Hartford County, CT"	"09003"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"New Haven County, CT"	"09009"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"New Castle County, DE"	"10003"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Broward County, FL"	"12011"	20	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Duval County, FL"	"12031"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Hillsborough County, FL"	"12057"	23	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Miami-Dade County, FL"	"12086"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Orange County, FL"	"12095"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Palm Beach County, FL"	"12099"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Pinellas County, FL"	"12103"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Cook County, IL"	"17031"	45	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"DuPage County, IL"	"17043"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Marion County, IN"	"18097"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Sedgwick County, KS"	"20173"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Jefferson County, KY"	"21111"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Jefferson Parish, LA"	"22051"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Baltimore County, MD"	"24005"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Baltimore city, MD"	"24510"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Bristol County, MA"	"25005"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Essex County, MA"	"25009"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Middlesex County, MA"	"25017"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Norfolk County, MA"	"25021"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Suffolk County, MA"	"25025"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Worcester County, MA"	"25027"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Macomb County, MI"	"26099"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Wayne County, MI"	"26163"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Jefferson County, MO"	"29099"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"St. Louis County, MO"	"29189"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Clark County, NV"	"32003"	38	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Washoe County, NV"	"32031"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Burlington County, NJ"	"34005"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Essex County, NJ"	"34013"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Middlesex County, NJ"	"34023"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Ocean County, NJ"	"34029"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Bernalillo County, NM"	"35001"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Bronx County, NY"	"36005"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Kings County, NY"	"36047"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Nassau County, NY"	"36059"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"New York County, NY"	"36061"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Queens County, NY"	"36081"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Suffolk County, NY"	"36103"	24	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Cuyahoga County, OH"	"39035"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Franklin County, OH"	"39049"	24	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Hamilton County, OH"	"39061"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Lucas County, OH"	"39095"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Montgomery County, OH"	"39113"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Oklahoma County, OK"	"40109"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Tulsa County, OK"	"40143"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Multnomah County, OR"	"41051"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Allegheny County, PA"	"42003"	22	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Delaware County, PA"	"42045"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Montgomery County, PA"	"42091"	18	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Philadelphia County, PA"	"42101"	44	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Providence County, RI"	"44007"	13	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Bexar County, TX"	"48029"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Dallas County, TX"	"48113"	16	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Harris County, TX"	"48201"	34	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Tarrant County, TX"	"48439"	21	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Travis County, TX"	"48453"	15	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Salt Lake County, UT"	"49035"	27	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"King County, WA"	"53033"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Pierce County, WA"	"53053"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Snohomish County, WA"	"53061"	17	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Spokane County, WA"	"53063"	11	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Milwaukee County, WI"	"55079"	17	Not Applicable	Not Applicable

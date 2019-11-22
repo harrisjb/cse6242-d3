@@ -8,9 +8,15 @@ CDC Overdose data can be found [here](https://drive.google.com/open?id=1bh6-8ds5
 ## Project Layout
 
  * `data_prep` Provides code for preprocessing the data to be used on the Website
- * `d3js_controls` Hosts example D3 controls independent of the web site. 
+ * `Data Analysis` Proves and R script for geographic and temporally weighted regression (GTWR) analysis.
+
+ * `website_widgets` Hosts example D3 controls independent of the web site.
      * Once the controls are working properly integration into the website is an additional step.
- * `website` Provides code for the main application website
+ * `website` Provides code for flask based application website.
+ * `react-website` Provides code for react application website.
+
+ * `docs` Provides documents and reference materials for development and analysis
+
  
  
  
