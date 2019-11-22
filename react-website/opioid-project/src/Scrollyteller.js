@@ -1,8 +1,11 @@
 import React, { Component } from "react";
 import './style.css';
 import SlideOne from './components/SlideOne.js';
-import SlideTwo from './components/SlideTwo.js';
-import SlideThree from './components/SlideThree.js';
+import PillsByCounty from './components/SlideTwo.js';
+import TopPillDistributors from './components/SlideThree.js';
+import TopPillManufacturers from './components/SlideFour.js';
+import PillDeathsByCounty from './components/SlideFive.js';
+import PillsPerPersonByCounty from './components/SlideSix.js';
 import injectSheet from 'react-jss';
 import { Scrollama, Step } from 'react-scrollama';
 
@@ -12,7 +15,9 @@ class Scrollyteller extends Component {
     this.props = {};
     this.state = {
       data: <SlideOne/>,
-      steps: [<SlideOne/>, <SlideTwo />, <SlideThree />],
+      steps: [<SlideOne/>, <PillsByCounty/>, <TopPillDistributors/>,
+        <TopPillManufacturers/>, <PillDeathsByCounty/>, <PillsPerPersonByCounty/>
+      ],
     };
     //this.handleChange = this.handleChange.bind(this);
   }
