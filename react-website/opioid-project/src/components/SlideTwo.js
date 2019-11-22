@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class SlideTwo extends Component {
+class PillsByCounty extends Component {
   constructor() {
     super();
     this.state = { };
@@ -9,9 +9,14 @@ class SlideTwo extends Component {
   componentDidMount() { }
 
   render() {
-
             //<style>
-                //.states {
+                //.states_s5 {
+                    //fill: none;
+                    //stroke: #000;
+                    //stroke-linejoin: round;
+                //}
+
+                //.counties_s5 {
                     //fill: none;
                     //stroke: #fff;
                     //stroke-linejoin: round;
@@ -52,126 +57,154 @@ class SlideTwo extends Component {
             //<script src="./js/d3-tip.min.js"></script>
 
 
+
+                //<div id='dropbox-container-s5'></div>
+                //<div id='legend-container-s5'></div>
+                //<div id='map-container-s5'></div>
         //<script>
         //{
             //// set the dimensions and margins of the graph
-            //var margin = {top: 70, bottom: 40, left: 40, right: 80},
+            //var margin = {top: 20, bottom: 40, left: 40, right: 80},
                 //width = 1000 - margin.left - margin.right,
                 //height = 600 - margin.top - margin.bottom;
 
 
-            //var svg = d3.select("#map-container-s1").append("svg")
-                //.attr("width", width + margin.left + margin.right + 500)
+            //var svg_s5 = d3.select("#map-container-s5").append("svg")
+                //.attr("width", width + margin.left + margin.right )
                 //.attr("height", height + margin.top + margin.bottom)
                 //.append("g")
-                //.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+                //.attr("transform", "translate(" + (margin.left - 130)+ "," + margin.top + ")");
 
-            //var tool_tip = d3.tip()
+            //var tool_tip_s5 = d3.tip()
                 //.attr("class", "d3-tip")
                 //.offset([-8, 0])
                 //.html(function (d) {
-                    //state = d.properties['name'];
-                    //count = pills[state];
-                    //return "State: " + state + "<br/>Pills: " + numberWithCommas(count);
+                    ////county = d.properties['name'];
+                    //county_cd = d['id'];
+                    //counts = pillsMap[county_cd];
+                    //count = counts[current_year - 2006];
+                    //state = counts[7];
+                    //county = counts[8];
+                    //return county + ", "+state+"<br/>Pills: " + numberWithCommas(count);
                 //});
 
             //function numberWithCommas(x) {
                     //return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
             //}
 
-            //svg.call(tool_tip);
+            //// Dropdown selection
+            //d3.select("#dropbox-container-s5")
+                    //.append("text")
+                    //.style("font-size", "20px")
+                    //.text("Year: ");
+
+            //svg_s5.call(tool_tip_s5);
 
             //var pillsMap = {};
-            //var pills = {};
+            //var current_year = 2006;
 
             //var projection = d3.geoAlbersUsa();
             //var path = d3.geoPath().projection(projection);
 
             ////DPH FIX ME Set this later
-            //var max_pills = 30000;
-            //var min_pills = 7000000;
-            //var promises = [
-                //d3.json("./data/states-10m.json"),
-                //d3.csv("./data/pills_by_state.csv", function (d) {
-
-
-                    //pillsMap[d.state]=[+d[2006],+d[2007],+d[2008],+d[2009],+d[2010],+d[2011],+d[2012]];
+            //var max_pills_s5 = 425;
+            //var min_pills_s5 = 1;
+            //var promises_s5 = [
+                //d3.json("./data/counties-10m.json"),
+                //d3.csv("./data/pills_sold_by_county_and_years.csv", function (d) {
+                    //pillsMap[d.County_cd]=[+d[2006],+d[2007],+d[2008],+d[2009],+d[2010],+d[2011],+d[2012],d.State_nm,d.County_nm];
                 //})
             //];
 
-            ////var colorScheme = ['#f7fcfd','#e0ecf4','#bfd3e6','#9ebcda','#8c96c6','#8c6bb1','#88419d','#810f7c','#4d004b'];
-            //var colorScheme = ['#4d004b','#810f7c','#88419d','#8c6bb1','#8c96c6','#9ebcda','#bfd3e6','#e0ecf4','#f7fcfd']
+            //var colorScheme_s5 = ['#f7fcfd','#e0ecf4','#bfd3e6','#9ebcda','#8c96c6','#8c6bb1','#88419d','#810f7c','#4d004b'];
+            ////colorScheme_s5 = ['#4d004b','#810f7c','#88419d','#8c6bb1','#8c96c6','#9ebcda','#bfd3e6','#e0ecf4','#f7fcfd']
 
-            //Promise.all(promises).then(ready);
+            //Promise.all(promises_s5).then(ready_s5);
 
-            //function ready(promise_data){
+            //function ready_s5(promise_data){
                //us = promise_data[0];
-               //render_chart(2006)
+               //render_chart_s5(current_year)
             //}
 
-            //function render_chart(map_year) {
-                //console.log("map_year="+map_year)
-                //pills = {};
-                //Object.keys(pillsMap).forEach(function(key) {
-                    //value = pillsMap[key];
-                    //index = map_year- 2006
-                    //pills[key]=value[index]
-                //});
+            //function render_chart_s5(map_year) {
+                //current_year = map_year;
 
-
-                //var mapScale = d3.scaleLog()
-                    //.domain([min_pills, max_pills])
+                //mapScale_s5 = d3.scaleLog()
+                    //.domain([min_pills_s5, max_pills_s5])
                     //.range([0, 8]);
 
-                //svg.append("g")
-                    //.attr("class", "states")
+                //svg_s5.append("g")
+                    //.attr("class", "counties_s5")
                     //.selectAll("path")
-                    //.data(topojson.feature(us, us.objects.states).features)
+                    //.data(topojson.feature(us, us.objects.counties).features)
                     //.enter()
                     //.append("path")
-                    //.on('mouseover', tool_tip.show)
-                    //.on('mouseout', tool_tip.hide)
+                    //.on('mouseover', tool_tip_s5.show)
+                    //.on('mouseout', tool_tip_s5.hide)
                     //.attr("fill", function (d) {
-                        //state = d.properties['name'];
-                        //count = pills[state];
+                        //state = d['id'];
+                        //counts = pillsMap[state];
+                        //count = counts[map_year - 2006]
                         //log = 0;
-                        //log = Math.round(mapScale(count));
+                        //log = Math.round(mapScale_s5(count));
                         //log = log === -Infinity ? 0 : log;
 
+                        //if (typeof count === 'undefined'){
+                            //log=0
+                        //}
+                        //if (log >8){
+                            //log=8
+                        //}
+                        ////console.log("State="+state+" count="+count+" log="+log+" color="+colorScheme_s5[log]);
 
-                        ////console.log("State="+state+" count="+count+" log="+log+" color="+colorScheme[log]);
-                        //return colorScheme[log];
+                        //return colorScheme_s5[log];
                     //})
                     //.attr("d", path);
+
+                //svg_s5.append("path")
+        //            .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
+        //            .attr("class", "states_s5")			//Mesh state boundaries to prevent duplicate paths for borders
+        //            .attr("d", path);
+
+                //svg_s5.append("path")
+                    //.data(topojson.feature(us, us.objects.nation).features)
+        //            .attr("class", "states_s5")
+        //            .attr("d", path);
+
+
             //}
 
             //var grid_size = 30;
 
-            //var legend = svg.append("g")
+            //var legend = svg_s5.append("g")
                 //.attr("transform", "translate(" + (width + margin.left + margin.right) + "," + margin.top + ")")
                 //.selectAll(".legend")
-                //.data([1, 5, 10, 50, 100, 500, 1000, 2000, 10000])
+                //.data([0, 5, 10, 20, 50, 75, 100, 125, 150])
                 //.enter();
 
             //legend.append("rect")
-                //.attr("x", 0)
+                //.attr("x", -150)
                 //.attr("y", function (d, i) {
-                    //return (grid_size * i) + 30;
+                    //return (grid_size * i) +160;
                 //})
                 //.attr("width", grid_size)
                 //.attr("height", grid_size)
                 //.style("fill", function (d, i) {
-                    //return colorScheme[i];
+                    //return colorScheme_s5[i];
                 //});
 
             //legend.append("text")
                 //.attr("class", "mono")
                 //.text(function (d) {
+                    //// Hack fix later
+                    //if (d === 150) {
+                        //return '150+'
+                    //}
                     //return d3.format(",")(d)
                 //})
-                //.attr("x", 40)
+                //.attr("x", -110)
                 //.attr("y", function (d, i) {
-                    //return (grid_size * i) + 50;
+                    //return (grid_size * i) + 180;
                 //});
 
             //legend.append("text")
@@ -179,47 +212,45 @@ class SlideTwo extends Component {
                 //.attr("font-family", "sans-serif")
                 //.attr("font-size", "16px")
                 //.attr("font-weight", "500")
-                ////.attr("transform", "translate("+ (grid_size+10) +","+(height-10)+")")
+                //.attr("x", -130)
+                //.attr("y", 140)
+
                 //.text("Pills");
 
-            //// when the input range changes update the rectangle
-            //d3.select("#timeslide-s1")
-                  //.on("input", function() {
-                    //update_slider(+this.value);
-                //});
 
-            //function update_slider(value) {
-                //console.log("slider val="+value)
-                //years = [2006,2007,2008,2009,2010,2011,2012]
-                //document.getElementById("range-s1").innerHTML=years[value];
-                //render_chart(years[value])
-            //}
+            //var dropdownChange = function() {
+                    //var range = d3.select(this).property('value');
+                    //years = [2006,2007,2008,2009,2010,2011,2012]
+                    //render_chart_s5(range)
+
+            //};
+
+            //var dropdown = d3.select("#dropbox-container-s5")
+                    //.append("select")
+                    //.on("change", dropdownChange)
+                    //.selectAll("option")
+                    //.data([2006,2007,2008,2009,2010,2011,2012]).enter()
+                    //.append("option")
+                    //.text(function (d) { return d; });
+
         //}
         //</script>
 
     return (
       <div>
 
-        <section className="about section bg-2" id="slide1">
+        <section className="section section bg-2" id="slide5a">
           <div className="section-title">
-              <h2>Pills Sold by State</h2>
-              <p>This does <b>not consider population</b> it is just RAW pill count by state.</p>
+              <h2>Pills Sold by County</h2>
+              <p>Pills per person per year</p>
           </div>
-
           <div className="container">
-            <div id='title-container-s1'></div>
-            <div id='dropbox-container-s1'>
-                <input id="timeslide-s1" type="range" min="0" max="6" value="0" step="1"/>
-                <br/>
-                Year: <span id="range-s1">2006</span>
-            </div>
-            <div id='legend-container-s1'></div>
-            <div id='map-container-s1'></div>
           </div>
         </section>
+
       </div>
     )
   }
 }
 
-export default SlideTwo;
+export default PillsByCounty;

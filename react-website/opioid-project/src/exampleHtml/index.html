@@ -1,6 +1,6 @@
 {% extends "layout.html" %}
 {% block slide1 %}
-   {% include 'pills_by_state.html' %}
+   {% include 'pills_by_county.html' %}
 {% endblock %}
 
 {% block slide2 %}
@@ -8,16 +8,16 @@
 {% endblock %}
 
 {% block slide3 %}
-    {% include 'slide3.html' %}
+    {% include 'top_pill_manufacturers.html' %}
 {% endblock %}
 
 {% block slide4 %}
-    {% include 'slide4.html' %}
+    {% include 'pill_deaths_by_county.html' %}
+    {% include 'pill_per_person_by_county.html' %}
 {% endblock %}
 
 {% block slide5 %}
-    {% include 'top_pill_manufacturers.html' %}
+    {% include 'slide3.html' %}
 
-    {% include 'pills_by_county.html' %}
 
 {% endblock %}
