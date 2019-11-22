@@ -1,0 +1,224 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <style>
+        .states {
+            fill: none;
+            stroke: #fff;
+            stroke-linejoin: round;
+        }
+
+        .border {
+            fill: none;
+            stroke: #000;
+            stroke-linejoin: round;
+        }
+
+        .d3-tip {
+            line-height: 1;
+            padding: 6px;
+            background: rgba(0, 0, 0, 0.8);
+            color: #fff;
+            border-radius: 4px;
+            font-size: 12px;
+        }
+
+        .d3-tip:after {
+            box-sizing: border-box;
+            display: inline;
+            font-size: 10px;
+            width: 100%;
+            line-height: 1;
+            color: rgba(0, 0, 0, 0.8);
+            content: "\25BC";
+            position: absolute;
+            text-align: center;
+        }
+
+        .d3-tip.n:after {
+            margin: -2px 0 0 0;
+            top: 100%;
+            left: 0;
+        }
+
+    </style>
+
+    <script src="../js/d3.v5.min.js"></script>
+    <script src="../js/d3-scale-chromatic.v1.min.js"></script>
+    <script src="../js/topojson.v2.min.js"></script>
+    <script src="../js/d3-tip.min.js"></script>
+</head>
+<body>
+        <div id='title-container'></div>
+        <div id='dropbox-container'></div>
+        <div id='legend-container'></div>
+        <div id='map-container'></div>
+<script>
+
+    // set the dimensions and margins of the graph
+    var margin = {top: 70, bottom: 40, left: 40, right: 80},
+        width = 1000 - margin.left - margin.right,
+        height = 600 - margin.top - margin.bottom;
+
+
+    var svg = d3.select("#map-container").append("svg")
+        .attr("width", width + margin.left + margin.right + 500)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    var tool_tip = d3.tip()
+        .attr("class", "d3-tip")
+        .offset([-8, 0])
+        .html(function (d) {
+            state = d.properties['name'];
+            county_id = d['id'];
+            count = pills[county_id];
+            return "State: " + state + "<br/>Pills: " + count;
+        });
+
+    // Dropdown selection
+    d3.select("#dropbox-container")
+            .append("text")
+            .style("font-size", "20px")
+            .text("Year: ");
+
+    svg.call(tool_tip);
+
+    var pillsMap = {};
+    pills = {};
+
+    var projection = d3.geoAlbersUsa();
+    var path = d3.geoPath().projection(projection);
+
+    //DPH FIX ME Set this later
+    max_pills = 40;
+    min_pills = 1;
+    var promises = [
+        d3.json("./data/counties-10m.json"),
+        d3.csv("./data/gtwr_opioids_per_person_2006_2012.csv", function (d) {
+            pillsMap[d.county_id]=[+d[2006],+d[2007],+d[2008],+d[2009],+d[2010],+d[2011],+d[2012]];
+        })
+    ];
+
+    colorScheme = ['#f7fcfd','#e0ecf4','#bfd3e6','#9ebcda','#8c96c6','#8c6bb1','#88419d','#810f7c','#4d004b'];
+    //colorScheme = ['#4d004b','#810f7c','#88419d','#8c6bb1','#8c96c6','#9ebcda','#bfd3e6','#e0ecf4','#f7fcfd']
+
+    Promise.all(promises).then(ready);
+
+    function ready(promise_data){
+       us = promise_data[0];
+       render_chart(2006)
+    }
+
+    function render_chart(map_year) {
+        console.log("map_year="+map_year)
+        pills = {};
+        Object.keys(pillsMap).forEach(function(key) {
+            value = pillsMap[key];
+            index = map_year- 2006
+            pills[key]=value[index]
+        });
+
+
+        mapScale = d3.scaleLog()
+            .domain([min_pills, max_pills])
+            .range([0, 8]);
+
+        svg.append("g")
+            .attr("class", "states")
+            .selectAll("path")
+            .data(topojson.feature(us, us.objects.counties).features)
+            .enter()
+            .append("path")
+            .on('mouseover', tool_tip.show)
+            .on('mouseout', tool_tip.hide)
+            .attr("fill", function (d) {
+                state = d['id'];
+                count = pills[state];
+                log = 0;
+                log = Math.round(mapScale(count));
+                log = log === -Infinity ? 0 : log;
+
+                if (typeof count === 'undefined'){
+                    log=0
+                }
+                if (log >8){
+                    log=8
+                }
+                //console.log("State="+state+" count="+count+" log="+log+" color="+colorScheme[log]);
+
+                return colorScheme[log];
+            })
+            .attr("d", path);
+
+        svg.append("path")
+            .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
+            .attr("class", "border")	//Mesh state boundaries to prevent duplicate paths for borders
+            .attr("d", path);
+
+        svg.append("path")
+            .data(topojson.feature(us, us.objects.nation).features)
+            .attr("class", "border")
+            .attr("d", path);
+
+    }
+
+    grid_size = 30;
+
+    var legend = svg.append("g")
+        .attr("transform", "translate(" + (width + margin.left + margin.right) + "," + margin.top + ")")
+        .selectAll(".legend")
+        .data([1, 5, 10, 50, 100, 500, 1000, 2000, 10000])
+        .enter();
+
+    legend.append("rect")
+        .attr("x", 0)
+        .attr("y", function (d, i) {
+            return (grid_size * i) + 30;
+        })
+        .attr("width", grid_size)
+        .attr("height", grid_size)
+        .style("fill", function (d, i) {
+            return colorScheme[i];
+        });
+
+    legend.append("text")
+        .attr("class", "mono")
+        .text(function (d) {
+            return d3.format(",")(d)
+        })
+        .attr("x", 40)
+        .attr("y", function (d, i) {
+            return (grid_size * i) + 50;
+        });
+
+    legend.append("text")
+        .attr("text-anchor", "middle")
+        .attr("font-family", "sans-serif")
+        .attr("font-size", "16px")
+        .attr("font-weight", "500")
+        //.attr("transform", "translate("+ (grid_size+10) +","+(height-10)+")")
+        .text("Pills");
+
+
+    var dropdownChange = function() {
+            var range = d3.select(this).property('value');
+            console.log("range val="+range)
+            years = [2006,2007,2008,2009,2010,2011,2012]
+            render_chart(range)
+
+    };
+
+    var dropdown = d3.select("#dropbox-container")
+            .append("select")
+            .on("change", dropdownChange)
+            .selectAll("option")
+            .data([2006,2007,2008,2009,2010,2011,2012]).enter()
+            .append("option")
+            .text(function (d) { return d; });
+
+
+</script>
+</body>
+</html>
