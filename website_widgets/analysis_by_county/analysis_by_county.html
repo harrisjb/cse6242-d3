@@ -4,6 +4,19 @@
     <style>
         .states {
             fill: none;
+            stroke: #000;
+            stroke-linejoin: round;
+        }
+
+        .mesh {
+          fill: none;
+          stroke: #fff;
+          stroke-linecap: round;
+          stroke-linejoin: round;
+}
+
+        .counties {
+            fill: none;
             stroke: #fff;
             stroke-linejoin: round;
         }
@@ -35,6 +48,7 @@
             left: 0;
         }
 
+
     </style>
 
     <script src="../js/d3.v5.min.js"></script>
@@ -56,72 +70,66 @@
 
 
     var svg = d3.select("#map-container").append("svg")
-        .attr("width", width + margin.left + margin.right + 500)
+        .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    var g = svg.append("g");
+
 
     var tool_tip = d3.tip()
         .attr("class", "d3-tip")
         .offset([-8, 0])
         .html(function (d) {
-            state = d.properties['name'];
             county_id = d['id'];
-            count = pills[county_id];
-            return "State: " + state + "<br/>Pills: " + count;
+            pill_data = pills[county_id];
+            count = pill_data[0];
+            state = pill_data[1];
+            county = pill_data[2];
+            return "Location: " + county + ", "+state+"<br/>grams: " + count;
         });
 
-    // Dropdown selection
-    d3.select("#dropbox-container")
-            .append("text")
-            .style("font-size", "20px")
-            .text("Year: ");
 
     svg.call(tool_tip);
 
-    var pillsMap = {};
     pills = {};
+
 
     var projection = d3.geoAlbersUsa();
     var path = d3.geoPath().projection(projection);
 
+
     //DPH FIX ME Set this later
-    max_pills = 400000;
-    min_pills = 100;
+    max_pills = 1000000;
+    min_pills = 1;
     var promises = [
         d3.json("./data/counties-10m.json"),
-        d3.csv("./data/GTWR_Model_Output.csv", function (d) {
-            pillsMap[d.county_id]=[+d[2006],+d[2007],+d[2008],+d[2009],+d[2010],+d[2011],+d[2012]];
+        d3.csv("./data/Wpost-OpioidWeight-ByFips.csv", function (d) {
+            //County_cd,State_nm,County_nm,total_gms
+            pills[d.County_cd]=[d['total_gms'],d['State_nm'],d['County_nm']];
         })
     ];
 
-    colorScheme = ['#f7fcfd','#e0ecf4','#bfd3e6','#9ebcda','#8c96c6','#8c6bb1','#88419d','#810f7c','#4d004b'];
+    colorScheme = ['#e5e49e','#dcce05','#d9b70b','#d6a011','#d28917','#cf721d','#c84429','#c52d2f','#bf003b'];
+    colorScheme = ['#ffffff','#f8f8f8','#e2e2e2','#d2d2d2','#e2d5ea','#ebe3f3','#ce99c4','#953d4d','#753037'];
     //colorScheme = ['#4d004b','#810f7c','#88419d','#8c6bb1','#8c96c6','#9ebcda','#bfd3e6','#e0ecf4','#f7fcfd']
 
     Promise.all(promises).then(ready);
 
     function ready(promise_data){
        us = promise_data[0];
-       render_chart(2006)
+       render_chart()
     }
 
-    function render_chart(map_year) {
-        console.log("map_year="+map_year)
-        pills = {};
-        Object.keys(pillsMap).forEach(function(key) {
-            value = pillsMap[key];
-            index = map_year- 2006
-            pills[key]=value[index]
-        });
-
+    function render_chart() {
 
         mapScale = d3.scaleLog()
             .domain([min_pills, max_pills])
             .range([0, 8]);
 
-        svg.append("g")
-            .attr("class", "states")
-            .selectAll("path")
+        g.selectAll("path")
+            .attr("class", "counties")
             .data(topojson.feature(us, us.objects.counties).features)
             .enter()
             .append("path")
@@ -129,7 +137,12 @@
             .on('mouseout', tool_tip.hide)
             .attr("fill", function (d) {
                 state = d['id'];
-                count = pills[state];
+                pill_data = pills[state];
+                count=0;
+                if (typeof(pill_data) !== "undefined"){
+                   count = pill_data[0];
+                }
+                //console.log(count)
                 log = 0;
                 log = Math.round(mapScale(count));
                 log = log === -Infinity ? 0 : log;
@@ -145,6 +158,17 @@
                 return colorScheme[log];
             })
             .attr("d", path);
+
+
+        g.append("path")
+           .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
+           .attr("class", "states")
+            .attr("d", path);
+
+        g.append("path")
+            .data(topojson.feature(us, us.objects.nation).features)
+            .attr("class", "states")
+            .attr("d", path);
     }
 
     grid_size = 30;
@@ -152,7 +176,7 @@
     var legend = svg.append("g")
         .attr("transform", "translate(" + (width + margin.left + margin.right) + "," + margin.top + ")")
         .selectAll(".legend")
-        .data([1, 5, 10, 50, 100, 500, 1000, 2000, 10000])
+        .data([0, 1, 10, 15, 25, 50, 75, 100, 150])
         .enter();
 
     legend.append("rect")
@@ -168,8 +192,12 @@
 
     legend.append("text")
         .attr("class", "mono")
-        .text(function (d) {
-            return d3.format(",")(d)
+        .text(function (d,i) {
+            ret_val = d3.format(",")(d);
+            if(i===8){
+                ret_val = ret_val + ' +'
+            }
+            return ret_val
         })
         .attr("x", 40)
         .attr("y", function (d, i) {
@@ -185,21 +213,6 @@
         .text("Pills");
 
 
-    var dropdownChange = function() {
-            var range = d3.select(this).property('value');
-            console.log("range val="+range)
-            years = [2006,2007,2008,2009,2010,2011,2012]
-            render_chart(range)
-
-    };
-
-    var dropdown = d3.select("#dropbox-container")
-            .append("select")
-            .on("change", dropdownChange)
-            .selectAll("option")
-            .data([2006,2007,2008,2009,2010,2011,2012]).enter()
-            .append("option")
-            .text(function (d) { return d; });
 
 
 </script>

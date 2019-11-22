@@ -1,6 +1,4 @@
-
 import csv
-
 
 BASE_DIR = './data'
 
