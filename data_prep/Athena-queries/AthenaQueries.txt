@@ -277,8 +277,8 @@ from
            ELSE cast(calc_base_wt_in_gm as double)
         END as actual_wt_in_gm
 
-        from dea_arcos_full_string
-        where
+  from dea_arcos_full_string
+  where
         calc_base_wt_in_gm <> 'CALC_BASE_WT_IN_GM' AND 
         transaction_code = 'S' AND
         ((drug_code = '9193') or (drug_code = '9143')) AND 
@@ -537,7 +537,7 @@ order by total_gms desc
 
 
 Below SQL created Wpost-ReporterFamily-RanksBy-DosageUnit-b01066c4-b80c-4137-8ee9-6aed63481e2c.csv
-
+----------------------
 --Note this query does not take Delete Action Indicator into account. Ideally, it should have...
 select reporter_family, sum(cast(dosage_unit as double)) as total_dosage
 from dea_arcos_wpost_string 
@@ -547,7 +547,7 @@ order by total_dosage desc
 
 
 Below SQL created Wpost-OpioidWeight-ByStateCounty-7f69a640-5f92-4dc3-a143-fb372a48b266.csv
-
+----------------
 select reporter_county, reporter_state, sum(
        CASE action_indicator
            WHEN 'D' THEN -cast(calc_base_wt_in_gm as double)
@@ -558,3 +558,135 @@ from dea_arcos_wpost_string
 where lower(buyer_zip) <> 'buyer_zip'
 group by reporter_county, reporter_state
 order by total_gms desc
+
+
+24-Nov-2019
+-----------
+Below SQL created WPost-Top-Manufacturers-OpioidWeight-7faa9151-5a09-4f95-b39c-5d15b590dc3d
+-------------------------------------------------------------------------------------------
+select reporter_family, sum(
+       CASE action_indicator
+           WHEN 'D' THEN -cast(calc_base_wt_in_gm as double)
+           ELSE cast(calc_base_wt_in_gm as double)
+       END
+) as total_gms
+from dea_arcos_wpost_string 
+where lower(buyer_zip) <> 'buyer_zip' AND lower(reporter_bus_act) = 'manufacturer'
+group by reporter_family
+order by total_gms desc
+
+
+-----------Creating the dea_arcos_sales_graph_with_dea_ids table with dea-nos encoded with unique IDs ------------
+
+--> The content of this table can be found under dea_arcos_pagerank/full_dea_arcos_sale_graph.csv
+
+arcos_sales_graph count - 454194
+dea_ids - 278371
+1000s x 1000s -> Millions -> Okay..
+
+
+create table dea_arcos_sales_graph_with_dea_ids
+with (format='PARQUET', parquet_compression='SNAPPY', external_location='s3://cse6242courseproject/dea_arcos_sales_graph_with_dea_ids/')
+AS
+select A.source, IAGAIN.id as dest, cast(A.weight as bigint) as weight
+from
+(
+select I.id as source, G.buyer_dea_no as buyer_dea_no, G.calc_base_wt_in_gm as weight from dea_arcos_sales_graph G inner join dea_ids I
+on
+G.reporter_dea_no = I.dea_no
+) A
+inner join dea_ids IAGAIN
+ON
+A.buyer_dea_no = IAGAIN.dea_no
+
+select count(*) from dea_arcos_sales_graph_with_dea_ids --> 454194 (Good! We have not missed or messed anything)
+
+----------------------
+
+Graph Analysis Query to know whether it is worth to run Page-rank on this data
+-------------------------------------------------------------------------------
+select A.node, A.out_degree, A.out_weight, B.in_degree, B.in_weight from
+(
+  select source as node, sum(weight) as out_weight, count(*) as out_degree from dea_arcos_sales_graph_with_dea_ids
+  group by source
+) A inner join (
+select dest as node, sum(weight) as in_weight, count(*) as in_degree from dea_arcos_sales_graph_with_dea_ids
+group by dest
+  ) B
+ON
+A.node = B.node
+order by A.out_degree desc
+
+
+-- Athena table on Page rank results
+create external table dea_arcos_page_rank_raw (
+  node_id bigint,
+  pr_score double,
+  rank bigint
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+LOCATION 's3://cse6242courseproject/dea-arcos-pr-results/'
+TBLPROPERTIES ('skip.header.line.count'='1')
+
+
+
+----Creating a DEA Number Master
+----First tried this... but this one has duplicates due to different address entries used by some DEA reporters/buyers
+create table dea_no_master
+WITH (format='PARQUET', parquet_compression='SNAPPY', external_location='s3://cse6242courseproject/dea_no_master')
+as
+select A.dea_no, A.bus_act, A.name, A.address1, A.address2, A.addl_co_info, A.city, A.state, A.county, A.zip, row_number() over(partition by A.dea_no order by A.address1 desc, A.address2 desc) as rownum
+from
+(
+select distinct reporter_dea_no as dea_no, reporter_bus_act as bus_act, reporter_name as name, reporter_address1 as address1, reporter_address2 as address2, reporter_addl_co_info as addl_co_info, reporter_city as city, reporter_state as state, reporter_county as county, reporter_zip as zip from dea_arcos_full_string
+UNION DISTINCT
+select distinct buyer_dea_no as dea_no, buyer_bus_act as bus_act, buyer_name as name, buyer_address1 as address1, buyer_address2 as address2, buyer_addl_co_info as addl_co_info, buyer_city as city, buyer_state as state, buyer_county as county, buyer_zip as zip from dea_arcos_full_string
+) A
+where rownum = 1
+--> has 278807 rows
+
+--De-duplicating the master and storing unique entries alone
+
+create table dea_no_master_unique
+with(format='PARQUET', parquet_compression='SNAPPY', external_location='s3://cse6242courseproject/dea_no_master_unique')
+AS
+select B.dea_no, B.bus_act, B.name, B.address1, B.address2, B.addl_co_info, B.city, B.state, B.county, B.zip
+from
+(
+select A.dea_no, A.bus_act, A.name, A.address1, A.address2, A.addl_co_info, A.city, A.state, A.county, A.zip, row_number() over(partition by A.dea_no order by A.address1 desc, A.address2 desc) rownum
+from
+(
+select distinct reporter_dea_no as dea_no, reporter_bus_act as bus_act, reporter_name as name, reporter_address1 as address1, reporter_address2 as address2, reporter_addl_co_info as addl_co_info, reporter_city as city, reporter_state as state, reporter_county as county, reporter_zip as zip from dea_arcos_full_string
+UNION DISTINCT
+select distinct buyer_dea_no as dea_no, buyer_bus_act as bus_act, buyer_name as name, buyer_address1 as address1, buyer_address2 as address2, buyer_addl_co_info as addl_co_info, buyer_city as city, buyer_state as state, buyer_county as county, buyer_zip as zip from dea_arcos_full_string
+) A
+) B
+where B.rownum = 1
+--> has 278371 rows
+
+
+Creating Final Page-Rank Output joined with DEA_NO specific information
+-----------------------------------------------------------------------
+
+select C.dea_family, B.* from
+(
+select A.rank as page_rank, A.pr_score as page_rank_score, M.*
+from
+(
+select I.dea_no, PR.pr_score, PR.rank from 
+dea_arcos_page_rank_raw  PR
+inner join
+dea_ids I
+on
+PR.node_id = I.id
+) A
+inner join 
+dea_no_master_unique M
+on
+A.dea_no = M.dea_no
+)
+B left outer join (select distinct reporter_dea_no as dea_no, reporter_family as dea_family from dea_arcos_full_string) C
+on
+B.dea_no = C.dea_no
+order by page_rank asc
