@@ -123,13 +123,17 @@
          $('#distributors').DataTable({
             "order": [[ 2, "desc" ]],
             "columnDefs": [ { "targets": 1, "orderable": false},
-                            { "targets": 3, "orderable": false}]
+                            { "targets": 3, "orderable": false},
+                            { className: "text-right", "targets": [1,2,3,4] }
+                          ]
           });
          $('#manufacturer').DataTable.ext.pager.numbers_length = 3;
 
          $('#manufacturer').DataTable({
            "order": [[ 2, "desc" ]],
-           "columnDefs": [ { "targets": 1, "orderable": false} ]
+           "columnDefs": [ { "targets": 1, "orderable": false},
+                           { "targets": 3, "orderable": false},
+                           { className: "text-right", "targets": [1,2,3,4] }]
          });
 
       } );
