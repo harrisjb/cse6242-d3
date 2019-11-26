@@ -11,7 +11,7 @@ library(countyweather) ## contains the county centers dataframe, with centroid l
 library(ggplot2)
 
 # (2). Importing the dataset
-opioid_df = read.csv("../data_prep/analytics_frame_output/WPost-cdc-census-yearlymerge-AnalyticsFrame-17Nov2019.csv", header=T)
+opioid_df = read.csv("../../data_prep/analytics_frame_output/WPost-cdc-census-yearlymerge-AnalyticsFrame-17Nov2019.csv", header=T)
 
 
 ## data cleaning
