@@ -575,6 +575,45 @@ where lower(buyer_zip) <> 'buyer_zip' AND lower(reporter_bus_act) = 'manufacture
 group by reporter_family
 order by total_gms desc
 
+Below SQL created WPost-Top-Manufacturers-Pills-b6794a0b-d34c-4cf8-966c-68dbf5100c70.csv
+----------------------------------------------------------------------------------------
+select reporter_family, sum(
+       CASE action_indicator
+           WHEN 'D' THEN -cast(dosage_unit as double)
+           ELSE cast(dosage_unit as double)
+       END
+) as total_pills
+from dea_arcos_wpost_string 
+where lower(buyer_zip) <> 'buyer_zip' AND lower(reporter_bus_act) = 'manufacturer' AND lower(dosage_unit) <> 'null'
+group by reporter_family
+order by total_pills desc
+
+Below SQL create file Full-Manufacturers-DosageUnits-7d89e38d-7d81-411f-a570-4998589480ba.csv
+-----------------------------------------------------------------------------------------------
+select reporter_family, sum(
+       CASE action_indicator
+           WHEN 'D' THEN -cast(dosage_unit as double)
+           ELSE cast(dosage_unit as double)
+       END
+) as total_pills
+from dea_arcos_full_string 
+where lower(buyer_zip) <> 'buyer_zip' AND (lower(reporter_bus_act) = 'manufacturer' OR lower(reporter_bus_act) = 'manuf (bulk)' or lower(reporter_bus_act) = 'chemical manufacturer' ) AND lower(dosage_unit) <> 'null' AND measure='TAB' AND (drug_code='9193' or drug_code='9143') AND transaction_code='S'
+group by reporter_family
+order by total_pills desc
+
+
+Below SQL created Full-Manufacturers-OpioidGms-34858474-688d-4702-a943-1e485139dc47.csv
+---------------------------------------------------------------------------------
+select reporter_family, sum(
+       CASE action_indicator
+           WHEN 'D' THEN -cast(calc_base_wt_in_gm as double)
+           ELSE cast(calc_base_wt_in_gm as double)
+       END
+) as total_gms
+from dea_arcos_full_string 
+where lower(buyer_zip) <> 'buyer_zip' AND (lower(reporter_bus_act) = 'manufacturer' OR lower(reporter_bus_act) = 'manuf (bulk)' or lower(reporter_bus_act) = 'chemical manufacturer' ) AND lower(dosage_unit) <> 'null' AND measure='TAB' AND (drug_code='9193' or drug_code='9143') AND transaction_code='S'
+group by reporter_family
+order by total_gms desc
 
 -----------Creating the dea_arcos_sales_graph_with_dea_ids table with dea-nos encoded with unique IDs ------------
 
@@ -690,3 +729,4 @@ B left outer join (select distinct reporter_dea_no as dea_no, reporter_family as
 on
 B.dea_no = C.dea_no
 order by page_rank asc
+
