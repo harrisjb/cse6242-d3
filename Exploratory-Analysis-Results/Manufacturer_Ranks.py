@@ -2,8 +2,8 @@ import csv
 
 BASE_DIR = './data'
 
-RANK_BY_UNIT = "Wpost-ReporterFamily-RanksBy-DosageUnit.csv"
-RANK_BY_WEIGHT = "Wpost-ReporterFamily-RanksBy-OpioidWeight.csv"
+RANK_BY_UNIT = "Wpost-Manufacturers-DosageUnit.csv"
+RANK_BY_WEIGHT = "Wpost-Manufacturers-OpioidWeight.csv"
 
 def write_data(reporter_family_data, total_units, total_weight):
     pretty_rows = []
@@ -11,14 +11,14 @@ def write_data(reporter_family_data, total_units, total_weight):
         data = reporter_family_data[key]
         total_dosage = data[0]
         total_gms = data[1]
-        percent_dosage = '{}%'.format(round(total_dosage / total_units * 100, 2))
-        percent_gms = '{}%'.format(round(total_gms / total_weight * 100, 2))
+        percent_dosage = '{0:.2f}%'.format(round(total_dosage / total_units * 100, 2))
+        percent_gms = '{0:.2f}%'.format(round(total_gms / total_weight * 100, 2))
         pretty_rows.append((key, format_nbr(total_dosage), percent_dosage,format_nbr(total_gms),percent_gms))
 
-    with open('./data/reporter_family_ranks_o.tsv', mode='w') as csv_file:
+    with open('./data/manufacturers_ranks_o.tsv', mode='w') as csv_file:
         pills_writer = csv.writer(csv_file, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         # Header for CSV
-        pills_writer.writerow(['distributor', 'total_dosage', 'percent_dosage','total_gms', 'percent_gms'])
+        pills_writer.writerow(['manufacturer', 'total_dosage', 'percent_dosage','total_gms', 'percent_gms'])
 
         for pretty_row in pretty_rows:
             pills_writer.writerow(pretty_row)

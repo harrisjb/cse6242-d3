@@ -15,12 +15,12 @@ CREATE TABLE county (
  );
 
 .separator ","
-.import ./data/arcos_buyer_county_codes.csv county
+.import ./arcos_buyer_county_codes.csv county
 .schema county
 
 create view pills_county as
    select a.*, c.County_code
-   from pills a
+   from dea_arcos_wpost a
    left join County c
    on c.State = a.buyer_state and
       c.county = a.buyer_county;
