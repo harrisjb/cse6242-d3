@@ -30,9 +30,7 @@
                             <tr>
                                 <th class="th-lg">Manufacturer</th>
                                 <th class="no-sort th-lg">Pills</th>
-                                <th class="th-lg">Units pct</th>
-                                <th class="no-sort th-lg">Dosage gms</th>
-                                <th class="th-lg">Dosage pct</th>
+                                <th class="th-lg">Percent of Market</th>
 
                             </tr>
                         </thead>
@@ -40,11 +38,8 @@
                         {% for report_line in ui_data.slide5 %}
                           <tr>
                             <th scope="row">{{ report_line['manufacturer'] }}</th>
-                            <td>{{ report_line['total_dosage'] }}</td>
-                            <td>{{ report_line['percent_dosage'] }}</td>
-                            <td>{{ report_line['total_gms'] }}</td>
-                            <td>{{ report_line['percent_gms'] }}</td>
-
+                            <td>{{ report_line['total_count'] }}</td>
+                            <td>{{ report_line['percentage'] }}</td>
                           </tr>
                         {% endfor %}
                         </tbody>
