@@ -1,6 +1,6 @@
 1.	DESCRIPTION - Describe the package in a few paragraphs
 
-2.	INSTALLATION - How to install and setup your code
+2.	INSTALLATION - How to install and setup the code
    The Code for the project is available on GitHub. In addition to the source
    code the repository also contains documentation and many preprocessed files
    that can be used for further analysis and demos
@@ -17,7 +17,7 @@
    project which are housed on Amazon Web Services (AWS) and require specific
    knowledge of AWS services including S3, AWS Glue, Athena, EC2, etc.
 
-3.	EXECUTION - How to run a demo on your code
+3.	EXECUTION - How to run a demo on the code
 
    DATA ANALYSIS
    1. The Data Analysis is best run from R Studio which allows you to see
@@ -26,7 +26,7 @@
    2. File/Open ./Data_Analysis/OpioidMortality_GTWR analysis.R in R Studio
    3. source/Run
    4. Select Plots --> (Arrow to advance to next Plot)
-   5. Review ./Mortality Outcome GTWR Model Outputs 2006-2012.csv
+   5. Review "./Mortality Outcome GTWR Model Outputs 2006-2012.csv"
 
    WEBSITE
    1. cd website
