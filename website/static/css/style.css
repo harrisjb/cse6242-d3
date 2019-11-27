@@ -901,9 +901,9 @@ a:focus, a:hover {
 .banner .content-block h1 {
   line-height: 90px;
   font-weight: 500;
-  text-transform: uppercase;
   letter-spacing: .04em;
-  margin-bottom: 30px;
+  margin-top: 0px;
+  margin-bottom: 10px;
 }
 
 .banner .content-block h5 {
