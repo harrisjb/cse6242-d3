@@ -86,7 +86,7 @@
         });
 
 
-    //svg_s4.call(tool_tip_s4);
+    svg_s4.call(tool_tip_s4);
 
     pills_s4 = {};
 
@@ -170,7 +170,7 @@
     var legend_s4 = svg_s4.append("g")
         .attr("transform", "translate(" + (width + margin.left + margin.right) + "," + margin.top + ")")
         .selectAll(".legend")
-        .data([0, 1, 10, 15, 20, 25, 30, 35, 40])
+        .data([0, 1, 5, 10, 15, 25, 30, 20, 30])
         .enter();
 
     legend_s4.append("rect")

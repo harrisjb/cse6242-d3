@@ -82,7 +82,7 @@
             count = pill_data[0];
             state = pill_data[1];
             county = pill_data[2];
-            return "Location: " + county + ", "+state+"<br/>Deaths: " + count;
+            return "Location: " + county + ", "+state+"<br/>Pills: " + count;
         });
 
 
@@ -173,7 +173,7 @@
     var legend_s3 = svg_s3.append("g")
         .attr("transform", "translate(" + (width + margin.left + margin.right) + "," + margin.top + ")")
         .selectAll(".legend")
-        .data([0, 1, 10, 15, 25, 50, 75, 100, 150])
+        .data([0, 5, 10, 10, 15, 20, 35, 60, 145])
         .enter();
 
     legend_s3.append("rect")

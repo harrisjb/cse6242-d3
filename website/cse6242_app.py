@@ -44,6 +44,10 @@ def slide5_data():
     #logging.debug("pill totals [{}]".format(pill_totals))
     return pill_totals
 
+@app.route('/references')
+def references():
+    return render_template('references.html')
+
 
 # Load default config and override config from an environment variable
 app.debug = True
