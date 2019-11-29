@@ -8,29 +8,25 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="section-title">
-					<h2>Pills per year 2006 - 2012</h2>
-					<p>Analysis shows that the volumes of the pills handled by the companies climbed as the epidemic
-						surged, increasing 51 percent from 8.4 billion in 2006 to 12.6 billion in 2012. Yearly
-						county-level maps show how the influx of pills spread.</p>
+					<h2>Experiment and Results</h2>
+					<p>Because we completed a thorough baseline analysis above, we were able to apply a geographically weighted regression algorithm to the CDC Mortality Data, US Census Data, and ARCOS pill distribution data in an attempt to show whether a correlation existed between opioid prescriptions and overdose deaths. </p>
+          <br/>
+					<p>Our unique approach to the problem applied a geographically weighted regression algorithm to the CDC Mortality Data, US Census Data, and ARCOS pill distribution data. The CDC suppresses mortality results for counties with fewer than 10 overdose deaths, so many counties throughout the country could not be evaluated due to this supression. However, in areas of the country most deeply effected by the opioid overdose epidemic, correlations are easily spotted. </p>
+          <br/>
+					<p>The map below shows Virginia, West Virginia, and Kentucky over the 2006-2012 period, with the color scale representing, low or no correlation, medium and high levels of correlation between overdose deaths and prescription pain killer distribution. </p>
 				</div>
 				    <div style="width: 500px;padding-left: 100px;margin: 0 0 20px;">
-            Final conclusions and summary of findings.
+            <img src="./images/app-screenshot/GTWR-Results.png" style="width: 900px; float:left; margin-left:30px; margin-bottom:40px; padding-right:0px;">
+
+        </div>
+				<div style="margin-top: 40px;" class="section-title">
+					<h2 >Initial Conclusions</h2>
+          <p> Using the geographically weighted approach, we found that from 2006-2012 a <b>positive association between opioid distribution and overdose mortality in the CDC data in 92% of counties contributing data.</b> </p>
+          <p>Additionally, lower income counties had higher correlation to overdose deaths than higher income counties. Further analysis could be done to show other contributing factors but our initial answer our problem statement in the affirmative: there does seem to be a positive correlation between prescription opioid distribution and overdose deaths in the United States.</p>
         </div>
 
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-lg-4 col-md-6">
-
-				<img src="./images/app-screenshot/pills-per-year.gif" style="float:left; margin-left:200px; padding-right:0px;">
-			</div>
-			<div class="col-lg-4 col-md-6">
-
-			</div>
-			<div class="col-lg-4 col-md-6 m-md-auto">
-
-
-			</div>
 		</div>
 	</div>
 </section>
