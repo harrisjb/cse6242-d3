@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import './style.css';
 import SlideOne from './components/SlideOne.js';
+import SlideOneDuplicate from './components/SlideOneDuplicate.js';
 import PillsByCounty from './components/SlideTwo.js';
 import TopPillDistributors from './components/SlideThree.js';
 import TopPillManufacturers from './components/SlideFour.js';
@@ -14,8 +15,7 @@ class Scrollyteller extends Component {
     super();
     this.props = {};
     this.state = {
-      data: <SlideOne/>,
-      steps: [<SlideOne/>, <PillsByCounty/>, <TopPillDistributors/>,
+      steps: [<SlideOne/>, <SlideOneDuplicate/>, <PillsByCounty/>, <TopPillDistributors/>,
         <TopPillManufacturers/>, <PillDeathsByCounty/>, <PillsPerPersonByCounty/>
       ],
     };

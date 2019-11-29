@@ -3,10 +3,13 @@ import React, { Component } from "react";
 class SlideOne extends Component {
   constructor() {
     super();
-    this.state = { };
+    this.state = {
+      data: "The opioid crisis in america"
+    };
   }
 
-  componentDidMount() { }
+  componentDidMount() {
+  }
 
   render() {
     return (
