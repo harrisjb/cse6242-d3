@@ -6,12 +6,12 @@
 # (1). Required Libraries
 library(GWmodel)
 library(sp)
-library(sgdal)
+#library(sgdal)
 library(countyweather) ## contains the county centers dataframe, with centroid longitude and latitude for each FIPS county code
 library(ggplot2)
 
 # (2). Importing the dataset
-opioid_df = read.csv("WPost-cdc-census-yearlymerge-AnalyticsFrame-17Nov2019.csv", header=T)
+opioid_df = read.csv("../../data_prep/analytics_frame_output/WPost-cdc-census-yearlymerge-AnalyticsFrame-17Nov2019.csv", header=T)
 
 
 ## data cleaning
@@ -112,9 +112,9 @@ analysis_datastd$coef_opioids_perperson <- results$opioid_perpersonstd
 analysis_datastd$coef_hhincome_clean <- results$hhincome_cleanstd
 analysis_datastd$coef_age_clean <- results$age_cleanstd
 analysis_datastd$coef_pop_clean <- results$pop_cleanstd
-analysis_datastd$coef_pop_clean <- results$percent_whitestd
+analysis_datastd$coef_percent_white <- results$percent_whitestd
 
-write.csv(analysis_datastd, "Mortality Outcome GTWR Model SCALED Outputs 2006-2012.csv", row.names=FALSE) # output complete case data with coefficients for mapping in D3
+write.csv(analysis_datastd, "Mortality Outcome GTWR Model SCALED Outputs 2006-2012 White.csv", row.names=FALSE) # output complete case data with coefficients for mapping in D3
 
 
 
