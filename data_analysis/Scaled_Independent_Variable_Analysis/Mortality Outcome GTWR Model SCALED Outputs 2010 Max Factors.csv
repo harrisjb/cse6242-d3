@@ -1,0 +1,673 @@
+,fips,name.x,state.x,county,state.y,max_factor
+0,10001,"Kent County, Delaware",DE,1,10,coef_percent_white
+13,10003,"New Castle County, Delaware",DE,3,10,coef_opioids_perperson
+19,10005,"Sussex County, Delaware",DE,5,10,coef_percent_white
+26,11001,"District of Columbia County, District of Columbia",DC,1,11,coef_opioids_perperson
+32,12001,"Alachua County, Florida",FL,1,12,coef_opioids_perperson
+38,12005,"Bay County, Florida",FL,5,12,coef_age_clean
+46,12009,"Brevard County, Florida",FL,9,12,coef_percent_white
+51,12011,"Broward County, Florida",FL,11,12,coef_percent_white
+57,12015,"Charlotte County, Florida",FL,15,12,coef_percent_white
+64,12017,"Citrus County, Florida",FL,17,12,coef_opioids_perperson
+68,12019,"Clay County, Florida",FL,19,12,coef_opioids_perperson
+77,12021,"Collier County, Florida",FL,21,12,coef_percent_white
+85,12023,"Columbia County, Florida",FL,23,12,coef_percent_white
+86,12031,"Duval County, Florida",FL,31,12,coef_opioids_perperson
+93,12033,"Escambia County, Florida",FL,33,12,coef_percent_white
+101,12035,"Flagler County, Florida",FL,35,12,coef_opioids_perperson
+106,12053,"Hernando County, Florida",FL,53,12,coef_percent_white
+115,12055,"Highlands County, Florida",FL,55,12,coef_percent_white
+120,12057,"Hillsborough County, Florida",FL,57,12,coef_percent_white
+126,12061,"Indian River County, Florida",FL,61,12,coef_percent_white
+134,12069,"Lake County, Florida",FL,69,12,coef_opioids_perperson
+137,12071,"Lee County, Florida",FL,71,12,coef_percent_white
+147,12073,"Leon County, Florida",FL,73,12,coef_age_clean
+152,12075,"Levy County, Florida",FL,75,12,coef_percent_white
+158,12081,"Manatee County, Florida",FL,81,12,coef_percent_white
+162,12083,"Marion County, Florida",FL,83,12,coef_opioids_perperson
+171,12085,"Martin County, Florida",FL,85,12,coef_percent_white
+179,12086,"Miami-Dade County, Florida",FL,86,12,coef_percent_white
+182,12087,"Monroe County, Florida",FL,87,12,coef_percent_white
+187,12089,"Nassau County, Florida",FL,89,12,coef_opioids_perperson
+199,12091,"Okaloosa County, Florida",FL,91,12,coef_age_clean
+211,12095,"Orange County, Florida",FL,95,12,coef_percent_white
+215,12097,"Osceola County, Florida",FL,97,12,coef_percent_white
+223,12099,"Palm Beach County, Florida",FL,99,12,coef_percent_white
+231,12101,"Pasco County, Florida",FL,101,12,coef_percent_white
+238,12103,"Pinellas County, Florida",FL,103,12,coef_percent_white
+241,12105,"Polk County, Florida",FL,105,12,coef_percent_white
+249,12107,"Putnam County, Florida",FL,107,12,coef_opioids_perperson
+256,12109,"St. Johns County, Florida",FL,109,12,coef_opioids_perperson
+260,12111,"St. Lucie County, Florida",FL,111,12,coef_percent_white
+268,12113,"Santa Rosa County, Florida",FL,113,12,coef_percent_white
+275,12115,"Sarasota County, Florida",FL,115,12,coef_percent_white
+280,12117,"Seminole County, Florida",FL,117,12,coef_percent_white
+292,12127,"Volusia County, Florida",FL,127,12,coef_opioids_perperson
+299,13013,"Barrow County, Georgia",GA,13,13,coef_percent_white
+308,13015,"Bartow County, Georgia",GA,15,13,coef_percent_white
+314,13021,"Bibb County, Georgia",GA,21,13,coef_percent_white
+319,13045,"Carroll County, Georgia",GA,45,13,coef_percent_white
+325,13047,"Catoosa County, Georgia",GA,47,13,coef_percent_white
+329,13051,"Chatham County, Georgia",GA,51,13,coef_percent_white
+339,13057,"Cherokee County, Georgia",GA,57,13,coef_percent_white
+344,13063,"Clayton County, Georgia",GA,63,13,coef_percent_white
+354,13067,"Cobb County, Georgia",GA,67,13,coef_percent_white
+358,13073,"Columbia County, Georgia",GA,73,13,coef_percent_white
+367,13089,"DeKalb County, Georgia",GA,89,13,coef_percent_white
+380,13097,"Douglas County, Georgia",GA,97,13,coef_opioids_perperson
+381,13111,"Fannin County, Georgia",GA,111,13,coef_percent_white
+389,13115,"Floyd County, Georgia",GA,115,13,coef_percent_white
+395,13117,"Forsyth County, Georgia",GA,117,13,coef_percent_white
+401,13121,"Fulton County, Georgia",GA,121,13,coef_opioids_perperson
+412,13135,"Gwinnett County, Georgia",GA,135,13,coef_percent_white
+417,13137,"Habersham County, Georgia",GA,137,13,coef_percent_white
+422,13139,"Hall County, Georgia",GA,139,13,coef_percent_white
+426,13143,"Haralson County, Georgia",GA,143,13,coef_opioids_perperson
+432,13151,"Henry County, Georgia",GA,151,13,coef_percent_white
+435,13153,"Houston County, Georgia",GA,153,13,coef_percent_white
+441,13157,"Jackson County, Georgia",GA,157,13,coef_percent_white
+447,13213,"Murray County, Georgia",GA,213,13,coef_percent_white
+452,13215,"Muscogee County, Georgia",GA,215,13,coef_percent_white
+460,13223,"Paulding County, Georgia",GA,223,13,coef_opioids_perperson
+463,13233,"Polk County, Georgia",GA,233,13,coef_percent_white
+465,13245,"Richmond County, Georgia",GA,245,13,coef_percent_white
+479,13295,"Walker County, Georgia",GA,295,13,coef_percent_white
+485,13297,"Walton County, Georgia",GA,297,13,coef_percent_white
+490,13313,"Whitfield County, Georgia",GA,313,13,coef_percent_white
+500,16001,"Ada County, Idaho",ID,1,16,coef_percent_white
+505,16005,"Bannock County, Idaho",ID,5,16,coef_opioids_perperson
+508,16019,"Bonneville County, Idaho",ID,19,16,coef_age_clean
+516,16027,"Canyon County, Idaho",ID,27,16,coef_percent_white
+523,16055,"Kootenai County, Idaho",ID,55,16,coef_hhincome_clean
+527,16083,"Twin Falls County, Idaho",ID,83,16,coef_percent_white
+530,17019,"Champaign County, Illinois",IL,19,17,coef_percent_white
+541,17031,"Cook County, Illinois",IL,31,17,coef_percent_white
+545,17043,"DuPage County, Illinois",IL,43,17,coef_percent_white
+551,17055,"Franklin County, Illinois",IL,55,17,coef_percent_white
+558,17089,"Kane County, Illinois",IL,89,17,coef_percent_white
+567,17091,"Kankakee County, Illinois",IL,91,17,coef_percent_white
+571,17097,"Lake County, Illinois",IL,97,17,coef_opioids_perperson
+582,17099,"LaSalle County, Illinois",IL,99,17,coef_percent_white
+589,17111,"McHenry County, Illinois",IL,111,17,coef_opioids_perperson
+597,17113,"McLean County, Illinois",IL,113,17,coef_percent_white
+605,17119,"Madison County, Illinois",IL,119,17,coef_percent_white
+610,17121,"Marion County, Illinois",IL,121,17,coef_opioids_perperson
+615,17143,"Peoria County, Illinois",IL,143,17,coef_percent_white
+620,17161,"Rock Island County, Illinois",IL,161,17,coef_opioids_perperson
+626,17163,"St. Clair County, Illinois",IL,163,17,coef_percent_white
+635,17167,"Sangamon County, Illinois",IL,167,17,coef_opioids_perperson
+639,17177,"Stephenson County, Illinois",IL,177,17,coef_opioids_perperson
+641,17179,"Tazewell County, Illinois",IL,179,17,coef_opioids_perperson
+647,17183,"Vermilion County, Illinois",IL,183,17,coef_percent_white
+655,17197,"Will County, Illinois",IL,197,17,coef_percent_white
+661,17199,"Williamson County, Illinois",IL,199,17,coef_percent_white
+670,17201,"Winnebago County, Illinois",IL,201,17,coef_opioids_perperson
+674,18003,"Allen County, Indiana",IN,3,18,coef_age_clean
+681,18005,"Bartholomew County, Indiana",IN,5,18,coef_opioids_perperson
+688,18019,"Clark County, Indiana",IN,19,18,coef_percent_white
+692,18029,"Dearborn County, Indiana",IN,29,18,coef_percent_white
+696,18035,"Delaware County, Indiana",IN,35,18,coef_age_clean
+707,18039,"Elkhart County, Indiana",IN,39,18,coef_age_clean
+711,18043,"Floyd County, Indiana",IN,43,18,coef_percent_white
+717,18053,"Grant County, Indiana",IN,53,18,coef_opioids_perperson
+719,18055,"Greene County, Indiana",IN,55,18,coef_percent_white
+722,18057,"Hamilton County, Indiana",IN,57,18,coef_opioids_perperson
+727,18059,"Hancock County, Indiana",IN,59,18,coef_opioids_perperson
+734,18063,"Hendricks County, Indiana",IN,63,18,coef_opioids_perperson
+736,18065,"Henry County, Indiana",IN,65,18,coef_opioids_perperson
+746,18067,"Howard County, Indiana",IN,67,18,coef_opioids_perperson
+750,18071,"Jackson County, Indiana",IN,71,18,coef_percent_white
+755,18081,"Johnson County, Indiana",IN,81,18,coef_opioids_perperson
+764,18089,"Lake County, Indiana",IN,89,18,coef_percent_white
+773,18091,"LaPorte County, Indiana",IN,91,18,coef_opioids_perperson
+780,18095,"Madison County, Indiana",IN,95,18,coef_opioids_perperson
+786,18097,"Marion County, Indiana",IN,97,18,coef_opioids_perperson
+798,18105,"Monroe County, Indiana",IN,105,18,coef_opioids_perperson
+804,18109,"Morgan County, Indiana",IN,109,18,coef_opioids_perperson
+811,18127,"Porter County, Indiana",IN,127,18,coef_opioids_perperson
+814,18141,"St. Joseph County, Indiana",IN,141,18,coef_opioids_perperson
+832,18157,"Tippecanoe County, Indiana",IN,157,18,coef_opioids_perperson
+837,18163,"Vanderburgh County, Indiana",IN,163,18,coef_percent_white
+847,18167,"Vigo County, Indiana",IN,167,18,coef_percent_white
+850,18169,"Wabash County, Indiana",IN,169,18,coef_percent_white
+854,18177,"Wayne County, Indiana",IN,177,18,coef_age_clean
+858,19013,"Black Hawk County, Iowa",IA,13,19,coef_opioids_perperson
+861,19113,"Linn County, Iowa",IA,113,19,coef_opioids_perperson
+868,19153,"Polk County, Iowa",IA,153,19,coef_age_clean
+882,19163,"Scott County, Iowa",IA,163,19,coef_opioids_perperson
+884,19187,"Webster County, Iowa",IA,187,19,coef_age_clean
+888,20015,"Butler County, Kansas",KS,15,20,coef_percent_white
+895,20045,"Douglas County, Kansas",KS,45,20,coef_age_clean
+899,20091,"Johnson County, Kansas",KS,91,20,coef_age_clean
+913,20173,"Sedgwick County, Kansas",KS,173,20,coef_percent_white
+915,20177,"Shawnee County, Kansas",KS,177,20,coef_age_clean
+921,20209,"Wyandotte County, Kansas",KS,209,20,coef_age_clean
+935,21013,"Bell County, Kentucky",KY,13,21,coef_percent_white
+939,21015,"Boone County, Kentucky",KY,15,21,coef_percent_white
+945,21019,"Boyd County, Kentucky",KY,19,21,coef_percent_white
+950,21025,"Breathitt County, Kentucky",KY,25,21,coef_percent_white
+952,21029,"Bullitt County, Kentucky",KY,29,21,coef_percent_white
+956,21037,"Campbell County, Kentucky",KY,37,21,coef_percent_white
+964,21043,"Carter County, Kentucky",KY,43,21,coef_percent_white
+969,21049,"Clark County, Kentucky",KY,49,21,coef_percent_white
+973,21059,"Daviess County, Kentucky",KY,59,21,coef_percent_white
+982,21067,"Fayette County, Kentucky",KY,67,21,coef_percent_white
+991,21071,"Floyd County, Kentucky",KY,71,21,coef_percent_white
+996,21089,"Greenup County, Kentucky",KY,89,21,coef_percent_white
+997,21093,"Hardin County, Kentucky",KY,93,21,coef_percent_white
+1005,21095,"Harlan County, Kentucky",KY,95,21,coef_percent_white
+1010,21111,"Jefferson County, Kentucky",KY,111,21,coef_percent_white
+1022,21115,"Johnson County, Kentucky",KY,115,21,coef_percent_white
+1027,21117,"Kenton County, Kentucky",KY,117,21,coef_percent_white
+1030,21119,"Knott County, Kentucky",KY,119,21,coef_percent_white
+1037,21121,"Knox County, Kentucky",KY,121,21,coef_percent_white
+1039,21125,"Laurel County, Kentucky",KY,125,21,coef_percent_white
+1047,21133,"Letcher County, Kentucky",KY,133,21,coef_percent_white
+1049,21145,"McCracken County, Kentucky",KY,145,21,coef_percent_white
+1053,21151,"Madison County, Kentucky",KY,151,21,coef_percent_white
+1063,21195,"Pike County, Kentucky",KY,195,21,coef_percent_white
+1066,21197,"Powell County, Kentucky",KY,197,21,coef_percent_white
+1075,21227,"Warren County, Kentucky",KY,227,21,coef_age_clean
+1080,21235,"Whitley County, Kentucky",KY,235,21,coef_percent_white
+1088,22001,"Acadia County, Louisiana",LA,1,22,coef_percent_white
+1098,22015,"Bossier County, Louisiana",LA,15,22,coef_percent_white
+1104,22017,"Caddo County, Louisiana",LA,17,22,coef_age_clean
+1112,22019,"Calcasieu County, Louisiana",LA,19,22,coef_percent_white
+1119,22033,"East Baton Rouge County, Louisiana",LA,33,22,coef_percent_white
+1123,22051,"Jefferson County, Louisiana",LA,51,22,coef_percent_white
+1131,22053,"Jefferson Davis County, Louisiana",LA,53,22,coef_percent_white
+1134,22055,"Lafayette County, Louisiana",LA,55,22,coef_percent_white
+1140,22057,"Lafourche County, Louisiana",LA,57,22,coef_age_clean
+1147,22063,"Livingston County, Louisiana",LA,63,22,coef_age_clean
+1153,22071,"Orleans County, Louisiana",LA,71,22,coef_age_clean
+1161,22073,"Ouachita County, Louisiana",LA,73,22,coef_age_clean
+1167,22079,"Rapides County, Louisiana",LA,79,22,coef_percent_white
+1175,22087,"St. Bernard County, Louisiana",LA,87,22,coef_percent_white
+1179,22095,"St. John the Baptist County, Louisiana",LA,95,22,coef_age_clean
+1182,22097,"St. Landry County, Louisiana",LA,97,22,coef_percent_white
+1188,22103,"St. Tammany County, Louisiana",LA,103,22,coef_percent_white
+1195,22105,"Tangipahoa County, Louisiana",LA,105,22,coef_age_clean
+1206,22109,"Terrebonne County, Louisiana",LA,109,22,coef_age_clean
+1214,23001,"Androscoggin County, Maine",ME,1,23,coef_opioids_perperson
+1220,23005,"Cumberland County, Maine",ME,5,23,coef_opioids_perperson
+1230,23011,"Kennebec County, Maine",ME,11,23,coef_age_clean
+1237,23019,"Penobscot County, Maine",ME,19,23,coef_age_clean
+1245,23031,"York County, Maine",ME,31,23,coef_age_clean
+1253,24001,"Allegany County, Maryland",MD,1,24,coef_opioids_perperson
+1258,24003,"Anne Arundel County, Maryland",MD,3,24,coef_opioids_perperson
+1262,24009,"Calvert County, Maryland",MD,9,24,coef_opioids_perperson
+1275,24013,"Carroll County, Maryland",MD,13,24,coef_opioids_perperson
+1277,24015,"Cecil County, Maryland",MD,15,24,coef_opioids_perperson
+1288,24017,"Charles County, Maryland",MD,17,24,coef_opioids_perperson
+1292,24021,"Frederick County, Maryland",MD,21,24,coef_opioids_perperson
+1300,24025,"Harford County, Maryland",MD,25,24,coef_opioids_perperson
+1303,24027,"Howard County, Maryland",MD,27,24,coef_opioids_perperson
+1315,24031,"Montgomery County, Maryland",MD,31,24,coef_opioids_perperson
+1317,24033,"Prince George's County, Maryland",MD,33,24,coef_opioids_perperson
+1324,24037,"St. Mary's County, Maryland",MD,37,24,coef_percent_white
+1331,24043,"Washington County, Maryland",MD,43,24,coef_opioids_perperson
+1336,24045,"Wicomico County, Maryland",MD,45,24,coef_percent_white
+1344,24510,"Baltimore County, Maryland",MD,510,24,coef_opioids_perperson
+1347,24510,"Baltimore County, Maryland",MD,510,24,coef_opioids_perperson
+1358,25001,"Barnstable County, Massachusetts",MA,1,25,coef_opioids_perperson
+1367,25003,"Berkshire County, Massachusetts",MA,3,25,coef_opioids_perperson
+1372,25005,"Bristol County, Massachusetts",MA,5,25,coef_opioids_perperson
+1377,25009,"Essex County, Massachusetts",MA,9,25,coef_age_clean
+1385,25013,"Hampden County, Massachusetts",MA,13,25,coef_opioids_perperson
+1392,25015,"Hampshire County, Massachusetts",MA,15,25,coef_opioids_perperson
+1400,25017,"Middlesex County, Massachusetts",MA,17,25,coef_age_clean
+1412,25021,"Norfolk County, Massachusetts",MA,21,25,coef_opioids_perperson
+1414,25023,"Plymouth County, Massachusetts",MA,23,25,coef_opioids_perperson
+1423,25025,"Suffolk County, Massachusetts",MA,25,25,coef_age_clean
+1431,25027,"Worcester County, Massachusetts",MA,27,25,coef_opioids_perperson
+1436,26005,"Allegan County, Michigan",MI,5,26,coef_opioids_perperson
+1440,26017,"Bay County, Michigan",MI,17,26,coef_percent_white
+1447,26021,"Berrien County, Michigan",MI,21,26,coef_opioids_perperson
+1453,26025,"Calhoun County, Michigan",MI,25,26,coef_opioids_perperson
+1462,26045,"Eaton County, Michigan",MI,45,26,coef_opioids_perperson
+1468,26049,"Genesee County, Michigan",MI,49,26,coef_opioids_perperson
+1476,26055,"Grand Traverse County, Michigan",MI,55,26,coef_age_clean
+1480,26065,"Ingham County, Michigan",MI,65,26,coef_opioids_perperson
+1487,26067,"Ionia County, Michigan",MI,67,26,coef_opioids_perperson
+1490,26075,"Jackson County, Michigan",MI,75,26,coef_opioids_perperson
+1496,26077,"Kalamazoo County, Michigan",MI,77,26,coef_opioids_perperson
+1501,26081,"Kent County, Michigan",MI,81,26,coef_opioids_perperson
+1505,26087,"Lapeer County, Michigan",MI,87,26,coef_opioids_perperson
+1510,26091,"Lenawee County, Michigan",MI,91,26,coef_opioids_perperson
+1513,26093,"Livingston County, Michigan",MI,93,26,coef_opioids_perperson
+1523,26099,"Macomb County, Michigan",MI,99,26,coef_percent_white
+1537,26115,"Monroe County, Michigan",MI,115,26,coef_opioids_perperson
+1543,26121,"Muskegon County, Michigan",MI,121,26,coef_opioids_perperson
+1545,26123,"Newaygo County, Michigan",MI,123,26,coef_opioids_perperson
+1551,26125,"Oakland County, Michigan",MI,125,26,coef_opioids_perperson
+1555,26139,"Ottawa County, Michigan",MI,139,26,coef_opioids_perperson
+1562,26145,"Saginaw County, Michigan",MI,145,26,coef_opioids_perperson
+1572,26147,"St. Clair County, Michigan",MI,147,26,coef_opioids_perperson
+1575,26155,"Shiawassee County, Michigan",MI,155,26,coef_opioids_perperson
+1582,26159,"Van Buren County, Michigan",MI,159,26,coef_opioids_perperson
+1589,26161,"Washtenaw County, Michigan",MI,161,26,coef_opioids_perperson
+1594,26163,"Wayne County, Michigan",MI,163,26,coef_opioids_perperson
+1606,27003,"Anoka County, Minnesota",MN,3,27,coef_opioids_perperson
+1610,27037,"Dakota County, Minnesota",MN,37,27,coef_opioids_perperson
+1617,27053,"Hennepin County, Minnesota",MN,53,27,coef_opioids_perperson
+1633,27123,"Ramsey County, Minnesota",MN,123,27,coef_opioids_perperson
+1640,27137,"St. Louis County, Minnesota",MN,137,27,coef_opioids_perperson
+1647,27163,"Washington County, Minnesota",MN,163,27,coef_opioids_perperson
+1652,28033,"DeSoto County, Mississippi",MS,33,28,coef_opioids_perperson
+1662,28045,"Hancock County, Mississippi",MS,45,28,coef_percent_white
+1670,28047,"Harrison County, Mississippi",MS,47,28,coef_percent_white
+1675,28059,"Jackson County, Mississippi",MS,59,28,coef_percent_white
+1683,28081,"Lee County, Mississippi",MS,81,28,coef_age_clean
+1688,28091,"Marion County, Mississippi",MS,91,28,coef_percent_white
+1692,28109,"Pearl River County, Mississippi",MS,109,28,coef_percent_white
+1699,28121,"Rankin County, Mississippi",MS,121,28,coef_age_clean
+1705,29019,"Boone County, Missouri",MO,19,29,coef_opioids_perperson
+1716,29031,"Cape Girardeau County, Missouri",MO,31,29,coef_percent_white
+1720,29037,"Cass County, Missouri",MO,37,29,coef_age_clean
+1723,29043,"Christian County, Missouri",MO,43,29,coef_opioids_perperson
+1732,29047,"Clay County, Missouri",MO,47,29,coef_age_clean
+1734,29051,"Cole County, Missouri",MO,51,29,coef_opioids_perperson
+1742,29071,"Franklin County, Missouri",MO,71,29,coef_opioids_perperson
+1744,29077,"Greene County, Missouri",MO,77,29,coef_opioids_perperson
+1753,29095,"Jackson County, Missouri",MO,95,29,coef_age_clean
+1761,29097,"Jasper County, Missouri",MO,97,29,coef_opioids_perperson
+1768,29099,"Jefferson County, Missouri",MO,99,29,coef_opioids_perperson
+1772,29113,"Lincoln County, Missouri",MO,113,29,coef_opioids_perperson
+1776,29145,"Newton County, Missouri",MO,145,29,coef_age_clean
+1777,29155,"Pemiscot County, Missouri",MO,155,29,coef_opioids_perperson
+1779,29161,"Phelps County, Missouri",MO,161,29,coef_opioids_perperson
+1782,29165,"Platte County, Missouri",MO,165,29,coef_age_clean
+1787,29167,"Polk County, Missouri",MO,167,29,coef_opioids_perperson
+1791,29183,"St. Charles County, Missouri",MO,183,29,coef_opioids_perperson
+1802,29187,"St. Francois County, Missouri",MO,187,29,coef_percent_white
+1813,29510,"St. Louis County, Missouri",MO,510,29,coef_percent_white
+1819,29510,"St. Louis County, Missouri",MO,510,29,coef_percent_white
+1822,30013,"Cascade County, Montana",MT,13,30,coef_hhincome_clean
+1831,30063,"Missoula County, Montana",MT,63,30,coef_percent_white
+1842,30111,"Yellowstone County, Montana",MT,111,30,coef_opioids_perperson
+1852,31055,"Douglas County, Nebraska",NE,55,31,coef_age_clean
+1855,31109,"Lancaster County, Nebraska",NE,109,31,coef_age_clean
+1860,31153,"Sarpy County, Nebraska",NE,153,31,coef_age_clean
+1863,32003,"Clark County, Nevada",NV,3,32,coef_opioids_perperson
+1873,32005,"Douglas County, Nevada",NV,5,32,coef_percent_white
+1875,32019,"Lyon County, Nevada",NV,19,32,coef_percent_white
+1876,32023,"Nye County, Nevada",NV,23,32,coef_age_clean
+1885,32031,"Washoe County, Nevada",NV,31,32,coef_percent_white
+1888,32510,"Carson City County, Nevada",NV,510,32,coef_percent_white
+1901,33009,"Grafton County, New Hampshire",NH,9,33,coef_age_clean
+1905,33011,"Hillsborough County, New Hampshire",NH,11,33,coef_age_clean
+1909,33013,"Merrimack County, New Hampshire",NH,13,33,coef_age_clean
+1917,33015,"Rockingham County, New Hampshire",NH,15,33,coef_age_clean
+1923,33017,"Strafford County, New Hampshire",NH,17,33,coef_age_clean
+1936,34001,"Atlantic County, New Jersey",NJ,1,34,coef_opioids_perperson
+1940,34003,"Bergen County, New Jersey",NJ,3,34,coef_opioids_perperson
+1944,34005,"Burlington County, New Jersey",NJ,5,34,coef_opioids_perperson
+1955,34007,"Camden County, New Jersey",NJ,7,34,coef_opioids_perperson
+1965,34011,"Cumberland County, New Jersey",NJ,11,34,coef_opioids_perperson
+1971,34013,"Essex County, New Jersey",NJ,13,34,coef_opioids_perperson
+1975,34015,"Gloucester County, New Jersey",NJ,15,34,coef_opioids_perperson
+1983,34017,"Hudson County, New Jersey",NJ,17,34,coef_opioids_perperson
+1988,34021,"Mercer County, New Jersey",NJ,21,34,coef_opioids_perperson
+1995,34023,"Middlesex County, New Jersey",NJ,23,34,coef_opioids_perperson
+2002,34025,"Monmouth County, New Jersey",NJ,25,34,coef_opioids_perperson
+2007,34027,"Morris County, New Jersey",NJ,27,34,coef_opioids_perperson
+2016,34029,"Ocean County, New Jersey",NJ,29,34,coef_percent_white
+2019,34031,"Passaic County, New Jersey",NJ,31,34,coef_opioids_perperson
+2032,34035,"Somerset County, New Jersey",NJ,35,34,coef_opioids_perperson
+2036,34037,"Sussex County, New Jersey",NJ,37,34,coef_opioids_perperson
+2044,34039,"Union County, New Jersey",NJ,39,34,coef_opioids_perperson
+2046,34041,"Warren County, New Jersey",NJ,41,34,coef_opioids_perperson
+2051,35001,"Bernalillo County, New Mexico",NM,1,35,coef_opioids_perperson
+2065,35013,"Do<U+FFFD>a Ana County, New Mexico",NM,13,35,coef_percent_white
+2073,35015,"Eddy County, New Mexico",NM,15,35,coef_opioids_perperson
+2079,35025,"Lea County, New Mexico",NM,25,35,coef_age_clean
+2081,35031,"McKinley County, New Mexico",NM,31,35,coef_age_clean
+2082,35035,"Otero County, New Mexico",NM,35,35,coef_percent_white
+2089,35039,"Rio Arriba County, New Mexico",NM,39,35,coef_opioids_perperson
+2102,35043,"Sandoval County, New Mexico",NM,43,35,coef_opioids_perperson
+2108,35045,"San Juan County, New Mexico",NM,45,35,coef_opioids_perperson
+2115,35049,"Santa Fe County, New Mexico",NM,49,35,coef_opioids_perperson
+2126,35061,"Valencia County, New Mexico",NM,61,35,coef_opioids_perperson
+2130,36001,"Albany County, New York",NY,1,36,coef_opioids_perperson
+2141,36005,"Bronx County, New York",NY,5,36,coef_opioids_perperson
+2146,36007,"Broome County, New York",NY,7,36,coef_opioids_perperson
+2154,36013,"Chautauqua County, New York",NY,13,36,coef_percent_white
+2165,36027,"Dutchess County, New York",NY,27,36,coef_opioids_perperson
+2174,36029,"Erie County, New York",NY,29,36,coef_percent_white
+2187,36047,"Kings County, New York",NY,47,36,coef_opioids_perperson
+2193,36055,"Monroe County, New York",NY,55,36,coef_percent_white
+2202,36059,"Nassau County, New York",NY,59,36,coef_opioids_perperson
+2210,36061,"New York County, New York",NY,61,36,coef_opioids_perperson
+2216,36063,"Niagara County, New York",NY,63,36,coef_percent_white
+2224,36065,"Oneida County, New York",NY,65,36,coef_opioids_perperson
+2225,36067,"Onondaga County, New York",NY,67,36,coef_opioids_perperson
+2235,36071,"Orange County, New York",NY,71,36,coef_opioids_perperson
+2241,36075,"Oswego County, New York",NY,75,36,coef_percent_white
+2251,36081,"Queens County, New York",NY,81,36,coef_opioids_perperson
+2259,36083,"Rensselaer County, New York",NY,83,36,coef_opioids_perperson
+2263,36085,"Richmond County, New York",NY,85,36,coef_opioids_perperson
+2271,36087,"Rockland County, New York",NY,87,36,coef_opioids_perperson
+2288,36103,"Suffolk County, New York",NY,103,36,coef_opioids_perperson
+2300,36111,"Ulster County, New York",NY,111,36,coef_opioids_perperson
+2309,36119,"Westchester County, New York",NY,119,36,coef_opioids_perperson
+2313,37001,"Alamance County, North Carolina",NC,1,37,coef_percent_white
+2318,37003,"Alexander County, North Carolina",NC,3,37,coef_percent_white
+2322,37019,"Brunswick County, North Carolina",NC,19,37,coef_age_clean
+2328,37021,"Buncombe County, North Carolina",NC,21,37,coef_percent_white
+2339,37023,"Burke County, North Carolina",NC,23,37,coef_percent_white
+2343,37025,"Cabarrus County, North Carolina",NC,25,37,coef_percent_white
+2349,37027,"Caldwell County, North Carolina",NC,27,37,coef_percent_white
+2356,37031,"Carteret County, North Carolina",NC,31,37,coef_percent_white
+2364,37035,"Catawba County, North Carolina",NC,35,37,coef_percent_white
+2371,37039,"Cherokee County, North Carolina",NC,39,37,coef_percent_white
+2378,37045,"Cleveland County, North Carolina",NC,45,37,coef_percent_white
+2380,37047,"Columbus County, North Carolina",NC,47,37,coef_percent_white
+2387,37049,"Craven County, North Carolina",NC,49,37,coef_percent_white
+2396,37051,"Cumberland County, North Carolina",NC,51,37,coef_percent_white
+2398,37057,"Davidson County, North Carolina",NC,57,37,coef_percent_white
+2407,37063,"Durham County, North Carolina",NC,63,37,coef_opioids_perperson
+2418,37067,"Forsyth County, North Carolina",NC,67,37,coef_percent_white
+2422,37071,"Gaston County, North Carolina",NC,71,37,coef_percent_white
+2432,37081,"Guilford County, North Carolina",NC,81,37,coef_percent_white
+2434,37085,"Harnett County, North Carolina",NC,85,37,coef_opioids_perperson
+2440,37087,"Haywood County, North Carolina",NC,87,37,coef_percent_white
+2444,37089,"Henderson County, North Carolina",NC,89,37,coef_percent_white
+2451,37097,"Iredell County, North Carolina",NC,97,37,coef_percent_white
+2459,37101,"Johnston County, North Carolina",NC,101,37,coef_opioids_perperson
+2477,37119,"Mecklenburg County, North Carolina",NC,119,37,coef_percent_white
+2490,37129,"New Hanover County, North Carolina",NC,129,37,coef_opioids_perperson
+2497,37133,"Onslow County, North Carolina",NC,133,37,coef_percent_white
+2506,37147,"Pitt County, North Carolina",NC,147,37,coef_age_clean
+2512,37151,"Randolph County, North Carolina",NC,151,37,coef_percent_white
+2522,37155,"Robeson County, North Carolina",NC,155,37,coef_percent_white
+2528,37157,"Rockingham County, North Carolina",NC,157,37,coef_percent_white
+2538,37159,"Rowan County, North Carolina",NC,159,37,coef_percent_white
+2547,37161,"Rutherford County, North Carolina",NC,161,37,coef_percent_white
+2554,37167,"Stanly County, North Carolina",NC,167,37,coef_percent_white
+2566,37171,"Surry County, North Carolina",NC,171,37,coef_percent_white
+2570,37179,"Union County, North Carolina",NC,179,37,coef_percent_white
+2581,37183,"Wake County, North Carolina",NC,183,37,coef_opioids_perperson
+2586,37191,"Wayne County, North Carolina",NC,191,37,coef_percent_white
+2590,37193,"Wilkes County, North Carolina",NC,193,37,coef_percent_white
+2600,39007,"Ashtabula County, Ohio",OH,7,39,coef_age_clean
+2609,39015,"Brown County, Ohio",OH,15,39,coef_percent_white
+2621,39017,"Butler County, Ohio",OH,17,39,coef_opioids_perperson
+2622,39023,"Clark County, Ohio",OH,23,39,coef_opioids_perperson
+2630,39025,"Clermont County, Ohio",OH,25,39,coef_percent_white
+2643,39029,"Columbiana County, Ohio",OH,29,39,coef_age_clean
+2646,39035,"Cuyahoga County, Ohio",OH,35,39,coef_age_clean
+2654,39041,"Delaware County, Ohio",OH,41,39,coef_opioids_perperson
+2662,39043,"Erie County, Ohio",OH,43,39,coef_opioids_perperson
+2666,39045,"Fairfield County, Ohio",OH,45,39,coef_opioids_perperson
+2673,39049,"Franklin County, Ohio",OH,49,39,coef_opioids_perperson
+2678,39057,"Greene County, Ohio",OH,57,39,coef_percent_white
+2683,39059,"Guernsey County, Ohio",OH,59,39,coef_opioids_perperson
+2685,39061,"Hamilton County, Ohio",OH,61,39,coef_percent_white
+2693,39071,"Highland County, Ohio",OH,71,39,coef_percent_white
+2697,39081,"Jefferson County, Ohio",OH,81,39,coef_opioids_perperson
+2703,39083,"Knox County, Ohio",OH,83,39,coef_opioids_perperson
+2704,39085,"Lake County, Ohio",OH,85,39,coef_age_clean
+2712,39087,"Lawrence County, Ohio",OH,87,39,coef_percent_white
+2717,39089,"Licking County, Ohio",OH,89,39,coef_opioids_perperson
+2722,39093,"Lorain County, Ohio",OH,93,39,coef_opioids_perperson
+2731,39095,"Lucas County, Ohio",OH,95,39,coef_opioids_perperson
+2736,39097,"Madison County, Ohio",OH,97,39,coef_percent_white
+2739,39099,"Mahoning County, Ohio",OH,99,39,coef_age_clean
+2752,39103,"Medina County, Ohio",OH,103,39,coef_opioids_perperson
+2756,39109,"Miami County, Ohio",OH,109,39,coef_percent_white
+2759,39113,"Montgomery County, Ohio",OH,113,39,coef_percent_white
+2774,39133,"Portage County, Ohio",OH,133,39,coef_opioids_perperson
+2777,39139,"Richland County, Ohio",OH,139,39,coef_opioids_perperson
+2784,39141,"Ross County, Ohio",OH,141,39,coef_percent_white
+2793,39145,"Scioto County, Ohio",OH,145,39,coef_percent_white
+2804,39151,"Stark County, Ohio",OH,151,39,coef_opioids_perperson
+2810,39153,"Summit County, Ohio",OH,153,39,coef_opioids_perperson
+2815,39155,"Trumbull County, Ohio",OH,155,39,coef_age_clean
+2823,39159,"Union County, Ohio",OH,159,39,coef_percent_white
+2828,39165,"Warren County, Ohio",OH,165,39,coef_percent_white
+2841,40017,"Canadian County, Oklahoma",OK,17,40,coef_age_clean
+2847,40019,"Carter County, Oklahoma",OK,19,40,coef_percent_white
+2850,40021,"Cherokee County, Oklahoma",OK,21,40,coef_age_clean
+2861,40027,"Cleveland County, Oklahoma",OK,27,40,coef_age_clean
+2864,40031,"Comanche County, Oklahoma",OK,31,40,coef_percent_white
+2873,40037,"Creek County, Oklahoma",OK,37,40,coef_age_clean
+2882,40071,"Kay County, Oklahoma",OK,71,40,coef_age_clean
+2893,40097,"Mayes County, Oklahoma",OK,97,40,coef_age_clean
+2896,40101,"Muskogee County, Oklahoma",OK,101,40,coef_age_clean
+2901,40109,"Oklahoma County, Oklahoma",OK,109,40,coef_age_clean
+2919,40123,"Pontotoc County, Oklahoma",OK,123,40,coef_percent_white
+2927,40131,"Rogers County, Oklahoma",OK,131,40,coef_age_clean
+2932,40135,"Sequoyah County, Oklahoma",OK,135,40,coef_age_clean
+2936,40137,"Stephens County, Oklahoma",OK,137,40,coef_percent_white
+2940,40143,"Tulsa County, Oklahoma",OK,143,40,coef_age_clean
+2947,40145,"Wagoner County, Oklahoma",OK,145,40,coef_age_clean
+2958,41005,"Clackamas County, Oregon",OR,5,41,coef_opioids_perperson
+2967,41011,"Coos County, Oregon",OR,11,41,coef_age_clean
+2972,41017,"Deschutes County, Oregon",OR,17,41,coef_opioids_perperson
+2976,41019,"Douglas County, Oregon",OR,19,41,coef_opioids_perperson
+2981,41029,"Jackson County, Oregon",OR,29,41,coef_opioids_perperson
+2988,41033,"Josephine County, Oregon",OR,33,41,coef_age_clean
+2997,41035,"Klamath County, Oregon",OR,35,41,coef_age_clean
+3002,41039,"Lane County, Oregon",OR,39,41,coef_opioids_perperson
+3014,41043,"Linn County, Oregon",OR,43,41,coef_opioids_perperson
+3019,41047,"Marion County, Oregon",OR,47,41,coef_opioids_perperson
+3026,41051,"Multnomah County, Oregon",OR,51,41,coef_opioids_perperson
+3038,41067,"Washington County, Oregon",OR,67,41,coef_opioids_perperson
+3041,41071,"Yamhill County, Oregon",OR,71,41,coef_opioids_perperson
+3049,42001,"Adams County, Pennsylvania",PA,1,42,coef_opioids_perperson
+3055,42003,"Allegheny County, Pennsylvania",PA,3,42,coef_age_clean
+3057,42005,"Armstrong County, Pennsylvania",PA,5,42,coef_age_clean
+3065,42007,"Beaver County, Pennsylvania",PA,7,42,coef_age_clean
+3071,42011,"Berks County, Pennsylvania",PA,11,42,coef_opioids_perperson
+3080,42013,"Blair County, Pennsylvania",PA,13,42,coef_opioids_perperson
+3086,42017,"Bucks County, Pennsylvania",PA,17,42,coef_opioids_perperson
+3099,42019,"Butler County, Pennsylvania",PA,19,42,coef_age_clean
+3102,42021,"Cambria County, Pennsylvania",PA,21,42,coef_opioids_perperson
+3114,42029,"Chester County, Pennsylvania",PA,29,42,coef_opioids_perperson
+3122,42033,"Clearfield County, Pennsylvania",PA,33,42,coef_opioids_perperson
+3127,42039,"Crawford County, Pennsylvania",PA,39,42,coef_age_clean
+3134,42041,"Cumberland County, Pennsylvania",PA,41,42,coef_opioids_perperson
+3139,42043,"Dauphin County, Pennsylvania",PA,43,42,coef_opioids_perperson
+3148,42045,"Delaware County, Pennsylvania",PA,45,42,coef_opioids_perperson
+3151,42049,"Erie County, Pennsylvania",PA,49,42,coef_age_clean
+3160,42051,"Fayette County, Pennsylvania",PA,51,42,coef_opioids_perperson
+3165,42055,"Franklin County, Pennsylvania",PA,55,42,coef_opioids_perperson
+3169,42059,"Greene County, Pennsylvania",PA,59,42,coef_percent_white
+3173,42063,"Indiana County, Pennsylvania",PA,63,42,coef_opioids_perperson
+3183,42069,"Lackawanna County, Pennsylvania",PA,69,42,coef_opioids_perperson
+3185,42071,"Lancaster County, Pennsylvania",PA,71,42,coef_opioids_perperson
+3195,42073,"Lawrence County, Pennsylvania",PA,73,42,coef_age_clean
+3205,42077,"Lehigh County, Pennsylvania",PA,77,42,coef_opioids_perperson
+3207,42079,"Luzerne County, Pennsylvania",PA,79,42,coef_opioids_perperson
+3214,42081,"Lycoming County, Pennsylvania",PA,81,42,coef_opioids_perperson
+3218,42085,"Mercer County, Pennsylvania",PA,85,42,coef_age_clean
+3223,42089,"Monroe County, Pennsylvania",PA,89,42,coef_opioids_perperson
+3234,42091,"Montgomery County, Pennsylvania",PA,91,42,coef_opioids_perperson
+3238,42095,"Northampton County, Pennsylvania",PA,95,42,coef_opioids_perperson
+3244,42097,"Northumberland County, Pennsylvania",PA,97,42,coef_opioids_perperson
+3247,42101,"Philadelphia County, Pennsylvania",PA,101,42,coef_opioids_perperson
+3253,42103,"Pike County, Pennsylvania",PA,103,42,coef_opioids_perperson
+3261,42107,"Schuylkill County, Pennsylvania",PA,107,42,coef_opioids_perperson
+3262,42111,"Somerset County, Pennsylvania",PA,111,42,coef_opioids_perperson
+3272,42125,"Washington County, Pennsylvania",PA,125,42,coef_opioids_perperson
+3279,42129,"Westmoreland County, Pennsylvania",PA,129,42,coef_opioids_perperson
+3288,42133,"York County, Pennsylvania",PA,133,42,coef_opioids_perperson
+3296,44003,"Kent County, Rhode Island",RI,3,44,coef_percent_white
+3301,44005,"Newport County, Rhode Island",RI,5,44,coef_percent_white
+3304,44007,"Providence County, Rhode Island",RI,7,44,coef_percent_white
+3309,44009,"Washington County, Rhode Island",RI,9,44,coef_percent_white
+3321,45003,"Aiken County, South Carolina",SC,3,45,coef_percent_white
+3328,45007,"Anderson County, South Carolina",SC,7,45,coef_percent_white
+3334,45013,"Beaufort County, South Carolina",SC,13,45,coef_percent_white
+3340,45015,"Berkeley County, South Carolina",SC,15,45,coef_percent_white
+3347,45019,"Charleston County, South Carolina",SC,19,45,coef_percent_white
+3351,45021,"Cherokee County, South Carolina",SC,21,45,coef_percent_white
+3355,45029,"Colleton County, South Carolina",SC,29,45,coef_percent_white
+3359,45035,"Dorchester County, South Carolina",SC,35,45,coef_percent_white
+3363,45041,"Florence County, South Carolina",SC,41,45,coef_percent_white
+3370,45045,"Greenville County, South Carolina",SC,45,45,coef_percent_white
+3376,45051,"Horry County, South Carolina",SC,51,45,coef_percent_white
+3382,45055,"Kershaw County, South Carolina",SC,55,45,coef_percent_white
+3384,45057,"Lancaster County, South Carolina",SC,57,45,coef_percent_white
+3389,45059,"Laurens County, South Carolina",SC,59,45,coef_percent_white
+3391,45063,"Lexington County, South Carolina",SC,63,45,coef_percent_white
+3400,45073,"Oconee County, South Carolina",SC,73,45,coef_percent_white
+3404,45075,"Orangeburg County, South Carolina",SC,75,45,coef_percent_white
+3407,45077,"Pickens County, South Carolina",SC,77,45,coef_percent_white
+3418,45079,"Richland County, South Carolina",SC,79,45,coef_percent_white
+3419,45083,"Spartanburg County, South Carolina",SC,83,45,coef_percent_white
+3432,45091,"York County, South Carolina",SC,91,45,coef_percent_white
+3433,46099,"Minnehaha County, South Dakota",SD,99,46,coef_percent_white
+3441,46103,"Pennington County, South Dakota",SD,103,46,coef_age_clean
+3447,47001,"Anderson County, Tennessee",TN,1,47,coef_percent_white
+3452,47009,"Blount County, Tennessee",TN,9,47,coef_percent_white
+3461,47011,"Bradley County, Tennessee",TN,11,47,coef_percent_white
+3466,47013,"Campbell County, Tennessee",TN,13,47,coef_age_clean
+3470,47019,"Carter County, Tennessee",TN,19,47,coef_opioids_perperson
+3477,47021,"Cheatham County, Tennessee",TN,21,47,coef_age_clean
+3480,47025,"Claiborne County, Tennessee",TN,25,47,coef_age_clean
+3484,47035,"Cumberland County, Tennessee",TN,35,47,coef_percent_white
+3491,47037,"Davidson County, Tennessee",TN,37,47,coef_age_clean
+3500,47059,"Greene County, Tennessee",TN,59,47,coef_opioids_perperson
+3505,47063,"Hamblen County, Tennessee",TN,63,47,coef_opioids_perperson
+3509,47065,"Hamilton County, Tennessee",TN,65,47,coef_percent_white
+3521,47073,"Hawkins County, Tennessee",TN,73,47,coef_opioids_perperson
+3529,47093,"Knox County, Tennessee",TN,93,47,coef_percent_white
+3546,47107,"McMinn County, Tennessee",TN,107,47,coef_percent_white
+3549,47119,"Maury County, Tennessee",TN,119,47,coef_age_clean
+3553,47123,"Monroe County, Tennessee",TN,123,47,coef_percent_white
+3560,47125,"Montgomery County, Tennessee",TN,125,47,coef_age_clean
+3563,47141,"Putnam County, Tennessee",TN,141,47,coef_percent_white
+3568,47143,"Rhea County, Tennessee",TN,143,47,coef_percent_white
+3571,47145,"Roane County, Tennessee",TN,145,47,coef_percent_white
+3582,47149,"Rutherford County, Tennessee",TN,149,47,coef_age_clean
+3587,47155,"Sevier County, Tennessee",TN,155,47,coef_percent_white
+3591,47157,"Shelby County, Tennessee",TN,157,47,coef_opioids_perperson
+3601,47163,"Sullivan County, Tennessee",TN,163,47,coef_opioids_perperson
+3608,47165,"Sumner County, Tennessee",TN,165,47,coef_age_clean
+3612,47179,"Washington County, Tennessee",TN,179,47,coef_opioids_perperson
+3622,47187,"Williamson County, Tennessee",TN,187,47,coef_age_clean
+3627,47189,"Wilson County, Tennessee",TN,189,47,coef_age_clean
+3639,48027,"Bell County, Texas",TX,27,48,coef_opioids_perperson
+3647,48029,"Bexar County, Texas",TX,29,48,coef_opioids_perperson
+3654,48039,"Brazoria County, Texas",TX,39,48,coef_age_clean
+3659,48041,"Brazos County, Texas",TX,41,48,coef_opioids_perperson
+3667,48061,"Cameron County, Texas",TX,61,48,coef_opioids_perperson
+3671,48085,"Collin County, Texas",TX,85,48,coef_opioids_perperson
+3678,48091,"Comal County, Texas",TX,91,48,coef_opioids_perperson
+3682,48113,"Dallas County, Texas",TX,113,48,coef_age_clean
+3694,48121,"Denton County, Texas",TX,121,48,coef_age_clean
+3696,48135,"Ector County, Texas",TX,135,48,coef_age_clean
+3705,48139,"Ellis County, Texas",TX,139,48,coef_age_clean
+3712,48141,"El Paso County, Texas",TX,141,48,coef_percent_white
+3716,48157,"Fort Bend County, Texas",TX,157,48,coef_age_clean
+3720,48167,"Galveston County, Texas",TX,167,48,coef_age_clean
+3730,48181,"Grayson County, Texas",TX,181,48,coef_percent_white
+3739,48187,"Guadalupe County, Texas",TX,187,48,coef_opioids_perperson
+3743,48199,"Hardin County, Texas",TX,199,48,coef_percent_white
+3753,48201,"Harris County, Texas",TX,201,48,coef_age_clean
+3758,48209,"Hays County, Texas",TX,209,48,coef_opioids_perperson
+3762,48213,"Henderson County, Texas",TX,213,48,coef_age_clean
+3768,48215,"Hidalgo County, Texas",TX,215,48,coef_opioids_perperson
+3771,48223,"Hopkins County, Texas",TX,223,48,coef_age_clean
+3774,48231,"Hunt County, Texas",TX,231,48,coef_opioids_perperson
+3782,48245,"Jefferson County, Texas",TX,245,48,coef_percent_white
+3787,48251,"Johnson County, Texas",TX,251,48,coef_age_clean
+3797,48291,"Liberty County, Texas",TX,291,48,coef_percent_white
+3802,48303,"Lubbock County, Texas",TX,303,48,coef_age_clean
+3814,48309,"McLennan County, Texas",TX,309,48,coef_opioids_perperson
+3819,48329,"Midland County, Texas",TX,329,48,coef_age_clean
+3825,48339,"Montgomery County, Texas",TX,339,48,coef_opioids_perperson
+3835,48355,"Nueces County, Texas",TX,355,48,coef_age_clean
+3841,48361,"Orange County, Texas",TX,361,48,coef_percent_white
+3843,48367,"Parker County, Texas",TX,367,48,coef_age_clean
+3848,48373,"Polk County, Texas",TX,373,48,coef_percent_white
+3856,48375,"Potter County, Texas",TX,375,48,coef_age_clean
+3860,48409,"San Patricio County, Texas",TX,409,48,coef_age_clean
+3864,48423,"Smith County, Texas",TX,423,48,coef_age_clean
+3871,48439,"Tarrant County, Texas",TX,439,48,coef_age_clean
+3881,48441,"Taylor County, Texas",TX,441,48,coef_opioids_perperson
+3887,48451,"Tom Green County, Texas",TX,451,48,coef_opioids_perperson
+3893,48453,"Travis County, Texas",TX,453,48,coef_opioids_perperson
+3905,48479,"Webb County, Texas",TX,479,48,coef_hhincome_clean
+3908,48485,"Wichita County, Texas",TX,485,48,coef_percent_white
+3920,48491,"Williamson County, Texas",TX,491,48,coef_opioids_perperson
+3921,48497,"Wise County, Texas",TX,497,48,coef_age_clean
+3933,49011,"Davis County, Utah",UT,11,49,coef_opioids_perperson
+3944,49035,"Salt Lake County, Utah",UT,35,49,coef_opioids_perperson
+3948,49045,"Tooele County, Utah",UT,45,49,coef_opioids_perperson
+3955,49049,"Utah County, Utah",UT,49,49,coef_opioids_perperson
+3964,49053,"Washington County, Utah",UT,53,49,coef_opioids_perperson
+3970,49057,"Weber County, Utah",UT,57,49,coef_opioids_perperson
+3977,50007,"Chittenden County, Vermont",VT,7,50,coef_age_clean
+3997,51019,"Bedford County, Virginia",VA,19,51,coef_percent_white
+4002,51041,"Chesterfield County, Virginia",VA,41,51,coef_opioids_perperson
+4013,51059,"Fairfax County, Virginia",VA,59,51,coef_opioids_perperson
+4030,51087,"Henrico County, Virginia",VA,87,51,coef_opioids_perperson
+4039,51107,"Loudoun County, Virginia",VA,107,51,coef_opioids_perperson
+4053,51153,"Prince William County, Virginia",VA,153,51,coef_opioids_perperson
+4061,51161,"Roanoke County, Virginia",VA,161,51,coef_percent_white
+4063,51167,"Russell County, Virginia",VA,167,51,coef_age_clean
+4070,51185,"Tazewell County, Virginia",VA,185,51,coef_percent_white
+4081,51195,"Wise County, Virginia",VA,195,51,coef_percent_white
+4094,51550,"Chesapeake County, Virginia",VA,550,51,coef_opioids_perperson
+4099,51650,"Hampton County, Virginia",VA,650,51,coef_opioids_perperson
+4100,51700,"Newport News County, Virginia",VA,700,51,coef_opioids_perperson
+4111,51710,"Norfolk County, Virginia",VA,710,51,coef_opioids_perperson
+4121,51760,"Richmond County, Virginia",VA,760,51,coef_opioids_perperson
+4128,51770,"Roanoke County, Virginia",VA,770,51,coef_percent_white
+4133,51810,"Virginia Beach County, Virginia",VA,810,51,coef_age_clean
+4146,53005,"Benton County, Washington",WA,5,53,coef_percent_white
+4151,53007,"Chelan County, Washington",WA,7,53,coef_opioids_perperson
+4154,53009,"Clallam County, Washington",WA,9,53,coef_age_clean
+4166,53011,"Clark County, Washington",WA,11,53,coef_opioids_perperson
+4171,53015,"Cowlitz County, Washington",WA,15,53,coef_opioids_perperson
+4177,53025,"Grant County, Washington",WA,25,53,coef_opioids_perperson
+4186,53027,"Grays Harbor County, Washington",WA,27,53,coef_age_clean
+4190,53033,"King County, Washington",WA,33,53,coef_opioids_perperson
+4197,53035,"Kitsap County, Washington",WA,35,53,coef_opioids_perperson
+4207,53041,"Lewis County, Washington",WA,41,53,coef_opioids_perperson
+4219,53053,"Pierce County, Washington",WA,53,53,coef_opioids_perperson
+4227,53057,"Skagit County, Washington",WA,57,53,coef_opioids_perperson
+4232,53061,"Snohomish County, Washington",WA,61,53,coef_opioids_perperson
+4239,53063,"Spokane County, Washington",WA,63,53,coef_opioids_perperson
+4248,53067,"Thurston County, Washington",WA,67,53,coef_opioids_perperson
+4257,53073,"Whatcom County, Washington",WA,73,53,coef_opioids_perperson
+4263,53077,"Yakima County, Washington",WA,77,53,coef_opioids_perperson
+4272,54003,"Berkeley County, West Virginia",WV,3,54,coef_opioids_perperson
+4278,54005,"Boone County, West Virginia",WV,5,54,coef_percent_white
+4283,54011,"Cabell County, West Virginia",WV,11,54,coef_percent_white
+4291,54019,"Fayette County, West Virginia",WV,19,54,coef_percent_white
+4294,54025,"Greenbrier County, West Virginia",WV,25,54,coef_percent_white
+4298,54029,"Hancock County, West Virginia",WV,29,54,coef_opioids_perperson
+4301,54033,"Harrison County, West Virginia",WV,33,54,coef_opioids_perperson
+4314,54039,"Kanawha County, West Virginia",WV,39,54,coef_percent_white
+4318,54043,"Lincoln County, West Virginia",WV,43,54,coef_percent_white
+4321,54045,"Logan County, West Virginia",WV,45,54,coef_percent_white
+4326,54047,"McDowell County, West Virginia",WV,47,54,coef_percent_white
+4331,54051,"Marshall County, West Virginia",WV,51,54,coef_opioids_perperson
+4338,54055,"Mercer County, West Virginia",WV,55,54,coef_percent_white
+4340,54059,"Mingo County, West Virginia",WV,59,54,coef_percent_white
+4350,54079,"Putnam County, West Virginia",WV,79,54,coef_percent_white
+4353,54081,"Raleigh County, West Virginia",WV,81,54,coef_percent_white
+4358,54089,"Summers County, West Virginia",WV,89,54,coef_percent_white
+4359,54099,"Wayne County, West Virginia",WV,99,54,coef_percent_white
+4372,54109,"Wyoming County, West Virginia",WV,109,54,coef_percent_white
+4377,55009,"Brown County, Wisconsin",WI,9,55,coef_age_clean
+4388,55025,"Dane County, Wisconsin",WI,25,55,coef_opioids_perperson
+4390,55027,"Dodge County, Wisconsin",WI,27,55,coef_opioids_perperson
+4396,55039,"Fond du Lac County, Wisconsin",WI,39,55,coef_age_clean
+4403,55059,"Kenosha County, Wisconsin",WI,59,55,coef_opioids_perperson
+4411,55063,"La Crosse County, Wisconsin",WI,63,55,coef_age_clean
+4413,55071,"Manitowoc County, Wisconsin",WI,71,55,coef_age_clean
+4420,55079,"Milwaukee County, Wisconsin",WI,79,55,coef_opioids_perperson
+4427,55087,"Outagamie County, Wisconsin",WI,87,55,coef_opioids_perperson
+4435,55101,"Racine County, Wisconsin",WI,101,55,coef_opioids_perperson
+4437,55105,"Rock County, Wisconsin",WI,105,55,coef_opioids_perperson
+4450,55127,"Walworth County, Wisconsin",WI,127,55,coef_opioids_perperson
+4456,55131,"Washington County, Wisconsin",WI,131,55,coef_opioids_perperson
+4464,55133,"Waukesha County, Wisconsin",WI,133,55,coef_opioids_perperson
+4466,55139,"Winnebago County, Wisconsin",WI,139,55,coef_opioids_perperson
+4473,55141,"Wood County, Wisconsin",WI,141,55,coef_percent_white
+4477,56021,"Laramie County, Wyoming",WY,21,56,coef_opioids_perperson
+4483,56025,"Natrona County, Wyoming",WY,25,56,coef_age_clean
