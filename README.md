@@ -1,4 +1,5 @@
 # Opioid Epidemic Analysis
+# This version of the site includes a react deployment of the scrollytelling site
 This project lays the foundation for visualization componetant of the CSE6242 Team Project.
 
 The main data set for this project can be downloaded from here: [arcos_all_washingtonpost](https://d2ty8gaf6rmowa.cloudfront.net/dea-pain-pill-database/bulk/arcos_all_washpost.tsv.gz).
